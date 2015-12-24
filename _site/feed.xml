@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alid Castano</title>
+    <description></description>
+    <link>http://alidcastano.com/</link>
+    <atom:link href="http://alidcastano.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 24 Dec 2015 13:06:49 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Dec 2015 13:06:49 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>First Post!</title>
+        <description>&lt;p&gt;Hello Alid!!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Dec 2015 09:47:05 -0500</pubDate>
+        <link>http://alidcastano.com/first-post</link>
+        <guid isPermaLink="true">http://alidcastano.com/first-post</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>How I created my blog</title>
+        <description>&lt;p&gt;This is how!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Dec 2015 09:47:05 -0500</pubDate>
+        <link>http://alidcastano.com/how-I-created-my-blog</link>
+        <guid isPermaLink="true">http://alidcastano.com/how-I-created-my-blog</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
