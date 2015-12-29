@@ -16,7 +16,7 @@ github_username:  alidcastano
 
 # Build settings
 markdown: kramdown
-permalink : :/title
+permalink: /:title
 excerpt_separator: <!--more-->
 
 
