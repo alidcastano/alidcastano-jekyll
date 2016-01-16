@@ -13,7 +13,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alidcastano.com" # the base hostname & protocol for your site
 twitter_username: alidcastano
 github_username:  alidcastano
-
+sass:
+  sass_dir: _sass
+  style: compressed
+  
 # Build settings
 markdown: kramdown
 permalink: /:title
