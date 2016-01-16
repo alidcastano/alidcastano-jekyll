@@ -145,6 +145,7 @@ DEPENDENCIES
   jekyll
   jekyll-compose
   jekyll-paginate
+  kramdown
 
 BUNDLED WITH
    1.11.2
