@@ -1,8 +1,7 @@
 ---
 title:  "Is it their fault, or yours?"
-date:   2015-7-15 
 categories: connection-and-influence
-tags: relationships 
+tags: responsibility  
 --- 
 My mother, I've noticed, has developed an acumen over the years for pointing out what I do wrong. In. Any. Situation.  
 
