@@ -5,7 +5,7 @@ tags: responsibility
 --- 
 My mother, I've noticed, has developed an acumen over the years for pointing out what I do wrong. In. Any. Situation.  
 
-Earlier this morning, we're both leaving Panera Bread. I stretch out the chest of my shirt and point at a small, orange mark on it. "Is this going to stain, Mom?" I ask. "I hate wearing white."
+Earlier this morning, we're both leaving Panera Bread. I stretch out the chest of my shirt and point at a small, orange mark on it. "Is this going to stain, Mom?" I asked. "I hate wearing white."
 
 "You hate being a pig, you mean!" she said. 
 
@@ -29,13 +29,13 @@ All upset, the last person we blame is ourselves. Your friend lied, so he lost y
 
 What if, for a change, instead of acting on, *Why does this happen to me?* you were to ask, *What did I do to cause this?*
 
-It wouldn't make the other person's actions any more right, no. But it would allow you to identify where your influence lies. Maybe you didn't show enough affection. Maybe you were too judgmental. Maybe you didn't do your part. 
+It wouldn't make the other person's actions any more right, no. But it would allow you to identify what role you played. Maybe you didn't show enough affection. Maybe you were too judgmental. Maybe you didn't do your part. 
 
-If you notice the same problems occurring, that maybe may be worth exploring. You might notice a pattern. Generally, that it is futile to expect someone to behave a certain way if you don't first align your actions with that expectation. 
+If you notice the same problems occurring, that maybe is worth exploring. You are likely to notice a pattern. Generally, that it is futile to expect someone to behave a certain way if you don't first align your actions with that expectation. 
 
-In my case, I'm still going to avoid wearing white; I'm not cut out for it. But, I will try to be more considerate with my dog, since I care about him. 
+In my case, I'm still going to avoid wearing white. I'm not cut out for it. But I will try to be more considerate with my dog, since I care about him. 
 
-In fact, for anyone or anything worth keeping around, I'm going to try to exercise my mother's judgment and pick out what I did wrong, first. 
+In fact, for anyone or anything worth keeping around, I'm going to try to exercise my mother's judgment and take responsibility for my faults, first. 
 
 I'm sure your parents also have an acumen for pointing out what you do wrong. So experiment with me. I hypothesize that, like magic, all our problems will start to change.  
 
