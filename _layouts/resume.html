@@ -5,8 +5,8 @@
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
-    <div id="resume-wrapper">
 
+  <div class="resume-wrapper">
       <header class="page-header">
 
         <img src="/img/alid-castano-2016.jpg" alt="my photo" class="avatar">
@@ -22,12 +22,14 @@
         </div>
 
         <div class="executive-summary">
-          <p> I am interested in <strong>Startups &amp; Personal Development</strong>. I am seeking to join a team of talented and passionate individuals with the mission of helping improve education, producitivty, or fitness. </p>
+          <p> I am interested in <strong>Startups &amp; Personal Development</strong>. I am seeking to join a team of talented and passionate individuals with the mission of helping improve education, producitivty, or fitness.
+
+          I like to think of myself as a mix between Tony Robbins, Paul Graham, and Arnold Schwarzengger. </p>
         </div>
-
-
       </header>
-
+  </div>
+  <div class="wrapper-color">
+  <div class="resume-large-wrapper">
        {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
@@ -45,7 +47,11 @@
 
         <div class="resume-skills-item">
           <h4 class="resume-item-title">Writer</h4>
-          <p class="resume-item-copy">I enjoy blogging.</p>
+          <p class="resume-item-copy">I enjoy blogging.
+          <br>
+          Popular Post: <a href="http://alidcastano.com/your-fault/"> Is it their fault, or yours? </a>
+          </p>
+         
         </div>
 
          <div class="resume-skills-item">
@@ -60,6 +66,10 @@
 
       </section>
       <!-- end Skills -->
+  </div>
+  </div>
+
+  <div class="resume-wrapper">
 
       {% if site.resume_section_experience %}
       <!-- begin Experience -->

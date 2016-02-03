@@ -5,6 +5,10 @@ categories: startups
 tag: audio-book
 --- 
 
+Derek Sivers on How to Create life You Want 
+Book: 
+Interview with Tim Ferris: 
+Questions to email: 
 Notes: 
 
 

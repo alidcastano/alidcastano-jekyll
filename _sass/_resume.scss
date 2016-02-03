@@ -4,7 +4,7 @@
 
 // util
 
- #resume-wrapper  {
+ .resume-wrapper  {
     max-width: -webkit-calc(#{$resume-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$resume-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
@@ -21,6 +21,35 @@
     }
 }
 
+.resume-large-wrapper {
+    max-width: -webkit-calc(#{$resume-large-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$resume-large-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$resume-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$resume-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+    text-align: center;
+    @include outer-container;
+
+    .resume-skills-item {
+    @extend .resume-item;
+    @include span-columns(4);
+
+  }
+
+}
+
+.wrapper-color {
+  background: #e5ecff;
+}
 
 .section-header {
   @include section_border;
@@ -128,18 +157,12 @@
 
 .content-section {
   margin: 0 0 3rem;
-  @include outer-container;
 
   .resume-item { 
     margin-bottom: 2rem; 
     display: inline-block;
   }
 
-  .resume-skills-item {
-    @extend .resume-item;
-    @include span-columns(4);
-
-  }
   
 
 
