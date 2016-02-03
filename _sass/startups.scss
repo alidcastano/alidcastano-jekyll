@@ -1,6 +1,6 @@
 
 
-.wrapper {
+.container {
 	max-width: -webkit-calc(#{$screen-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$screen-width} - (#{$spacing-unit} * 2));
     margin: 20px auto;
