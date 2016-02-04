@@ -12,40 +12,32 @@ Till this day, I remember our first conversation about college. My mom summoned 
 
 My brothers and I stared at her blankly. It wasn't until we opened the folders that we realized: she had printed out the harvard admissions page. 
 
-We didn't know whether to take her seriously. We were yet to finish middle school. 
+We didn't know if she was serious. My brothers and I were still in middle school.
 
 "A little too much time on your hands, mom?" I said, flipping through the pages.  
 
 “Sure mom. That easy," my brother Juan said. He pointed at the acceptance rate, which read 6.8%.
 
-We all began to poke fun. But despite our remarks, our mother insisted. All my brothers and I wanted was to go back to playing video games, so we amused her and took the folders. 
+Despite our ensuing remarks, our mother insisted. So we amused her and took the folders. 
 
-It was that day, the memory of my brothers and I laughing at our Mom for believing in us, that I thought about, five years later, as we applied to colleges and as admission decisions arrived. I never thought she'd prove us wrong: My brother Juan was accepted into Harvard. 
+That day, as we laughed at her for believing in us, never would I have expected she'd prove us wrong. Five years later, my brother Juan was accepted into Harvard.
 
-This experience marked a powerful lesson for me about the power of beliefs. Except I'm still unclear about who, or what, I was meant to believe in. Myself or college? 
+This experience redefined my beliefs about what I thought possible. But it's also made me question a system society blindly accepts. Why college? I don't mean to say that Harvard, or any college, isn't a worthy achievement. But, unless success is guaranteed by a diploma, it is only a means to a promising life. Why didn’t my mom print out Steve Jobs’ Wikipedia page, instead? 
 
-If my mother knew success is a matter of preperation and conviction, why didn’t my mom demand more from us? I don't mean to say that Harvard, or any college, is not a worthy achievement. But, unless success is guaranteed by a diploma, it is only a means to a promising life, and not the only option. So why didn’t my mom print out Steve Jobs’ Wikipedia page, instead? 
+Is college necessary? It gives the necessary credentials for some carreers, sure. But what about for those of us pursuing other paths that don't require them? There's nothing special about college that, with discipline and without debt, you couldn't get another way. 
 
-Because my mom, like most parents, thinks of college as a necessary ingridient to success. As if there was something magical about it. I think it is because they've been tricked, in the same way one would be impressed by a magic trick. People see some grand finale but discount the behind the scences preperation that led to it, so they call it magic. 
+People, however, don't realize this. We put more faith in college than we do ourselves. We've been tricked. 
 
-Imagine a coin trick, as an example. The same way a magician uses pretend movements as distractions, schools have students moving around, from classes to meetings, mimicking others. Parents lose their money and kids believe there’s some unknown force at work when in reality they’re the ones doing all the work.
+College is one big coin trick. To make a coin dissapear a magician uses pretend movements as distractions. Schools, similarly, have students moving around, from classes to meetings to parties, mimicking others, as their parent's money dissapears, or debt escelates. Everyone is led believe there is some unknown force at work worth the cost. 
 
-Let's not turn the college dream into an illusion. It is not the system at work here. College is not hogwarts. Whether the trick works or fails—the final outcome—is because of you.
+Except it's not the system at work. It's you. There's nothing magical about college. Self-education is as powerful and, today, more possible than ever. You could invest that same effort allocated to school--all your time, money, and energy used cram for exams and fix up your resume--into the real world. Imagine where many young, intelligent, ambitious young people would be if that happened. (There are, of course, a few outliers that already give us a hint of what’s possible.)
 
-Which leaves the question, is college necessary? For some careers, yes. But that doesn’t make it the only option for other paths. There's nothing special about college that, with more effort but less debt, you couldn't get some other way. Except a diplomma. I'm not discounting its importance in society. But I just don't think it as the only form of insurance policy, as it is so often called. And neither should you. 
+How should you decide which path to take? The most partical advice I've come across is: [become so good they can't ignore you][]. If you think college can aid with what that entails for you, test it out. Otherwise, believe in yourself and dare to explore other options. 
 
-When we treat college as necessary, motives become misaligned. Students who could benefit from going view college simply as the next step in the process and not question their purpose for going, squandering most of their time there as a result. And students who could flourish from testing other paths are [corced into going to college][], spending their time there in dissalusioment. 
-
-Worse of all, students put their sole focus on doing better at what matters in that bubble of what is college. Concerned about their GPA, students look for easy classes over interesting or challening ones. Concerned for their reputation, they take risks or question the norm. 
-
-I'm not saying these are the only way to behave in college. But, from experience, I know it will be the default behavior you fall into if you don't question your ultiamte goal for going. 
-
-What should be your ultimate goal? In the most general sense, to [become so good they can't ignore you][]. If you think college can aid with what that entails for you, attend. Otherwise, dare to consider other options. Self-education is as powerful and, today, more possible than ever. 
-
-Imagine where many young, intelligent, ambitious young people would be if, instead of using all their time, money, and energy to cram for exams and fix up their resume, they invested all their effort into the real world. There are, of course, a few outliers that already give us a hint of what’s possible.
+And, whatever you do, remember, whether the trick works or fails, the final outcome, depends on you.
 
 
 [become so good they can't ignore you]: http://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=sr_1_1?ie=UTF8&qid=1454529562&sr=8-1&keywords=so+good+they+can%27t+ignore+you
 
-<!--[don't get into their dream college]:college-prestige.com-->
-[corced into going to college]:college-forced.com
+
+

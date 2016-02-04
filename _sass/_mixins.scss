@@ -5,6 +5,13 @@
 
     
 
+
+
+
+
+
+// block elements 
+
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
   -moz-border-radius: $radius;
@@ -16,6 +23,27 @@
 	-moz-box-shadow: 0 0 0 3px $color, 0 0 0 4px #e5f0ff, 0 2px 5px 4px rgba(0,0,0,.2);
 	box-shadow: 0 0 0 3px $color, 0 0 0 4px #e5f0ff, 0 2px 5px 4px rgba(0,0,0,.2);
 }
+
+
+// child elements 
+@mixin new-width($amount) {
+    position: relative;
+    width: 100vw;
+    left: calc(-50vw + 50%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // Use media queries like this:

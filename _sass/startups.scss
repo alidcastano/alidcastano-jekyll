@@ -1,11 +1,22 @@
 
 
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/*
 .container {
 	max-width: -webkit-calc(#{$screen-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$screen-width} - (#{$spacing-unit} * 2));
     margin: 20px auto;
     padding: 0 $spacing-unit;
 }
+*/
+
 
 .intro {
 	@include outer-container;
@@ -26,7 +37,6 @@
     display: block;
     margin: 0 auto;
   }
-
 }
 
 
