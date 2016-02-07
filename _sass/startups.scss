@@ -61,29 +61,6 @@ html {
   }
 }
 
-/*
-.icon-links {
-  margin: 0;
-  padding: 0;
-  
-  text-align: center;
-  padding-top: .4rem;
-
-  @include media_larger_than_mobile {
-    float: right;
-    border-top: none;
-    padding-top: 0;
-  }
-
-  .icon-link-item {
-    display: inline-block;
-    margin-left: 5px;
-  }
-
-  
-}
-*/
-
 	.intro-middle {
 	 	@include span-columns(3);
 
@@ -170,7 +147,7 @@ html {
 }
 
 .contact-button {
-  position:fixed; top:6%; right:3%;
+  position:fixed; top:6%; right:2.5%;
   @include border-radius(3px);
   @include box-shadow(#fff, $baby-blue);
   font-family: $oxygen;
@@ -181,7 +158,7 @@ html {
   text-decoration: none;
   text-align: center;
   display: block;
-  width: 175px;
+  width: 140px;
   @include transition(all .2s ease);
 
   &:hover {
