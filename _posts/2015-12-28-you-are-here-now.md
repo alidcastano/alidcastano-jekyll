@@ -23,7 +23,7 @@ By focusing all my effort on the external result (emptying out my room) rather t
 
 While I was reading, Be Here Now, there was a passage that particularly stuck out to me. I didn't realize why, until now. It was about how all the people who travel to India in hopes of meeting Yogi who will change their life, often end up disappointed. They travel all that way only to learn, as the book says, "Where you are going is HERE and you will arrive NOW." 
 
-Like the muddled traveler, I mistook my ideal surroundings for who I wanted to become. No matter how much I try, there's an internal aspect to change that can't be faked or rushed. 
+Like the muddled traveler, I mistook my ideal surroundings for who I wanted to become. No matter how much I try, I've realized there's an internal aspect to change that can't be faked or rushed. 
 
 My first attempt at minimalism, sadly, turned into a room makeover. But the experience helped me realize: I am where I need to be. And so are you. So let's stop rushing or pretending to be anywhere else. :)
 

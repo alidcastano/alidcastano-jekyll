@@ -1,14 +1,21 @@
 // Site Mixins 
 // ---------------------------------------/
 
-@import "mixins-resume";
 
-    
+// Clears floats via mixin (avoid using as a class).
 
+@mixin clearfix {
+  &:before {
+    display: table;
+    content: "";
+  }
 
-
-
-
+  &:after {
+    display: table;
+    clear: both;
+    content: "";
+  }
+}
 
 // block elements 
 
@@ -18,11 +25,19 @@
   border-radius: $radius;
 }
 
-@mixin box-shadow($color) {
-	-webkit-box-shadow: 0 0 0 3px $color, 0 0 0 4px #e5f0ff, 0 2px 5px 4px rgba(0,0,0,.2);
-	-moz-box-shadow: 0 0 0 3px $color, 0 0 0 4px #e5f0ff, 0 2px 5px 4px rgba(0,0,0,.2);
-	box-shadow: 0 0 0 3px $color, 0 0 0 4px #e5f0ff, 0 2px 5px 4px rgba(0,0,0,.2);
+@mixin transition($value) {
+  -webkit-transition: $value;
+  -moz-transition: $value;
+  transition: $value;
 }
+
+@mixin box-shadow($border, $shade) {
+	-webkit-box-shadow: 0 0 0 3px $border, 0 0 0 4px $shade, 0 2px 5px 4px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 0 0 3px $border, 0 0 0 4px $shade, 0 2px 5px 4px rgba(0,0,0,.2);
+	box-shadow: 0 0 0 3px $border, 0 0 0 4px $shade, 0 2px 5px 4px rgba(0,0,0,.2);
+}
+
+
 
 
 // child elements 
@@ -34,8 +49,23 @@
 
 
 
+// media querie tools
 
+@mixin media_max($screen_width) {
+  @media (max-width: $screen_width) { @content; }
+}
 
+@mixin media_min($screen_width) {
+  @media (min-width: $screen_width) { @content; }
+}
+
+@mixin media_larger_than_mobile {
+  @media (min-width: 600px) { @content; }
+}
+
+@mixin media_mobile {
+  @media (max-width: 600px) { @content; }
+}
 
 
 
