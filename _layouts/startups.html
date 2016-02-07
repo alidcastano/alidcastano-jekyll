@@ -1,8 +1,9 @@
 
 <!DOCTYPE html>
 <html>
-	
+
 	{% include head.html %}
+
 	<body>
 
 		<div class="container">
@@ -18,16 +19,12 @@
 		 		<div class="intro-middle">
 			        <img src="/img/alid-castano-2016.jpg" alt="my photo" class="avatar">
 		        </div>
-
-
+			   
 		        <div class="intro-right">
-			        <h2> Hi, <strong> Triplebyte</strong>, <img src="/img/startups/triplebyte.png" alt="startup" class="startup-logo"></h2>
-			        <p> Your seeking a smart generalist? I'm your guy. I've advised engineers in how to best pitch their startup ideas and can translate this experience to interviews. I know basic programming, so I can contribute ideas and quickly prototypes them. I even help build and maintain your blog, if you like. 
-			        <br>
-			        <br>
-			        As an early hire, I'd be ready to do whatever needs to get done. All I want is to be a part of something great; I'd love to join you guys.
-					 </p>
+			        <h2> Hi, <strong> {{ page.title }}</strong>, <img src="/img/startups/{{ page.title }}.png" alt="startup" class="startup-logo"></h2>
+			        {{ content }}
 			    </div>
+			    
 
 		   	</header>
 
