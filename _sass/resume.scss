@@ -117,8 +117,6 @@ html {
       .mini-bio { font-size: 1em !important; }
     }
 
- /* why is this here */
-
   @include media_mobile_to_half {
     .intro-left {  
       @include shift(.5); 
@@ -133,6 +131,12 @@ html {
   @include media_mobile_to_full {
     .intro-left {  @include span-columns(6); }
     .intro-right { @include span-columns(6); }
+   }
+
+   @include media_mobile_smaller {
+      .avatar { width: 115px !important; }
+      .name { font-size: 2em !important; }
+      .mini-bio { font-size: .75em !important; }
    }
 
 }
