@@ -113,6 +113,8 @@ html {
   }
   @include media_mobile {
     .intro-right { @include shift(1); }
+    .avatar { width: 125px; }
+    .name { font-size: 2em; }
   }
 }
 
@@ -154,7 +156,7 @@ html {
      }
     .resume-image-med {
       @extend .resume-image;
-      width: 150px;
+      width: 140px;
     }
   }
     @include media_mobile {
