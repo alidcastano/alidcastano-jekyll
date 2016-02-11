@@ -41,14 +41,12 @@ defaults:
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
+  resume_website_url:           "http://alidcasta.com"
   resume_github_url:            "https://github.com/alidcastano"
-  resume_twitter_url:           "http://twitter.com/alidcastano"
+  #resume_twitter_url:           "http://twitter.com/alidcastano"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/alidcastano"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://alidcasta.com"
 
-# Design settings
-resume_theme:                   default
 
