@@ -26,21 +26,21 @@ html {
   .personal-bar { 
     @include span-columns(6 of 12);
     position: relative;
-    top: 8.5em;
+    top: 6em;
     left: .75em;
     text-align: center;
 
     .name {
       font-family: $oxygen;
-      font-size: 2.5em;
+      font-size: 2.125em;
       letter-spacing: -.075em;
       margin-bottom: -.25em;
     }
-
+    .mini-bio { font-size: .8em;}
   }
 
   .avatar {
-    width: 175px;
+    width: 130px;
     max-width: 100%;
     @include border-radius(100px);
     @include box-shadow(#fff, #c7c7c7);
@@ -113,8 +113,6 @@ html {
   }
   @include media_mobile {
     .intro-right { @include shift(1); }
-    .avatar { width: 125px; }
-    .name { font-size: 2em; }
   }
 }
 
