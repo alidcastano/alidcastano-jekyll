@@ -135,7 +135,7 @@ html {
    }
 
    @include media_mobile_smaller {
-      .avatar { width: 100px !important; }
+      .avatar { width: 80px !important; }
       .name { font-size: 1.75em !important; }
       .mini-bio { font-size: .75em !important; }
    }
