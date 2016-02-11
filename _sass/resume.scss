@@ -109,6 +109,7 @@ html {
 
   @include media_mobile {
     .intro-right { @include shift(1); }
+    .avatar { right: 1.75em !important;}
   }
 
   @include media_larger_than_mobile {
@@ -134,7 +135,6 @@ html {
    }
 
    @include media_mobile_smaller {
-      .intro-left { background-color: blue; }
       .avatar { width: 100px !important; }
       .name { font-size: 1.75em !important; }
       .mini-bio { font-size: .75em !important; }
