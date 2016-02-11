@@ -129,17 +129,16 @@ html {
     }
 
   .section-intro {
-    @include span-columns(3);
-    @include shift(.25); 
-
+    @include span-columns(12); 
+    
     h4 {
       font-size: 1.1em;
     }
   }
 
   .section-description {
-    @include span-columns(7);
-    @include shift(.25); 
+    @include span-columns(10);  
+
 
     h3 {
       font-size: 1.25em;
@@ -158,6 +157,21 @@ html {
       width: 150px;
     }
   }
+    @include media_mobile {
+      .section-description { @include shift(1); }
+    }
+    @include media_larger_than_mobile { 
+      .section-intro { 
+        @include span-columns(3);
+        @include shift(.25); 
+
+      }
+      .intro-description { 
+        @include span-columns(7);
+        @include shift(.25); 
+      }
+  }
+  
 }
 
 @include media_larger_than_mobile { 
