@@ -2,6 +2,7 @@
 
 html {
   box-sizing: border-box;
+
 }
 
 *, *:before, *:after {
@@ -20,18 +21,35 @@ html {
   @include box-shadow(#fff, $baby-blue);
 
   .intro-left {
-    @include span-columns(3);
+    @include span-columns(12);
+
+  .personal-bar { 
+    @include span-columns(6 of 12);
     position: relative;
     top: 8.5em;
     left: .75em;
     text-align: center;
 
-  .name {
-    font-family: $oxygen;
-    font-size: 2.5em;
-    letter-spacing: -.075em;
-    margin-bottom: -.25em;
+    .name {
+      font-family: $oxygen;
+      font-size: 2.5em;
+      letter-spacing: -.075em;
+      margin-bottom: -.25em;
     }
+
+  }
+
+  .avatar {
+    width: 175px;
+    max-width: 100%;
+    @include border-radius(100px);
+    @include box-shadow(#fff, #c7c7c7);
+    display: block;
+    float: right;
+    margin: 1em auto 1em auto;
+    position: relative;
+    right: 1.25em;
+  }
 
   .social-bar {
     position: relative;
@@ -61,21 +79,9 @@ html {
   }
 }
 
-	.intro-middle {
-	 	@include span-columns(3);
-
-    .avatar {
-      width: 175px;
-      max-width: 100%;
-      @include border-radius(100px);
-      @include box-shadow(#fff, #c7c7c7);
-      display: block;
-      margin: 1em auto 1em auto;
-    }
-  }
 
 	.intro-right {
-		@include span-columns(6);
+		@include span-columns(11);
     @include box-shadow(#fff, #c7c7c7);
     padding: 1.25em;
     margin-bottom: 2em;
@@ -101,8 +107,16 @@ html {
       }
     }
 	}
+  @include media_larger_than_mobile { 
+    .intro-left { @include span-columns(6);  }
+    .intro-right { @include span-columns(6);  }
+  }
+  @include media_mobile {
+    .intro-right { @include shift(1); }
+  }
 }
-  
+
+
 .resume {
   @include box-shadow(#fff, $baby-blue);
   margin: 1.5em auto;
@@ -146,23 +160,25 @@ html {
   }
 }
 
-.contact-button {
-  position:fixed; top:6%; right:2.5%;
-  @include border-radius(3px);
-  @include box-shadow(#fff, $baby-blue);
-  font-family: $oxygen;
-  color: #333;
-  font-weight: 500;
-  font-size: 1.375rem;
-  line-height: 55px;
-  text-decoration: none;
-  text-align: center;
-  display: block;
-  width: 140px;
-  @include transition(all .2s ease);
+@include media_larger_than_mobile { 
+  .contact-button {
+      position:fixed; top:6%; right:2.5%;
+      @include border-radius(3px);
+      @include box-shadow(#fff, $baby-blue);
+      font-family: $oxygen;
+      color: #333;
+      font-weight: 500;
+      font-size: 1.375rem;
+      line-height: 55px;
+      text-decoration: none;
+      text-align: center;
+      display: block;
+      width: 140px;
+      @include transition(all .2s ease);
 
-  &:hover {
-    background-color: $baby-blue;
-  }
+      &:hover {
+        background-color: $baby-blue;
+      }
 
+    }
 }

@@ -55,9 +55,6 @@
   @media (max-width: $screen_width) { @content; }
 }
 
-@mixin media_min($screen_width) {
-  @media (min-width: $screen_width) { @content; }
-}
 
 @mixin media_larger_than_mobile {
   @media (min-width: 600px) { @content; }
