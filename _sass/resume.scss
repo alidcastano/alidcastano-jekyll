@@ -135,8 +135,8 @@ html {
 
    @include media_mobile_smaller {
       .intro-left { background-color: blue; }
-      .avatar { width: 115px !important; }
-      .name { font-size: 2em !important; }
+      .avatar { width: 100px !important; }
+      .name { font-size: 1.75em !important; }
       .mini-bio { font-size: .75em !important; }
    }
 
