@@ -61,7 +61,6 @@ html {
       opacity: 0.5;
       padding: .4em;
       margin: 0 1.25em 0 1.25em;
-
       list-style: none;
 
        .icon-link-item {
@@ -107,15 +106,36 @@ html {
       }
     }
 	}
-  @include media_larger_than_mobile { 
-    .intro-left { @include span-columns(6);  }
-    .intro-right { @include span-columns(6);  }
-  }
+
   @include media_mobile {
     .intro-right { @include shift(1); }
   }
-}
 
+  @include media_larger_than_mobile {
+      .avatar { width: 175px !important; }
+      .name { font-size: 2.5em !important; }
+      .mini-bio { font-size: 1em !important; }
+    }
+
+ /* why is this here */
+
+  @include media_mobile_to_half {
+    .intro-left {  
+      @include shift(.5); 
+      @include span-columns(10); 
+    }
+    .intro-right { 
+      @include shift(1); 
+      @include span-columns(10); 
+    }
+  }
+
+  @include media_mobile_to_full {
+    .intro-left {  @include span-columns(6); }
+    .intro-right { @include span-columns(6); }
+   }
+
+}
 
 .resume {
   @include box-shadow(#fff, $baby-blue);
@@ -130,6 +150,12 @@ html {
 
   .section-intro {
     @include span-columns(12); 
+
+    @include media_larger_than_mobile {
+      @include shift(.25);
+      @include span-columns(3.5);
+    }
+
     
     h4 {
       font-size: 1.1em;
@@ -137,8 +163,16 @@ html {
   }
 
   .section-description {
-    @include span-columns(10);  
+    @include span-columns(10);
+    
+    @include media_mobile {
+      @include shift(1);
+    }  
 
+    @include media_larger_than_mobile {
+      @include span-columns(-.5);
+      @include span-columns(7);
+    }
 
     h3 {
       font-size: 1.25em;
@@ -149,7 +183,7 @@ html {
       float: right;
       position: relative;
       width: 75px; 
-      left: calc(4vw + 4%);
+      left: calc(3vw + 3%);
 
      }
     .resume-image-med {
@@ -157,21 +191,6 @@ html {
       width: 140px;
     }
   }
-    @include media_mobile {
-      .section-description { @include shift(1); }
-    }
-    @include media_larger_than_mobile { 
-      .section-intro { 
-        @include span-columns(3);
-        @include shift(.25); 
-
-      }
-      .intro-description { 
-        @include span-columns(7);
-        @include shift(.25); 
-      }
-  }
-  
 }
 
 @include media_larger_than_mobile { 

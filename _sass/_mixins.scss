@@ -55,13 +55,20 @@
   @media (max-width: $screen_width) { @content; }
 }
 
+@mixin media_mobile {
+  @media (max-width: 600px) { @content; }
+}
 
 @mixin media_larger_than_mobile {
   @media (min-width: 600px) { @content; }
 }
 
-@mixin media_mobile {
-  @media (max-width: 600px) { @content; }
+@mixin media_mobile_to_half {
+  @media (min-width: 601px) and (max-width: 850px) { @content; }
+}
+
+@mixin media_mobile_to_full {
+  @media (min-width: 851px) { @content; }
 }
 
 
