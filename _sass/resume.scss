@@ -32,15 +32,20 @@ html {
 
     .name {
       font-family: $oxygen;
-      font-size: 2.125em;
+      @include media_mobile_only { font-size: 1.5em; }
+      font-size: 2.15em;
       letter-spacing: -.075em;
       margin-bottom: -.25em;
     }
-    .mini-bio { font-size: .8em;}
+    .mini-bio { 
+      @include media_mobile_only { font-size: .5em; }
+      font-size: .8em;
+    }
   }
 
   .avatar {
-    width: 130px;
+    @include media_mobile_only { width: 100px; }
+    width: 125px;
     max-width: 100%;
     @include border-radius(100px);
     @include box-shadow(#fff, #c7c7c7);
@@ -109,7 +114,6 @@ html {
 
   @include media_mobile {
     .intro-right { @include shift(1); }
-    .avatar { right: 1.75em !important;}
   }
 
   @include media_larger_than_mobile {
@@ -133,13 +137,6 @@ html {
     .intro-left {  @include span-columns(6); }
     .intro-right { @include span-columns(6); }
    }
-
-   @include media_mobile_smaller {
-      .avatar { width: 80px !important; }
-      .name { font-size: 1.75em !important; }
-      .mini-bio { font-size: .75em !important; }
-   }
-
 }
 
 .resume {
@@ -149,9 +146,7 @@ html {
   display: inline-block;
 
 
-    h2 {
-      font-size: 2em;
-    }
+    h2 { font-size: 2em; }
 
   .section-intro {
     @include span-columns(12); 
@@ -162,9 +157,7 @@ html {
     }
 
     
-    h4 {
-      font-size: 1.1em;
-    }
+    h4 { font-size: 1.1em; }
   }
 
   .section-description {

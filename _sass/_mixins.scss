@@ -55,6 +55,10 @@
   @media (max-width: $screen_width) { @content; }
 }
 
+@mixin media_mobile_only {
+  @media (max-width: 380px) { @content; }
+}
+
 @mixin media_mobile {
   @media (max-width: 600px) { @content; }
 }
@@ -71,9 +75,7 @@
   @media (min-width: 851px) { @content; }
 }
 
-@mixin media_mobile_smaller {
-  @media (max-width: 568px) { @content; }
-}
+
 
 
 
