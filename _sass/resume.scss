@@ -45,7 +45,7 @@ html {
   }
 
   .avatar {
-    @include media_mobile_only { width: 80px; }
+    @include media_mobile_only { width: 90px; }
     width: 125px;
     max-width: 100%;
     @include border-radius(100px);
