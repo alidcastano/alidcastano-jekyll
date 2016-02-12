@@ -29,6 +29,7 @@ html {
     top: 6em;
     left: .75em;
     text-align: center;
+    @include media_mobile_only {top: 5em; }
 
     .name {
       font-family: $oxygen;
@@ -44,7 +45,7 @@ html {
   }
 
   .avatar {
-    @include media_mobile_only { width: 100px; }
+    @include media_mobile_only { width: 80px; }
     width: 125px;
     max-width: 100%;
     @include border-radius(100px);
@@ -71,6 +72,7 @@ html {
        .icon-link-item {
         display: inline-block;
         margin-left: 5px;
+        @include media_mobile_only { width: 1.125em; margin-left: 1px; }
       }
 
       .icon-link { 
@@ -82,7 +84,6 @@ html {
     }
   }
 }
-
 
 	.intro-right {
 		@include span-columns(11);
