@@ -2,13 +2,15 @@
 
 html {
   box-sizing: border-box;
-
 }
 
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
+body {
+      background-color: #ebf0fa;
+}
 .container {
 	max-width: -webkit-calc(#{$screen-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$screen-width} - (#{$spacing-unit} * 2));
@@ -19,6 +21,7 @@ html {
 .intro {
 	@include outer-container;
   @include box-shadow(#fff, $baby-blue);
+    background-color: white;
 
   .intro-left {
     @include span-columns(12);
@@ -143,6 +146,7 @@ html {
 }
 
 .resume {
+  background-color: white;
   @include box-shadow(#fff, $baby-blue);
   margin: 1.5em auto 0 auto;
   padding: 1em;
