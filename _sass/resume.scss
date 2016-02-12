@@ -54,6 +54,7 @@ html {
     float: right;
     margin: 1em auto 1em auto;
     position: relative;
+    @include media_mobile_only { right: 2em; }
     right: 1.25em;
   }
 
@@ -111,6 +112,7 @@ html {
         }
       }
     }
+    @include media_mobile_only { .greeting { font-size: 1.25em; } }
 	}
 
   @include media_mobile {
