@@ -45,7 +45,7 @@ html {
   }
 
   .avatar {
-    @include media_mobile_only { width: 90px; }
+    @include media_mobile_only { width: 85px; }
     width: 125px;
     max-width: 100%;
     @include border-radius(100px);
@@ -122,7 +122,7 @@ html {
   @include media_larger_than_mobile {
       .avatar { width: 175px !important; }
       .name { font-size: 2.5em !important; }
-      .mini-bio { font-size: 1em !important; }
+      .mini-bio { font-size: .95em !important; }
     }
 
   @include media_mobile_to_half {
@@ -144,7 +144,7 @@ html {
 
 .resume {
   @include box-shadow(#fff, $baby-blue);
-  margin: 1.5em auto;
+  margin: 1.5em auto 0 auto;
   padding: 1em;
   display: inline-block;
 
@@ -159,8 +159,8 @@ html {
       @include span-columns(3.5);
     }
 
-    
     h4 { font-size: 1.1em; }
+
   }
 
   .section-description {
@@ -192,27 +192,58 @@ html {
       width: 140px;
     }
   }
+
+  .trial-run { 
+    text-align: center; 
+    h1 { font-weight: 500; }
+    @include media_mobile { h1 { font-size: 1.3em;} }
+  }
+
+  .contact-button-footer {
+    margin: 0 auto;
+    @include border-radius(3px);
+    @include box-shadow(#fff, $baby-blue);
+    font-family: $oxygen;
+    color: #333;
+    font-weight: 500;
+    font-size: 1.375rem;
+    line-height: 45px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 140px;
+    @include transition(all .2s ease);
+
+    &:hover {
+      background-color: $baby-blue;
+    }
+  }
 }
 
 @include media_larger_than_mobile { 
-  .contact-button {
-      position:fixed; top:6%; right:2.5%;
-      @include border-radius(3px);
-      @include box-shadow(#fff, $baby-blue);
-      font-family: $oxygen;
-      color: #333;
-      font-weight: 500;
-      font-size: 1.375rem;
-      line-height: 55px;
-      text-decoration: none;
-      text-align: center;
-      display: block;
-      width: 140px;
-      @include transition(all .2s ease);
+  .contact-button { 
+    margin: 0 auto;
+    @include border-radius(3px);
+    @include box-shadow(#fff, $baby-blue);
+    font-family: $oxygen;
+    color: #333;
+    font-weight: 500;
+    font-size: 1.375rem;
+    line-height: 45px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 140px;
+    @include transition(all .2s ease);
 
-      &:hover {
-        background-color: $baby-blue;
-      }
-
+    &:hover {
+      background-color: $baby-blue;
     }
+  }
 }
+
+@include media_mobile { .contact-button { display: none; }
+}
+
+
+
