@@ -21,6 +21,7 @@ body {
 .intro {
 	@include outer-container;
   @include box-shadow(#fff, $baby-blue);
+  @include border-radius(5px);
     background-color: white;
 
   .intro-left {
@@ -91,7 +92,8 @@ body {
 
 	.intro-right {
 		@include span-columns(11);
-    @include box-shadow(#fff, #c7c7c7);
+    @include box-shadow(#fff, $baby-blue);
+    @include border-radius(3px);
     padding: 1.25em;
     margin-bottom: 2em;
     position: relative;
@@ -148,6 +150,7 @@ body {
 .resume {
   background-color: white;
   @include box-shadow(#fff, $baby-blue);
+  @include border-radius(5px);
   margin: 1.5em auto 0 auto;
   padding: 1em;
   display: inline-block;
