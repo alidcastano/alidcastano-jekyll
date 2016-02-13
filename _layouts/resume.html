@@ -5,96 +5,95 @@
 	{% include head.html %}
 
 	<body>
+		<div class="resume-container">
+			<div class="resume-wrapper">
 
-		<div class="container">
+				<header class="intro"> 	
+			 	   <div class="intro-left">
+			 	   		<div class="personal-bar">
+					        <h1 class="name">Alid Castano</h1>
+					         <h4 class="mini-bio"> Writer, Speaker, Developer</h4>
+					        <div class="social-bar">  {% include icon-links.html %} </div>
+					        <a href="mailto:alidcastano@gmail.com" class="contact-button">Contact me</a>
+				        </div>
+				        <img src="/img/alid-castano-2016.jpg" alt="my photo" class="avatar">
+				    </div>
+				   
+			        <div class="intro-right">
+				        <h2 class="greeting"> Hi, <strong> {{page.title}}</strong>, <img src={{page.logo}} alt="startup" class="startup-logo"></h2>
+				        {{ content }}
+				    </div>
+			   	</header>
 
-			<header class="intro"> 	
+				<div class="resume">
 
-		 	   <div class="intro-left">
-		 	   		<div class="personal-bar">
-				        <h1 class="name">Alid Castano</h1>
-				         <h4 class="mini-bio"> Writer, Speaker, Developer</h4>
-				        <div class="social-bar">  {% include icon-links.html %} </div>
-				        <a href="mailto:alidcastano@gmail.com" class="contact-button">Contact me</a>
-			        </div>
-			        <img src="/img/alid-castano-2016.jpg" alt="my photo" class="avatar">
-			    </div>
-			   
-		        <div class="intro-right">
-			        <h2 class="greeting"> Hi, <strong> {{page.title}}</strong>, <img src={{page.logo}} alt="startup" class="startup-logo"></h2>
-			        {{ content }}
-			    </div>
-			    
+					<h2>  Get to know me: </h2>
 
-		   	</header>
+					<div class="section-intro">
+						<h4> 4 years that shaped me: </h4>
+					</div>
+					<div class="section-description">
+						<img src="/img/upenn-logo.png" alt="upenn logo" class="resume-image">
+						<h3> <strong> Student, University of Pennsylvania </strong> </h3>
+						<p> School has been my day job. My studies have focused on Cognitive Science, with a minor in Consumer Psychology. My goal has been to understand the mind of humans and computers, so to better leverage their influence. </p>
+					</div>
 
-			<div class="resume">
 
-				<h2>  Get to know me: </h2>
+					<div class="section-intro">
+						<h4> 3 skills that define me: </h4>
+					</div>
 
-				<div class="section-intro">
-					<h4> 4 years that shaped me: </h4>
+			        <div class="section-description">
+			          <h3><strong>Advisor</strong></h3>
+			          <p> I've worked 1-on-1 with student entrepreneurs, helping them improve their presentations and speaking skills, and have given workshops to clubs and classrooms of 25+ people. Last fall, I booked two speaking engagements with the <a href="http://www.jlc.org/">Juvenile Law Center's</a> Youth Fostering Change (YFC) and Juveniles for Justice (J4J) programs. </p>
+
+
+			          <h3><strong>Blogger</strong></h3>
+			          <p>I have experience working with Wordpress and Jekyll, which I recently switched over to. Read my latest post, <a href="http://alidcastano.com/their-fault-or-yours"> Is it their fault, or yours?</a>, if you'd like an idea of who I am and how I write. </p>
+
+			          <h3><strong>Hacker</strong></h3>
+			          <p> I've learned the fundamentals of Computer Science at Penn and self-taught myself front end. I haven't created any awesome projects, yet. But I've prototyped a project idea,<a href="http://studbits.bitballoon.com/demo-webclip"> Studbits</a> (excuse the mess), and, more recently, put together this responsive resume. Incase you're interested, my current stack is: HTML/CSS, Sass/Bourbon/Neat, Foundation, Javascript, Ruby (in progress).
+			          </p>
+
+			      	</div>
+
+					<div class="section-intro">
+						<h4> 2 roles I've learned from: </h4>
+					</div>
+					<div class="section-description">
+						<img src="/img/cwic-logo.jpg" alt="upenn job" class="resume-image">
+						<h3> <strong>Speaking Advisor</strong>, CWiC</h3>
+						<p> I've worked as an affiliated advisor for an Entrepreneurship Entreprenuership course and advised students on how to improve their presentation skills and pitch to investors. I've taught workshops on communication anxiety, organization, visual aids, and other topics. And I've also helped schedule and conduct interviews for applicants interested in becoming new advisors. </p>
+
+						<img src="/img/meno-logo.png" alt="first startup" class="resume-image">
+						<h3><strong>Co-founder & CEO</strong>, Meno  </h3>
+						<p> I was tired of asking, "What's good here?" at restaurants. So I, along with two other team members, created Meno, an app that helps users to discover the best menu options wherever they go. Ultimately, the venture failed. But the experience taught me how to implement a bplan and how to pitch to investors. And, most importantly, as my team split apart, I learned the importance of seeking the right qualities in a founding team.</p>
+					</div>
+
+
+					<div class="section-intro">
+						<h4> 1 fun fact about me: </h4>
+					</div>
+					<div class="section-description">
+						<img src="/img/quadruplet.jpg" alt="fun fact" class="resume-image-med">
+						<h3> <strong> I'm a quadruplet </strong></h3>
+						<p> I've learned how to succeed in a small team dynamic since birth. In high school, for example, my brothers and I held the four top positions in Student Government. "The Castano Dictatorship," students called it.</p>
+					</div>
+					
 				</div>
-				<div class="section-description">
-					<img src="/img/upenn-logo.png" alt="upenn logo" class="resume-image">
-					<h3> <strong> Student, University of Pennsylvania </strong> </h3>
-					<p> School has been my day job. My studies have focused on Cognitive Science, with a minor in Consumer Psychology. My goal has been to understand the mind of humans and computers, so to better leverage their influence. </p>
-				</div>
 
-
-				<div class="section-intro">
-					<h4> 3 skills that define me: </h4>
-				</div>
-
-		        <div class="section-description">
-		          <h3><strong>Advisor</strong></h3>
-		          <p> I've worked 1-on-1 with student entrepreneurs, helping them improve their presentations and speaking skills, and have given workshops to clubs and classrooms of 25+ people. Last fall, I booked two speaking engagements with the <a href="http://www.jlc.org/">Juvenile Law Center's</a> Youth Fostering Change (YFC) and Juveniles for Justice (J4J) programs. </p>
-
-
-		          <h3><strong>Blogger</strong></h3>
-		          <p>I have experience working with Wordpress and Jekyll, which I recently switched over to. Read my latest post, <a href="http://alidcastano.com/their-fault-or-yours"> Is it their fault, or yours?</a>, if you'd like an idea of who I am and how I write. </p>
-
-		          <h3><strong>Hacker</strong></h3>
-		          <p> I've learned the fundamentals of Computer Science at Penn and self-taught myself front end. I haven't created any awesome projects, yet. But I've prototyped a project idea,<a href="http://studbits.bitballoon.com/demo-webclip"> Studbits</a> (excuse the mess), and, more recently, put together this responsive resume. Incase you're interested, my current stack is: HTML/CSS, Sass/Bourbon/Neat, Foundation, Javascript, Ruby (in progress).
-		          </p>
-
-		      	</div>
-
-				<div class="section-intro">
-					<h4> 2 roles I've learned from: </h4>
-				</div>
-				<div class="section-description">
-					<img src="/img/cwic-logo.jpg" alt="upenn job" class="resume-image">
-					<h3> <strong>Speaking Advisor</strong>, CWiC</h3>
-					<p> I've worked as an affiliated advisor for an Entrepreneurship Entreprenuership course and advised students on how to improve their presentation skills and pitch to investors. I've taught workshops on communication anxiety, organization, visual aids, and other topics. And I've also helped schedule and conduct interviews for applicants interested in becoming new advisors. </p>
-
-					<img src="/img/meno-logo.png" alt="first startup" class="resume-image">
-					<h3><strong>Co-founder & CEO</strong>, Meno  </h3>
-					<p> I was tired of asking, "What's good here?" at restaurants. So I, along with two other team members, created Meno, an app that helps users to discover the best menu options wherever they go. Ultimately, the venture failed. But the experience taught me how to implement a bplan and how to pitch to investors. And, most importantly, as my team split apart, I learned the importance of seeking the right qualities in a founding team.</p>
-				</div>
-
-
-				<div class="section-intro">
-					<h4> 1 fun fact about me: </h4>
-				</div>
-				<div class="section-description">
-					<img src="/img/quadruplet.jpg" alt="fun fact" class="resume-image-med">
-					<h3> <strong> I'm a quadruplet </strong></h3>
-					<p> I've learned how to succeed in a small team dynamic since birth. In high school, for example, my brothers and I held the four top positions in Student Government. "The Castano Dictatorship," students called it.</p>
-				</div>
-				
+				<div class="resume"> 
+					<div class="trial-run">
+						<h1> How about a trial run? </h1>
+						<p> I understand how crucial the first few hires are to the success of a startup. If there is anything you are unsure I can handle, I'd be more than willing to give the position a trial run for a few weeks to prove my ability. If you have any tasks or projects you need to be completed, contact me and I'll get them done; no strings attached. 
+						</p>
+						<br>
+						 <a href="mailto:alidcastano@gmail.com" class="contact-button-footer">Contact me</a>
+						<br>
+					</div>
+				<div>
 			</div>
-
-			<div class="resume"> 
-				<div class="trial-run">
-					<h1> How about a trial run? </h1>
-					<p> I understand how crucial the first few hires are to the success of a startup. If there is anything you are unsure I can handle, I'd be more than willing to give the position a trial run for a few weeks to prove my ability. If you have any tasks or projects you need to be completed, contact me and I'll get them done; no strings attached. 
-					</p>
-					<br>
-					 <a href="mailto:alidcastano@gmail.com" class="contact-button-footer">Contact me</a>
-					<br>
-				</div>
-			<div>
+		</div>
 	</body>
 
 </html>
