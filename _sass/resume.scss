@@ -11,6 +11,7 @@ html {
 body {
       background-color: #ebf0fa;
 }
+
 .container {
 	max-width: -webkit-calc(#{$screen-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$screen-width} - (#{$spacing-unit} * 2));
