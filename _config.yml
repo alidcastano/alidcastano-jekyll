@@ -10,9 +10,7 @@ author:
   name:              Alid Castano
   email:             alidcastano@gmail.com
   avatar:            img/avatar.jpg
-
-
-
+ 
 # Build settings
 markdown:            kramdown
 permalink:           /:title
