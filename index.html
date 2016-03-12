@@ -1,27 +1,26 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="home">
+<div class="home-page">
+  
+  {% include mini-bio.html %}
 
-  <h1 class="page-heading">Posts</h1>
-
-   <!-- display any post avialable: show title, date, excert-->
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-      </li>
-      {{ post.excerpt }}
+  <h1> Newest Articles </h1>
+  <div class="posts">
+    {% for post in site.posts limit: 4 %}
+    <article class="post">
+      <h3 class="post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h3>
+    </article>
     {% endfor %}
-  </ul>
-  <!-- end posts list -->
+  </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  <div class="see-more"> 
+    <a href="/archives">See all articles</a>
+  </div>
 </div>

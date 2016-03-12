@@ -1,0 +1,88 @@
+// 
+// styles for site header and subsequent navigation bar 
+//
+
+
+.fixed-banner {
+  background-color: #fff;
+  max-width: $media-width;
+  height: 6%;
+  @include bp-medium { height: 8%; }
+  @include bp-large { height: 10%; }
+  position: fixed;
+  top: 0;
+  left: 3%;
+  right: 3%;
+  margin-left:  auto;
+  margin-right: auto;
+  z-index: 2;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  @include bp-medium { font-size: 1.9rem; }
+  @include bp-large { font-size: 2.5rem; }
+  height: 100%;
+  max-width: 100%;
+  color: $gray-4;
+  position: absolute;
+  top: 5%;
+  @include bp-large { left: 8%; }
+  margin-top: 0;
+  margin-bottom: 0;
+  float: left;
+  @include dim-effect(.6, 1);
+
+  a {
+    color: inherit;
+  }
+
+
+  small {
+    display: inline-block;
+    font-size: 50%; 
+    font-weight: 400;
+    opacity: .5;
+    position: relative;
+    bottom: 4%; 
+    @include bp-medium { bottom: 6%; }
+    @include bp-large {  bottom: 8%;  }
+  }
+}
+
+/*
+.get-updates {
+  color: $gray-4;
+  margin-top: 0;
+  margin-bottom: 0;
+  float: right;
+  position: absolute;
+  right: 8%;
+  @include bp-large { right: 9%; }
+  padding-top: 1.25rem;
+  text-decoration: underline;
+  @include dim-effect(.5, 1);
+} 
+*/
+
+// added to header on scroll 
+.scroll-nav {
+  transition: all 0.5s;
+  height: 6%;
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  @include box-shadow(0 3px 5px -4px $gray-2);
+
+  .get-updates {
+    padding-top: .35rem;
+    padding-bottom: .35rem;
+  }
+
+  .site-title {
+    padding-top: .35rem; 
+    padding-bottom: .35rem;
+    font-size: 1.25rem; 
+    small { display: none; }
+  }
+}

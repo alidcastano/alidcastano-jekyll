@@ -1,33 +1,34 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Setup
+title:               Alid Castano
+tagline:             Fitness, Startups, & Personal Grownth
 
-# Site settings
-title: Alid Castano
-email: alidcastano.com
-description: > # This is my personal blog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://alidcastano.com" # the base hostname & protocol for your site
-twitter_username: alidcastano
-github_username:  alidcastano
-sass:
-  sass_dir: _sass
-  style: compressed
+url:                 http://alidcastano.com
+analytics_id:        ""
+
+# About/contact
+author:
+  name:              Alid Castano
+  email:             alidcastano@gmail.com
+  avatar:            img/avatar.jpg
+
+
 
 # Build settings
-markdown: kramdown
-permalink: /:title
-excerpt_separator: <!--more-->
+markdown:            kramdown
+permalink:           /:title
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+
+
 
 # Default settings
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
+      path: "" 
+      type: "posts" 
     values:
       layout: "post"
       author: Alid Castano
@@ -37,16 +38,4 @@ defaults:
       type: "pages" 
     values:
       layout: "page"
-
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_website_url:           "http://alidcastano.com"
-  resume_github_url:            "https://github.com/alidcastano"
-  #resume_twitter_url:           "http://twitter.com/alidcastano"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/alidcastano"
-  # resume_instagram_url:         "insert your Instagram URL here"
-
 

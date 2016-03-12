@@ -1,23 +1,11 @@
-// Site Mixins 
-// ---------------------------------------/
+//  
+// basic styles 
+//
 
-
-// Clears floats via mixin (avoid using as a class).
-
-@mixin clearfix {
-  &:before {
-    display: table;
-    content: "";
-  }
-
-  &:after {
-    display: table;
-    clear: both;
-    content: "";
-  }
+@mixin box-shadow($shadow...) { // $horizontal, $vertical (optional: $blur, $color, $inset)
+   -webkit-box-shadow: $shadow;
+   box-shadow: $shadow;
 }
-
-// block elements 
 
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
@@ -25,62 +13,93 @@
   border-radius: $radius;
 }
 
-@mixin transition($value) {
-  -webkit-transition: $value;
-  -moz-transition: $value;
-  transition: $value;
-}
 
-@mixin box-shadow($border, $shade) {
-	-webkit-box-shadow: 0 0 0 3px $border, 0 0 0 4px $shade, 0 2px 5px 4px rgba(0,0,0,.2);
-	-moz-box-shadow: 0 0 0 3px $border, 0 0 0 4px $shade, 0 2px 5px 4px rgba(0,0,0,.2);
-	box-shadow: 0 0 0 3px $border, 0 0 0 4px $shade, 0 2px 5px 4px rgba(0,0,0,.2);
+@mixin linear-gradient($direction, $color-stops...) {
+  background: nth(nth($color-stops, 1), 1);
+  background: -webkit-linear-gradient(legacy-direction($direction), $color-stops);
+  background: linear-gradient($direction, $color-stops);
 }
 
 
 
+//
+// effects 
+//
 
-// child elements 
-@mixin new-width($amount) {
-    position: relative;
-    width: 100vw;
-    left: calc(-50vw + 50%);
+@mixin transition($args...) {
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -ms-transition: $args;
+  -o-transition: $args;
+  transition: $args;
+}
+
+@mixin link-colors ($link, $visit, $hover, $active) {
+  a {
+    color: $link;
+    &:visited { color: $visit; }
+    &:hover { color: $hover; }
+    &:active { color: $active; }
+  }
 }
 
 
 
-// media querie tools
+@mixin dim-effect ($opacity-before, $opacity-after) {
+  opacity: $opacity-before;
+  @include transition(opacity 3s linear);
 
-@mixin media_mobile_only {
-  @media (max-width: 380px) { @content; }
-}
-
-@mixin media_mobile {
-  @media (max-width: 600px) { @content; }
-}
-
-@mixin media_larger_than_mobile {
-  @media (min-width: 600px) { @content; }
-}
-
-@mixin media_mobile_to_half {
-  @media (min-width: 601px) and (max-width: 850px) { @content; }
-}
-
-@mixin media_mobile_to_full {
-  @media (min-width: 851px) { @content; }
+  &:hover {
+    opacity: $opacity-after;
+     @include transition(all 2s ease);
+  }
 }
 
 
-@mixin media_max($screen_width) {
-  @media (max-width: $screen_width) { @content; }
-}
+//
+// animations
+//
 
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
+@mixin keyframes($animation-name) {
+    @-webkit-keyframes #{$animation-name} {
+        @content;
+    }
+    @-moz-keyframes #{$animation-name} {
+        @content;
+    }  
+    @-ms-keyframes #{$animation-name} {
+        @content;
+    }
+    @-o-keyframes #{$animation-name} {
+        @content;
+    }  
+    @keyframes #{$animation-name} {
         @content;
     }
 }
 
+@mixin animation($str...) {
+  -webkit-animation: #{$str};
+  -moz-animation: #{$str};
+  -ms-animation: #{$str};
+  -o-animation: #{$str};
+  animation: #{$str};      
+}
+
+
+// media queries
+//
+
+@mixin bp-small {
+  @media (min-width: $bp-small) { @content; }
+}
+
+@mixin bp-medium {
+  @media (min-width: $bp-medium) { @content; }
+}
+
+@mixin bp-large {
+  @media (min-width: $bp-large) { @content; } //larger than outer-container
+}
 
 

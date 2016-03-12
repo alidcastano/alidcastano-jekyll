@@ -1,0 +1,28 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+
+// reusable components
+@import "variables";
+@import "mixins";
+
+// core styles 
+@import "base";
+@import "type";
+@import "syntax";
+@import "code";
+@import "layout";
+
+// amenities 
+@import "features";
+@import "email-form";
+
+// theme styles
+@import "header";
+@import "mini-bio";
+@import "posts";
+@import "home";
+@import "archives";
+
+
