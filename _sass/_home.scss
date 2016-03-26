@@ -1,34 +1,76 @@
 
-.home-page {
-  @include linear-gradient(to top, $gray-1, $white 20%);
-  h1 {
-    padding-top: 1rem;
-    margin-bottom: 1rem;
-  }
-  .post {
-    padding-left: 1rem;
-    margin-bottom: 1rem;
-    text-decoration: underline;
-    @include link-colors($gray-4, $gray-4, $fill-color, $gray-4);
+.home {
+  margin-top: -3rem; // fixed header not include in home page 
+}
+
+.mini-intro {
+  max-width: 100%;
+  padding-bottom: 4rem;
+  margin-bottom: 4rem;
+
+  h1, p {
+    max-width: 72%;
+    float: left;
+    padding-right: .5rem;
   }
 
-  .see-more {
-    padding-left: 1rem;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
-    padding-bottom: 2rem;
-    text-decoration: underline;
-    a { 
-      color: $gray-2;
-      font-size: 1.5rem; 
-      &:hover {
-        color: $fill-color;
-        @include transition(all .2s ease);
-      }
+  h1 { 
+    border-bottom: 1px dashed $border-color;
+    padding-bottom: .5rem;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    @include bp-medium { font-size: 1.75rem; }
+    @include bp-large { font-size: 2.3rem; }
+    color: $gray-4; 
+    a:hover, a:visited {
+    color: inherit;
     }
   }
 
+
+  
+  .avatar {
+    float: right;
+    max-width: 28%;
+    @include border-radius(5%);
+    border: 3px solid $img-border-color;
+    @include box-shadow(1px -1px 6px 1px $img-shadow-color);
+    margin-top: 1rem;
+    @include bp-large { margin-top: 1.5rem; }
+    margin-bottom: 1rem;
+  }
 }
 
+
+.featured-posts {
+  display: block;
+
+  .post {
+    margin-bottom: -1rem; //undo default post margin 
+
+
+    a { 
+      color: $gray-5 !important;
+      &:visited { color: $visited-link-color !important; }
+    }
+  }
+
+  .see-archives  { 
+    color: $gray-2;
+    font-size: 1.25rem; 
+    text-decoration: underline;
+  }
+}
+
+.featured-projects {
+  ul {
+    padding-left: 0;
+  }
+  
+  ul ul {
+    margin-top: -.4rem;
+      padding-left: 1rem;
+  }
+}
 
 

@@ -1,0 +1,14 @@
+---
+title:  My Philosophy
+permalink: /my-philosophy
+---  
+
+<ul class="archives">
+  {% for page in site.philosophy %}
+  {% if page.category contains 'skills' %}
+  <li> 
+    <a href="{{ page.url }}"> {{ page.title }}</a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>

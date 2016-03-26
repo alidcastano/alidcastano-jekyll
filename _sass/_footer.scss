@@ -1,0 +1,54 @@
+.site-footer {
+  margin-top: 1rem;
+  padding-bottom: 2rem;
+  text-align: center;
+
+
+}
+
+.newsletter {
+  border-top: 1px solid $border-color;
+  padding-top: 1rem;
+}
+
+.mini-about {
+  background: linear-gradient(to bottom, $gradient-color, #fff 2%);
+  @include border-radius(5px);
+  text-align: left;
+  padding: 1rem;
+
+  h1 { 
+    font-size: 1.5rem; 
+  }
+
+  h1, p {
+    padding-left: 23%;
+  }
+  
+  .avatar {
+    max-width: 20%;
+    float: left;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    vertical-align: middle;
+    @include border-radius(45%);
+    border: 3px solid $img-border-color;
+    @include box-shadow(-1px 0 5px 2px $img-shadow-color);
+  }
+
+  a:visited {
+    color: $base-link-color;
+  }
+}
+
+
+.fade-in {
+  opacity: 1; 
+}
+
+.copyright {
+  text-align: center;
+  opacity: .5; 
+  margin-bottom: 1.5rem;
+}
+

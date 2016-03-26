@@ -1,11 +1,20 @@
-//  
-// basic styles 
+//
+// effects 
 //
 
-@mixin box-shadow($shadow...) { // $horizontal, $vertical (optional: $blur, $color, $inset)
-   -webkit-box-shadow: $shadow;
-   box-shadow: $shadow;
+@mixin clearfix {
+  &:before {
+    display: table;
+    content: "";
+  }
+
+  &:after {
+    display: table;
+    clear: both;
+    content: "";
+  }
 }
+
 
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
@@ -13,6 +22,10 @@
   border-radius: $radius;
 }
 
+@mixin box-shadow($shadow...) { // $horizontal, $vertical (optional: $blur, $color, $inset)
+   -webkit-box-shadow: $shadow;
+   box-shadow: $shadow;
+}
 
 @mixin linear-gradient($direction, $color-stops...) {
   background: nth(nth($color-stops, 1), 1);
@@ -20,11 +33,17 @@
   background: linear-gradient($direction, $color-stops);
 }
 
+// fade in on hover 
+@mixin dim-effect ($opacity-before, $opacity-after) {
+  opacity: $opacity-before;
+  @include transition(opacity 3s linear);
 
+  &:hover {
+    opacity: $opacity-after;
+     @include transition(all 2s ease);
+  }
+}
 
-//
-// effects 
-//
 
 @mixin transition($args...) {
   -webkit-transition: $args;
@@ -40,18 +59,6 @@
     &:visited { color: $visit; }
     &:hover { color: $hover; }
     &:active { color: $active; }
-  }
-}
-
-
-
-@mixin dim-effect ($opacity-before, $opacity-after) {
-  opacity: $opacity-before;
-  @include transition(opacity 3s linear);
-
-  &:hover {
-    opacity: $opacity-after;
-     @include transition(all 2s ease);
   }
 }
 
@@ -101,5 +108,3 @@
 @mixin bp-large {
   @media (min-width: $bp-large) { @content; } //larger than outer-container
 }
-
-

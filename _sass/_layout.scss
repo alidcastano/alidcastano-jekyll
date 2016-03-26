@@ -3,38 +3,20 @@
 // Styles for managing the structural hierarchy of the site.
 
 
-.outer-container {
-  max-width: $media-width; 
-  margin-left:  auto;
-  margin-right: auto;
-
-}
-
-.header {
-  margin-top: .5rem;
+header {
+  margin-top: 1rem;
 }
 
 
-.inner-container {
+.container {
   max-width: $content-width;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left:  1.5rem;
+  padding-right: 1.5rem;
+  margin-top: 5.25rem;
   margin-left:  auto;
   margin-right: auto;
 }
 
-.content {
-  margin-top: 3rem;
-  @include bp-medium { margin-top: 4rem; }
-  @include bp-large { margin-top: 5rem; }
+footer {
+  margin-bottom: 1rem;
 }
-
-
-.footer {
-  margin-bottom: 2rem;
-
-}
-
-
-
-

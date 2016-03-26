@@ -3,26 +3,25 @@
 # only main files contain this front matter, not partials.
 ---
 
-// reusable components
+// libraries and reusable components 
 @import "variables";
 @import "mixins";
 
-// core styles 
-@import "base";
-@import "type";
-@import "syntax";
-@import "code";
-@import "layout";
+// foundations
+@import "core/index";  
 
 // amenities 
-@import "features";
-@import "email-form";
+@import "accordion-tabs";
+@import "contact-form";
+@import "subscription-form";
 
-// theme styles
+
+// theme 
+@import "layout";
 @import "header";
-@import "mini-bio";
-@import "posts";
+@import "footer";
 @import "home";
+@import "posts";
 @import "archives";
-
+@import "capital";
 

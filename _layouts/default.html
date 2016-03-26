@@ -2,21 +2,22 @@
 <html lang="en">
 
   {% include head.html %}
-    <body>
 
-      <div class="outer-container">
-        {% include header.html %}
+  <body>
 
-        <div class="content inner-container"> 
-          <main>
-            {{ content }}
-          </main>
-        </div>
+    <div class="container content"> 
+      {% include header.html %}
 
-      </div>
+      <main>
+        {{ content }}
+      </main>
+    
+      {% include footer.html %}
+    </div>
 
-      <!-- {% include email-form.html %} -->
-      
-      {% include scripts.html %}
-    </body>
+    {% include email-form.html %}
+
+    {% include scripts.html %}
+  </body>
+
 </html>
