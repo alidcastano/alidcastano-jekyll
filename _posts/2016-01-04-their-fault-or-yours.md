@@ -1,7 +1,5 @@
 ---
-title:  "Is it their fault, or yours?"
-categories: personal-growth 
-tags: responsibility  
+title:  "Is it their fault, or yours?" 
 --- 
 My mother, I've noticed, has developed an acumen over the years for pointing out what I do wrong. And she'll do it whenever she can too.  
 

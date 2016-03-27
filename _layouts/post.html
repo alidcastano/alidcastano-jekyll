@@ -7,15 +7,12 @@ layout: default
   {{ content }}
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">Posted on {{ page.date | date_to_string }}.</time>
 
+  <div class="copyright"> 
+    <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
+  </div>
+
   {% include share-posts.html %}
 
-  <div class="read-next"> Read Next: 
-    {% if page.previous.url %}
-    <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
-    {% else if page.next.url %}
-    <a class="next-post" href="{{page.next.url}}">{{page.next.title}}</a>
-    {% else %}
-    {% endif %}
-  </div>
 </article>
+
 

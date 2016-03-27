@@ -1,6 +1,11 @@
 ---
 title:  How to "Stay Upwind" (or "how to work on hard problems")
+published: false
 --- 
+
+
+
+----
 
 (Mention Paul Graham)
 Aaron Schwartz, 

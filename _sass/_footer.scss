@@ -1,36 +1,57 @@
 .site-footer {
-  margin-top: 1rem;
-  padding-bottom: 2rem;
+  margin-top: 2.5rem;
   text-align: center;
+  position: relative;
+  width: 100%;
+}
 
+
+.read-next {
+  text-align: center;
+  font-size: .8rem;
+  border-top: 1px solid $border-color;
+  padding-top: 1rem;
+  margin-bottom: .5rem;
+
+  a { 
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: .25rem;
+   }
 
 }
 
 .newsletter {
-  border-top: 1px solid $border-color;
-  padding-top: 1rem;
+   text-align: center;
 }
+
 
 .mini-about {
   background: linear-gradient(to bottom, $gradient-color, #fff 2%);
   @include border-radius(5px);
   text-align: left;
   padding: 1rem;
-
-  h1 { 
-    font-size: 1.5rem; 
+  @include bp-large {
+    position: absolute;
+    left: -4%;
+    right: -4%;
   }
 
-  h1, p {
+  h2 {
+    padding-left: 1rem;
+  }
+  p {
     padding-left: 23%;
+    vertical-align: top;
   }
   
   .avatar {
-    max-width: 20%;
+    max-width: 18%;
     float: left;
-    margin-top: 1rem;
+    margin-top: .25rem;
     margin-right: 1rem;
-    vertical-align: middle;
+    vertical-align: top;
     @include border-radius(45%);
     border: 3px solid $img-border-color;
     @include box-shadow(-1px 0 5px 2px $img-shadow-color);
@@ -39,16 +60,15 @@
   a:visited {
     color: $base-link-color;
   }
-}
 
+  .social-profiles {
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+  }
+}
 
 .fade-in {
   opacity: 1; 
 }
 
-.copyright {
-  text-align: center;
-  opacity: .5; 
-  margin-bottom: 1.5rem;
-}
 

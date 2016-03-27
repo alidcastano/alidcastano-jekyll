@@ -1,18 +1,27 @@
 {% if page.footer != 'none' %}
 <footer class="site-footer fade-in" id="footer">
-  <p class="newsletter">Liked this post? <a href="#" id="trigger-form">
-  Join My Private Newsletter.</a></p>
+  <div class="read-next"> Read Next: 
+    {% if page.previous.url %}
+    <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
+    {% else if page.next.url %}
+    <a class="next-post" href="{{page.next.url}}">{{page.next.title}}</a>
+    {% else %}
+    {% endif %}
+  </div>
+
+   <p class="newsletter">Liked this post? <a href="#" id="trigger-form">
+  Join My Newsletter.</a></p> 
 
   <div class="mini-about">
+    <h2> About {{site.author.name}} </h2>
     <img src="{{site.author.avatar}}" alt="my photo" class="avatar">
 
     {% capture mini-bio %}{% include content/footer-mini-about.md %}{% endcapture %}
     {{ mini-bio | markdownify }} 
-  </div>
-</footer>
 
-<div class="copyright"> 
-  <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
-</div>
+    <div class="social-profiles"> Let's connect: <span> Twitter, Github </span> </div>
+  </div>
+
+</footer>
 {% endif %}
 

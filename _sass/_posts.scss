@@ -27,6 +27,7 @@
   margin-bottom: 1.5rem;
 }
 
+
 // Meta data line below post 
 .post-date {
   font-size: .75rem;
@@ -35,7 +36,6 @@
   padding-top: .75rem;
   padding-bottom: .75rem;
   color: #9a9a9a;
-  float: left;
 }
 
 
@@ -44,10 +44,11 @@
   a:hover { color: $hover-link-color; }
 }
 
+  
 .share-posts {
-  clear: both;
   padding-bottom: .5rem;
   font-size: .8rem;
+  float: left;
 
   a { 
     @include border-radius(5px);
@@ -62,16 +63,13 @@
 
 }
 
-.read-next {
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+.copyright {
+  float: right;
+  font-style: italic;
+  color: #9a9a9a;
   font-size: .8rem;
 
-  a { 
-    font-size: 1rem;
-    font-weight: bold;
-    text-decoration: underline;
-    margin-left: .25rem;
-   }
-
 }
+
+
+
