@@ -2,13 +2,24 @@
 title: Stay Upwind
 --- 
 
-Most career advice assumes you have a preexisting and unchanging dream or passion. But only a small amount of people made up their minds about that in high school. Most of us likely have only but a vague idea of what we want to do with our lives, and even that idea is constantly changing. 
 
-Accepting this, how can you best make decisions about your path forward?
+In [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html), Paul Graham transforms the typical "Standford Graduation speech" into practical advice he wish he had known.
+
+Since reading this essay my sophomore year, it has become a heuristic I use for any difficult decisions. I'd usually ask "Is this necessary?" and opt for the easier path. But now it is almost as if I can hear Paul Graham whisper, "Stay Upwind." I don't shy away from hard problems, anymore.
+
+Below is a condensed version of his essay. What I'm glad to have learned:
+
+---
+
+Most career advice is based on a lie. It presumes that you have, or need, a preexisting passion. Only then can you pursue the life you want.
+
+But life rarely works that way. Most of us only have a vague idea of what you want to do with your life, and even that idea is constantly changing. 
+
+Accepting this, how can you best decide your path forward?
 
 There's only one safe direction to go: Upwind. 
 
-As Paul Graham describes it in [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html):  
+The way you do that, as Paul Graham says, is you work forward from promising options: 
 
 >I propose instead that you don't commit to anything in the future, but just look at the options available now, and choose those that will give you the most promising range of options afterward.
 >
@@ -28,7 +39,7 @@ Use your level of concern to estimate the difficulty of the task. How comfortabl
 
 Think of hard as heavy, and treat your work like a workout. Focus on progressive overload. Add just enough difficulty to feel challenged but not so much that someone else needs to solve the problem for you. The ultimate aim being to progressively grow more comfortable under the pressure of hard problems.
 
-Even then, how can you be sure you'll enjoy the work? Instead of following your passion, follow what Graham identifies as the key ingredient to great work, curiosity: 
+Even then, how can you be sure you'll enjoy the work? You need what Graham identifies as the key ingredient to great work: 
 
 > Curiosity turns work into play. For Einstein, relativity wasn't a book full of hard stuff he had to learn for an exam. It was a mystery he was trying to solve....to do good work, what you need is a great curiosity about a promising question. 
 
@@ -38,6 +49,14 @@ In that respect, start working on what you care about now. Don't put your ambiti
 
 > I'd treat it like a day job... It means not being defined by it. I mean I wouldn't think of myself as a high school student, just as a musician with a day job as a waiter doesn't think of himself as a waiter. 
 
-So forget that you have any idea what you want to with your life. Embrace that you don't and prepare for the day that you might. Treat school as your day job. Follow a hard problem you've been curious about. Continue to work forward from promising situations; stay upwind. 
+So embrace that you don't know what you want to do with your life and prepare for the day that you might. 
+
+Treat school as your day job. 
+
+Instead of following your passion, follow hard problems you're curious about. 
+
+Instead of not giving up on your dreams, continue to work forward from promising situations. 
+
+Stay upwind. 
 
 
