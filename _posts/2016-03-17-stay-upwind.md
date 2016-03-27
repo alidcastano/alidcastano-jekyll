@@ -7,7 +7,7 @@ In [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html), Paul Graha
 
 Since reading this essay my sophomore year, it has become a heuristic I use for any difficult decisions. I'd usually ask "Is this necessary?" and opt for the easier path. But now it is almost as if I can hear Paul Graham whisper, "Stay Upwind." I don't shy away from hard problems, anymore.
 
-Below is a condensed version of his essay. What I'm glad to have learned:
+His essay shaped the way I make decisions. Below is a condensed version of the points that impacted me most. What I'm glad to have learned:
 
 ---
 
