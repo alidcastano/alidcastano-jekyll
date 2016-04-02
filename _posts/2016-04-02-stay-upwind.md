@@ -59,12 +59,12 @@ I'm higher upwind.
 
 Your best protection, as well, is to always work on hard problems. 
 
-Another way, is to think of hard as heavy. Approach your work as if it were a strenuous workout. Your are lifting weights with your brain. The problems you work on should be difficult enough that you fear failure but not so much that a spotter has to solve it for you. There has to be suspense, suspense that you can handle. 
+Another way, is to think of hard as heavy. Approach your work as if it were a strenuous workout. You're lifting weights with your brain. The problems you work on should be difficult enough that you fear failure but not so much that a spotter has to solve it for you. There has to be suspense, suspense that you can handle. 
 
 You want to grow progressively more comfortable under the pressure of hard problems. And, eventually, life will feel like light weight.
 
 
-## As a compass, follow of your curiosity
+## As a compass, follow your curiosity
 
 "They took the lifting platforms out of the gym." I said. "I can work with staff to try and bring them back." I was in a student government meeting and out of all the possible improvements we could lobby for, that was my suggestion. 
 
