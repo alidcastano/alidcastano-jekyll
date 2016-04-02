@@ -106,7 +106,7 @@ In that respect, start working on what you care about now. Far too many people p
 
 > Working at something as a day job doesn't mean doing it badly. It means not being defined by it. I mean I wouldn't think of myself as a high school student, just as a musician with a day job as a waiter doesn't think of himself as a waiter. And when I wasn't working at my day job I'd start trying to do real work.
 
-In this way, you will let your passion arise from the projects you finish on the side.
+In this way, your passion arise from the projects you finish on the side.
 
 > "Always produce" is also a heuristic for finding the work you love. If you subject yourself to that constraint, it will automatically push you away from things you think you're supposed to work on, toward things you actually like. "Always produce" will discover your life's work the way water, with the aid of gravity, finds the hole in your roof.
 
