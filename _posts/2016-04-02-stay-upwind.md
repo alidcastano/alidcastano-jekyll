@@ -21,13 +21,13 @@ Both of which were lies. And as I read Graham's essays, I could sense him callin
 
 >And that's one reason we like to believe in genius. It gives us an excuse for being lazy. If these guys were able to do what they did only because of some magic Shakespeareness or Einsteinness, then it's not our fault if we can't do something as good.
 
-Frankly, I didn't know if I would need calculus or not. But it was easy to convince myself I wouldn't, that I could avoid it. Now, whenever I deal with math, I always feel it necessary to clarify, "I never took calculus." Only to hear, "You don't need calculus for this, but it helps." 
+Frankly, I didn't know if I would need calculus or not. But it was easy to convince myself I wouldn't, that I could avoid it. Whenever I deal with math now, I feel it necessary to clarify, "I never took calculus." Only to hear, "You don't need calculus for this, but it helps." 
 
 Maybe I can survive without it. Now I don't have a choice. 
 
 Any decision you make out of fear, or laziness, the more you limit yourself. 
 
-So don't prematurely judge your ability. Beliefs are self-fulfilling. And don't pretend to know what what's necessary. Life will rarely work out the way you expect. You can never be over-prepared. 
+So don't prematurely judge your ability. Beliefs are self-fulfilling. And don't pretend to know what's necessary. Life will rarely work out the way you expect. You can never be over-prepared. 
 
 Which preludes the next question I used to wonder: If you don't know your passion, how do decide your path forward? 
 
