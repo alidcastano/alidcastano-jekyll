@@ -87,7 +87,9 @@ And your parents will support you, as long as your safely employed.
 
 >All parents tend to be more conservative for their kids than they would for themselves, simply because, as parents, they share risks more than rewards. If your eight year old son decides to climb a tall tree, or your teenage daughter decides to date the local bad boy, you won't get a share in the excitement, but if your son falls, or your daughter gets pregnant, you'll have to deal with the consequences.
 
-There's no point in staying upwind, however, only to be stuck with a wide range of options you dislike. So you have to make a conscious effort to not be swayed by the opinions of your parents, or the desire to make money, or prestige--or sheet inertia. 
+There's no point in staying upwind only to be stuck with a wide range of options you dislike, regardless of the justification. 
+
+Doing work you love is an upstream battle. You have to make a conscious effort to not be swayed by the opinions of your parents, or the desire to make money, or prestige--or sheet inertia. 
 
 Instead, follow your curiosity. It is what Graham identifies as the key to great work: 
 
