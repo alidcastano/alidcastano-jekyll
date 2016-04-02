@@ -46,9 +46,7 @@
 
   
 .share-posts {
-  padding-bottom: .5rem;
   font-size: .8rem;
-  float: left;
 
   a { 
     @include border-radius(5px);
@@ -63,13 +61,6 @@
 
 }
 
-.copyright {
-  float: right;
-  font-style: italic;
-  color: #9a9a9a;
-  font-size: .8rem;
-
-}
 
 
 

@@ -7,10 +7,6 @@ layout: default
   {{ content }}
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">Posted on {{ page.date | date_to_string }}.</time>
 
-  <div class="copyright"> 
-    <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
-  </div>
-
   {% include share-posts.html %}
 
 </article>

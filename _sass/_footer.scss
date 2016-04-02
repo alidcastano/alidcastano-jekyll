@@ -1,5 +1,5 @@
 .site-footer {
-  margin-top: 2.5rem;
+  margin-top: 1rem;
   position: relative;
   width: 100%;
 }
@@ -9,7 +9,7 @@
   text-align: center;
   font-size: .8rem;
   border-top: 1px solid $border-color;
-  padding-top: 1rem;
+  padding-top: 1.5rem;
   margin-bottom: .5rem;
 
   a { 
@@ -23,6 +23,7 @@
 
 .newsletter {
    text-align: center;
+   padding-bottom: .5rem;
 }
 
 .mini-about {
@@ -66,13 +67,22 @@
 }
 
 .back-home {
+  float: left;
   font-size: .8rem;
   &:before {
     content: "← "
   }
+}
 
+.copyright {
+  float: right;
+  color: #9a9a9a;
+  font-size: .8rem;
+  opacity: .75;
+  margin-bottom: 2rem;
 
 }
+
 
 
 .fade-in {

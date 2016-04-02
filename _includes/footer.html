@@ -13,6 +13,11 @@
   Join My Newsletter.</a></p> 
 
   <a href="/" class="back-home">Back Home</a></p> 
+
+  <div class="copyright"> 
+    <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
+  </div>
+
   <!--
   <div class="mini-about">
     <h2> About {{site.author.name}} </h2>
