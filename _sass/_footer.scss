@@ -1,6 +1,5 @@
 .site-footer {
   margin-top: 2.5rem;
-  text-align: center;
   position: relative;
   width: 100%;
 }
@@ -25,7 +24,6 @@
 .newsletter {
    text-align: center;
 }
-
 
 .mini-about {
   background: linear-gradient(to bottom, $gradient-color, #fff 2%);
@@ -67,8 +65,19 @@
   }
 }
 
+.back-home {
+  font-size: .8rem;
+  &:before {
+    content: "← "
+  }
+
+
+}
+
+
 .fade-in {
   opacity: 1; 
 }
+
 
 
