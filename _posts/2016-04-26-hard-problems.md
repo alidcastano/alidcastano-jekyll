@@ -3,8 +3,6 @@ title:  How to "Stay Upwind" (or "how to work on hard problems")
 published: false
 --- 
 
-
-
 ----
 
 (Mention Paul Graham)
@@ -16,8 +14,6 @@ creative and brilleant guy
 who was involved in the developedment of RSS and Reddit 
 
 In HOWTO: Be more productive (http://www.aaronsw.com/weblog/productivity), Aaron Schwartz, who detailed several useful ways to make better use of time. 
-
-
 
 
 

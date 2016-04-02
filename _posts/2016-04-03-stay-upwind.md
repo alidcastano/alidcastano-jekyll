@@ -1,5 +1,6 @@
 ---
 title: What if you don't know your passion?
+
 ---
 
 Paul Graham's two essays, [How to Do What You Love](http://www.paulgraham.com/love.html) and [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html), are the best life advice I've ever received. These last few years it has been my heuristic for any difficult decisions. Below is the advice I found most useful:
