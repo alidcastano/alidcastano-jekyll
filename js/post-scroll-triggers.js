@@ -32,3 +32,34 @@ $(window).on("load",function() {
     });
   }); $(window).scroll(); //invoke scroll-handler on page-load
 });
+
+/*
+
+$(function() {
+    $("#subscription-form").submit(function(e) {
+      e.preventDefault();
+      $.ajax({
+        url: '//formspree.io/' + '{{site.author.email}}', 
+        method: "POST",
+        data: $(this).serialize(),
+        dataType: "json",
+        success: function(data){
+          $("#submit-success").fadeIn();
+          //$("#subscription-form").fadeOut();
+
+          //clear all fields
+          $('#subscription-form').trigger("reset");
+        },
+        error: function(){
+          // Fail message
+         $("#submit-errors").fadeIn();    
+
+          //clear all fields
+          $('#subscription-form').trigger("reset");
+        }
+      });
+    });
+});
+
+
+*/
