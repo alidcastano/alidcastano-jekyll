@@ -31,7 +31,7 @@
   <meta property="article:author" content="{{ site.fb_admins }}">
   {% endif %}
   <meta property="og:image"
-        content="{% if page.image %}/img/posts/{{ page.image }}
+        content="{% if page.image %}{{ site.url }}/img/posts/{{ page.image }}
                   {% else %}/img/profile-pic.jpg{% endif %}" >
 
   <!-- Twitter cards metadatas -->
@@ -46,8 +46,7 @@
                 {% else %}{{ content | raw_content }}{% endif %}
                 {{ description | strip_html | condense_spaces | truncate:300 }}">
   <meta name="twitter:image:src" 
-        content="{% if page.image %}/img/posts/{{ page.image }}{% endif %}">
-  
+        content="{% if page.image %}{{ site.url }}/img/posts/{{ page.image }}{% endif %}">
   {% endif %}
 
 
