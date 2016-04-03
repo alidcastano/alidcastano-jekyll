@@ -2,9 +2,7 @@
 title: The best life advice I ever received
 ---
 
-Do yourself a favor and invest 25 minutes of your time to read Paul Graham's essay, [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html). It is the most practical and robust life advice I've ever come across. For the last few years it has been my heuristic for difficult decisions. 
-
-Below are the insights that impacted me most, what I'm glad to have learned:
+Do yourself a favor and invest 25 minutes of your time to read Paul Graham's essay, [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html). It is the most practical and robust life advice I've ever come across, and will completely transformed the way you think and make decisions, as it did for me. Below are the insights that impacted me most, what I'm glad to have learned:
 
 ---
 
@@ -52,7 +50,7 @@ As he describes it:
 > 
 >Flying a glider is a good metaphor here. Because a glider doesn't have an engine, you can't fly into the wind without losing a lot of altitude. If you let yourself get far downwind of good places to land, your options narrow uncomfortably. As a rule you want to stay upwind. 
 
-I've been learning programming for more than 6 months now. I feel as if I have a new superpower. If tomorrow I get another idea for a startup, I don't have to spend weeks searching for a programmer. I can prototype the idea and validate it myself, within days. 
+I've been learning programming for more than 6 months now. I feel as if I have a new superpower. If tomorrow I get another idea for a startup, I don't have to spend weeks searching for a programmer. I can prototype the idea and validate it myself, within days.
 
 It doesn't matter, I've realized, if I can become the best programmer or not. Even if a problem takes me longer to solve. Or if I get a worse grade. What matters at is that I'm a better version of myself at the end.
 
@@ -60,4 +58,6 @@ I'm higher upwind.
 
 Your best protection, as well, is to lay on the safe side of hard problems. 
 
-Think of hard as heavy and approach your work like a strenuous workout. As you grow progressively more comfortable under the pressure of hard problems, eventually, life will feel like light weight.
+Think of hard as heavy and approach your work like a strenuous workout. As you progressively grow more comfortable under the pressure of hard problems, eventually, life will feel like light weight.
+
+Thank you Paul Graham, for helping me realize that.
