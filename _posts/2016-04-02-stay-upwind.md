@@ -20,13 +20,15 @@ Both of which were lies. And as I read Graham's essay, I could sense him calling
 
 >And that's one reason we like to believe in genius. It gives us an excuse for being lazy. If these guys were able to do what they did only because of some magic Shakespeareness or Einsteinness, then it's not our fault if we can't do something as good.
 
-Frankly, I didn't know if I would need calculus or not. But it was easy to convince myself I wouldn't, that I could avoid it. Whenever I deal with math now, I feel it necessary to clarify, "I never took calculus." Only to hear, "You don't need calculus for this, but it helps." 
+Frankly, I didn't know if I would need calculus or not. But it was easy to convince myself I wouldn't, that I could avoid it. That, however, did not mean it wouldn't effect me. 
+
+Whenever I deal with math now, I feel it necessary to clarify, "I never took calculus." Only to hear, "You don't need calculus for this, but it helps." 
 
 Maybe I can survive without it. Now I don't have a choice. 
 
 Any decision you make out of fear, or laziness, the more you limit yourself. 
 
-Beliefs are self-fulfilling. Don't prematurely judge your ability, you'll never prove yourself wrong. And don't pretend to know what's necessary. Life will rarely work out the way you expect. Only when you accept this, will you benefit from the advice up next. 
+Beliefs are self-fulfilling. Don't prematurely judge your ability, cause you'll never prove yourself wrong. And don't pretend to know what's necessary. Life will rarely work out the way you expect. Only when you accept this, will you benefit from the advice up next. 
 
 ## Only one direction to go: Upwind
 
@@ -34,7 +36,7 @@ Fall semester of my sophomore year I got this random food app idea. I decided to
 
 And, unlike Steve Jobs, I was not friends with any Steve Wozniaks. I spent three unsuccessful weeks trying to find a technical co-founder. It was debilitating to realize: my success was entirely dependent on the off chance that a talented programmer would fall on my lap and code my idea. 
 
-"Should I learn to code?" The only thing I knew about programming courses is how hard and time consuming they are, because everyone complains about it. I pictured the kid who started playing with computers when he was 9. I could never compete with him. And lingering in the back of my mind was the fact that I didn't take calculus, ergo, I sucked at math. 
+"Should I learn to code?" The only thing I knew about programming courses is how hard and time consuming they are, because everyone complained about them. I pictured the kid who started playing with computers when he was 9. I could never compete with him. And lingering in the back of my mind was the fact that I didn't take calculus, ergo, I sucked at math. 
 
 I was doing it again. Letting my fears get the best of me. 
 
@@ -50,7 +52,7 @@ As he describes it:
 
 I've been learning programming for more than 6 months now. I feel as if I have a new superpower. If tomorrow I get another idea for a startup, I don't have to spend weeks searching for a programmer. I can prototype the idea and validate it myself, within days. 
 
-It doesn't matter, I've realized, if I can become the best programmer or not. Even if a problem takes me longer to solve. Or if I get a worse grade. What matters is that I'm a better version of myself.
+It doesn't matter, I've realized, if I can become the best programmer or not. Even if a problem takes me longer to solve. Or if I get a worse grade. What matters at is that I'm a better version of myself at the end.
 
 I'm higher upwind. 
 
