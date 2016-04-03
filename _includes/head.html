@@ -10,9 +10,8 @@
     {% endif %}
   </title>
 
-
+  {% if page.type == "posts" %}
   <!-- facebook Open Graph Metadatas -->
-
   <meta property="fb:admins" content="{{ site.fb_admins }}">
   <meta property="fb:app_id" content="{{ site.fb_appid }}">
   <meta property="og:site_name" content="{{ site.title }}">
@@ -35,12 +34,9 @@
         content="{% if page.image %}/img/posts/{{ page.image }}
                   {% else %}/img/profile-pic.jpg{% endif %}" >
 
-
   <!-- Twitter cards metadatas -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="{{ site.twitter_handle }}">
-  <meta name="twitter:creator" content="{{ site.twitter_handle }}">
-
   <meta name="twitter:title" 
         content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:url" 
@@ -51,6 +47,9 @@
                 {{ description | strip_html | condense_spaces | truncate:300 }}">
   <meta name="twitter:image:src" 
         content="{% if page.image %}/img/posts/{{ page.image }}{% endif %}">
+  
+  {% endif %}
+
 
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
