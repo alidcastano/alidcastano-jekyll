@@ -1,6 +1,7 @@
 ---
 title: Believe in yourself, above all (even college)
 image: coin-trick.jpg
+thanks: Leena Heiman and Jamie Castano
 ---
 
 Till this day, I remember the first time my mom talked to my brothers and I about college. She summoned all four of us to the living room for another "family meeting." We see her enter the room with four bulky, crimson folders, eagerly staring at us. 

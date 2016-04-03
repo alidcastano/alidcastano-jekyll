@@ -11,6 +11,10 @@ layout: default
   {% endif %}
 
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">Posted on {{ page.date | date_to_string }}.</time>
+  
+  {% if page.thanks %}
+  <p class="thanks-to">(Thanks to {{ page.thanks }} for reading drafts of this.)</p>
+  {% endif %}
 
   {% include share-posts.html %}
 

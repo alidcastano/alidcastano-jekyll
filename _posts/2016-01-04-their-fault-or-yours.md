@@ -1,6 +1,7 @@
 ---
 title:  "Is it their fault, or yours?" 
 image: 99-problems.png
+thanks: Leena Heiman and Moises Castano
 --- 
 My mother, I've noticed, has developed an acumen over the years for pointing out what I do wrong. And she'll do it whenever she can too.  
 

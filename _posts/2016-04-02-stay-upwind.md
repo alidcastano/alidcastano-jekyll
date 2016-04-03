@@ -1,6 +1,7 @@
 ---
 title: The best life advice I ever received
 image: stay-upwind.jpg
+thanks: Moises Castano and Jamie Castano
 ---
 
 Do yourself a favor and invest 25 minutes of your time to read Paul Graham's essay, [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html). It is the most practical and robust life advice I've ever come across, and will completely transformed the way you think and make decisions, as it did for me. Below are the insights that impacted me most, what I'm glad to have learned:

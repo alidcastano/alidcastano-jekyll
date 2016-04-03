@@ -33,8 +33,6 @@
   font-size: .75rem;
   font-style: italic;
   display: block;
-  padding-top: .75rem;
-  padding-bottom: .75rem;
   color: #9a9a9a;
 }
 
@@ -44,7 +42,10 @@
   a:hover { color: $hover-link-color; }
 }
 
-  
+.thanks-to {
+  @extend .post-date;
+}
+
 .share-posts {
   font-size: .8rem;
 
@@ -58,9 +59,7 @@
     padding: .25rem;
 
   }
-
 }
-
 
 
 

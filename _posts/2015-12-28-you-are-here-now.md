@@ -1,6 +1,7 @@
 ---
 title:  "You are where you need to be"
 image: just-be.jpg
+thanks: Leena Heiman, Moises Castano, and Jamie Castano
 --- 
 My first attempt at letting go of attachment was an expensive one. I had finished reading, *[Be Here Now]()*. I started it reading because the book had a profound impact on Steve Jobs--and now, after reading it, on me as well. A feeling inside pressed upon me to be more conscious, less attached, more Zen. 
 
