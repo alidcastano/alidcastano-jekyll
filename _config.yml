@@ -11,7 +11,10 @@ author:
   avatar:              img/avatar.jpg 
   profile-pic:         img/profile-pic.jpg
 
-
+# Social Sharing
+fb_admins:          https://www.facebook.com/alidcastano
+fb_appid:           996066143804182
+twitter_handle:     alidcastano
 
 # Build settings
 markdown:            kramdown
