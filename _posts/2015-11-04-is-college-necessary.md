@@ -1,7 +1,11 @@
 ---
+
 title: Believe in yourself, above all (even college)
 image: coin-trick.jpg
+quote: |
+    "Formal education will make you a living &#59; self-education will make you a fortune." - Jim Rohn
 thanks: Leena Heiman and Jamie Castano
+
 ---
 
 Till this day, I remember the first time my mom talked to my brothers and I about college. She summoned all four of us to the living room for another "family meeting." We see her enter the room with four bulky, crimson folders, eagerly staring at us. 

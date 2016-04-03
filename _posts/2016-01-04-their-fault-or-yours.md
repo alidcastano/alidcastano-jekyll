@@ -1,8 +1,13 @@
 ---
-title:  "Is it their fault, or yours?" 
+
+title:  Is it their fault, or yours?
 image: 99-problems.png
+quote: |
+    “Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.” - Viktor Frankl
 thanks: Leena Heiman and Moises Castano
+
 --- 
+
 My mother, I've noticed, has developed an acumen over the years for pointing out what I do wrong. And she'll do it whenever she can too.  
 
 Earlier this morning, for example, my dog, Rocky, pooped inside my room. I mildly spanked him. I wanted him to think twice before doing it again. But my mom yelled at *me*!

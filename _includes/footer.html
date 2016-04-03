@@ -31,6 +31,10 @@
     <div class="social-profiles"> Let's connect: <span> Twitter, Github </span> </div>
   </div>
   -->
+  
+  {% if page.quote %}
+  <p class="post-quote"> {{ page.quote }} </p>
+  {% endif %}
 
 </footer>
 {% endif %}

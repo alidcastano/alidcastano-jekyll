@@ -1,8 +1,13 @@
 ---
+
 title:  "You are where you need to be"
 image: just-be.jpg
+quote: |
+    Early in the journey you wonder how long the journey will take and whether you will make it in this lifetime. Later you will see that where you are going is HERE and you will arrive NOW...so you stop asking.” ― Ram Dass
 thanks: Leena Heiman, Moises Castano, and Jamie Castano
+
 --- 
+
 My first attempt at letting go of attachment was an expensive one. I had finished reading, *[Be Here Now]()*. I started it reading because the book had a profound impact on Steve Jobs--and now, after reading it, on me as well. A feeling inside pressed upon me to be more conscious, less attached, more Zen. 
 
 I wanted my life to immediately reflect this new mode of being. I decided to start by analyzing the place where I spend most of my time: my room. There's so much stuff I don't *need* in here, I thought. I should get rid of it. 
