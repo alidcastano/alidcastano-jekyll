@@ -41,12 +41,11 @@
   <meta name="twitter:site" content="{{ site.twitter_handle }}">
   <meta name="twitter:creator" content="{{ site.twitter_handle }}">
 
-
   <meta name="twitter:title" 
         content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:url" 
         content="{% if page.url %}{{ site.url }}{{ page.url }}{% endif %}">
-  <meta name="twitter:description" 
+  <meta name="twitter:text:description" 
         content="{% if page.description %}{{ page.description }}
                 {% else %}{{ content | raw_content }}{% endif %}
                 {{ description | strip_html | condense_spaces | truncate:300 }}">
