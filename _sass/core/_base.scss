@@ -19,7 +19,7 @@ html {
   font-size: $root-font-size;
   line-height: $root-line-height;
 
-  @include bp-medium {
+  @include bp-large {
     font-size: $large-font-size;
   }
 }

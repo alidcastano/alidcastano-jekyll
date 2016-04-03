@@ -2,7 +2,9 @@
 title: The best life advice I ever received
 ---
 
-Paul Graham's essays, [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html), is the best life advice I've ever received. These last few years I have used it as my heuristic for any difficult decisions. Below are the most useful insights, what I'm glad to have learned:
+Do yourself a favor and invest 25 minutes of your time to read Paul Graham's essay, [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html). It is the most practical and robust life advice I've ever come across. For the last few years it has been my heuristic for difficult decisions. 
+
+Below are the insights that impacted me most, what I'm glad to have learned:
 
 ---
 
@@ -28,7 +30,7 @@ Maybe I can survive without it. Now I don't have a choice.
 
 Any decision you make out of fear, or laziness, the more you limit yourself. 
 
-Beliefs are self-fulfilling. Don't prematurely judge your ability, cause you'll never prove yourself wrong. And don't pretend to know what's necessary. Life will rarely work out the way you expect. Only when you accept this, will you benefit from the advice up next. 
+Beliefs are self-fulfilling. If you prematurely judge your ability or pretend to know what's necessary, you'll never prove yourself wrong. Life will rarely unfold as you expected. Only when you accept this, can you benefit from the advice below. 
 
 ## Only one direction to go: Upwind
 
@@ -36,7 +38,7 @@ Fall semester of my sophomore year I got this random food app idea. I decided to
 
 And, unlike Steve Jobs, I was not friends with any Steve Wozniaks. I spent three unsuccessful weeks trying to find a technical co-founder. It was debilitating to realize: my success was entirely dependent on the off chance that a talented programmer would fall on my lap and code my idea. 
 
-"Should I learn to code?" The only thing I knew about programming courses is how hard and time consuming they are, because everyone complained about them. I pictured the kid who started playing with computers when he was 9. I could never compete with him. And lingering in the back of my mind was the fact that I didn't take calculus, ergo, I sucked at math. 
+"Should I learn to code?" It was the first time I entertained the idea. I pictured the kid who started playing with computers when he was 9. I could never compete with him. The only thing I knew about programming courses was how hard and time consuming they are, because everyone complained about them. And lingering in the back of my mind was the fact that I didn't take calculus, ergo, I sucked at math. 
 
 I was doing it again. Letting my fears get the best of me. 
 
