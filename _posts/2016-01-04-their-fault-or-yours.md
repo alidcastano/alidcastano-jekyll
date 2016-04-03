@@ -1,5 +1,6 @@
 ---
 title:  "Is it their fault, or yours?" 
+image: 99-problems.png
 --- 
 My mother, I've noticed, has developed an acumen over the years for pointing out what I do wrong. And she'll do it whenever she can too.  
 
@@ -23,14 +24,14 @@ The way we react to everyday interactions, admittedly, is a lot like how we reac
 
 But did you ever consider the role you played? Maybe you didn't show enough affection. Maybe you were too judgmental. Maybe you didn't do your part. It wouldn't make the other person's actions anymore right, no. But it would allow you to identify where your control lies so you can do your part in making sure it doesn't happen again. 
 
-In [Everything is my fault](https://sivers.org/my-fault), Derek Sivers says how saying "Everything is my fault" is like acquiring new superpowers:
+How often do you say, *Why does this keep happening to me?* Perhaps, if you notice the same problems occurring, that role you played is worth exploring. You are likely to notice a pattern. Generally, that it is futile to expect someone to behave a certain way if you don't first align your actions with that expectation. 
+
+I'm going to try and exercise the same approach as Derek Sivers, from here on, [everything is my fault](https://sivers.org/my-fault):
 
 >But to decide it’s your fault feels amazing! Now you weren’t wronged. They were just playing their part in the situation you created. They’re just delivering the punch-line to the joke you set up.
 >
 >What power! Now you’re like a new super-hero, just discovering your strength. Now you’re the powerful person that made things happen, made a mistake, and can learn from it. Now you’re in control and there’s nothing to complain about.
 
-Do you often say, *Why does this keep happening to me?* If you notice the same problems occurring, that role you played is worth exploring. You are likely to notice a pattern. Generally, that it is futile to expect someone to behave a certain way if you don't first align your actions with that expectation. 
-
-So, join me, start saying it now, EVERYTHING IS MY FAULT. And instead of acting on, *Why does this happen to me?* stop and ask, *What did I do to cause this?* I predict that, slowly, with your new superpowers, your problems will start to change, maybe even disappear. 
+Join me, instead of acting on, *Why does this happen to me?* pause, breathe, and ask, *What did I do to cause this?* Start thinking, EVERYTHING IS MY FAULT. I predict that, slowly, our problems will start to change form, maybe even disappear. 
 
 

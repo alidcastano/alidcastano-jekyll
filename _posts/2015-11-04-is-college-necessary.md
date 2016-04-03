@@ -1,5 +1,6 @@
 ---
-title: It's not the system at work, it's you
+title: Believe in yourself, above all (even college)
+image: coin-trick.jpg
 ---
 
 Till this day, I remember the first time my mom talked to my brothers and I about college. She summoned all four of us to the living room for another "family meeting." We see her enter the room with four bulky, crimson folders, eagerly staring at us. 
@@ -20,18 +21,12 @@ His achievement redefined my beliefs of what I thought possible. I started askin
 
 Sadly, we put more faith in college than we do ourselves. And the only reason I can make for why, is that we've been tricked. 
 
-College works like one big coin trick. To make a coin disappear a magician uses pretend movements as distractions. Schools, similarly, have students moving around, from classes to meetings to parties, mimicking others, as their parent's money disappears. But at the end, as long as the student graduates with a job, everyones is happy. Everyone acts as if there is some special force at work making that happen.
+College works like one big coin trick. To make a coin disappear a magician uses pretend movements as distractions. Schools, similarly, have students moving around, from classes to meetings to parties, mimicking others, as their parent's money disappears. But as long as the student graduates with a job, everyones is happy. As if there was some special force at work that made it happen.
 
-But truth is, there's nothing special about college that, with less debt and more discipline, you couldn't learn another way. Imagine where many young, intelligent, ambitious young people would be if, instead of cramming for exams and fixing up their resume, they invested that effort into the real world. (There are, of course, a few outliers that already give us a hint of what’s possible.)
+But reality is, college isn't Hogwarts. There's nothing special about college that, with less debt and more discipline, you couldn't learn another way. Imagine where many young, intelligent, ambitious young people would be if, instead of cramming for exams and fixing up their resume, they invested that effort into the real world. (There are, of course, a few outliers that already give us a hint of what’s possible.)
 
-But we don't realize this and enter college with the idea that it is necessary. So we start to do only what is necessary to succeed in that bubble of our existence. I see the effects all around me. We stop working on side projects we are passionate about. We determine our future based on the decision of an admissions officer and the GPA on a piece of paper. We stop believing in ourselves.
+That's not to imply that I'm against college. But as much as it can help us succeed, it can also hinder us by placing limits in our beliefs. We enter college with the idea that we can't succeed without it. So we start to do only what is necessary in that bubble of our existence. We stop working on side projects we are passionate about. We determine our future based on the decision of an admissions officer and the GPA on a piece of paper. Slowly, we stop believing in ourselves.
 
-Don't let the magic trick fool you. It is never the system at work. It's you.
+Don't let the college dream become an illusion. Whether the trick works or fails, the final outcome, depends on you.
 
-Believe in yourself and don't just rely on college. Self educate yourself. Start side projects. And remember, whether the trick works or fails, the final outcome, depends on you.
-
-___
-
-*"Formal education will make you a living;*   
-*self-education will make you a fortune.* *-Jim Rohn*
 
