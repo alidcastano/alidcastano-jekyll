@@ -8,9 +8,9 @@ thanks: Leena Heiman and Moises Castano
 
 --- 
 
-My mother, I've noticed, has developed an acumen over the years for pointing out what I do wrong. And she'll do it whenever she can too.  
+My mother, I've noticed, has developed an acumen over the years for pointing out what I do wrong. And she'll do it whenever she can, too.  
 
-Earlier this morning, for example, my dog, Rocky, pooped inside my room. I mildly spanked him. I wanted him to think twice before doing it again. But my mom yelled at *me*!
+Earlier this morning, for example, my dog, Rocky, pooped inside my room. I mildly spanked him. I wanted him to think twice before doing it again. My mom, however, yelled at *me*!
 
 "Shouldn't you be mad at the dog?" I said, pointing at the poop.  
 
@@ -28,9 +28,11 @@ Consider, if we are quick to blame helpless beings and inanimate objects for our
 
 The way we react to everyday interactions, admittedly, is a lot like how we react when food stains our shirts or pets poop in our room. All upset, the last person we blame is ourselves. Your friend lied, he loses your trust. Your partner cheated, you end the relationship. Someone does not act as you expected, so you get upset and act accordingly. 
 
-But did you ever consider the role you played? Maybe you didn't show enough affection. Maybe you were too judgmental. Maybe you didn't do your part. It wouldn't make the other person's actions anymore right, no. But it would allow you to identify where your control lies so you can do your part in making sure it doesn't happen again. 
+But did you ever consider the role you played? Maybe you didn't show enough affection. Maybe you were too judgmental. Maybe you didn't do your part. 
 
-How often do you say, *Why does this keep happening to me?* Perhaps, if you notice the same problems occurring, that role you played is worth exploring. You are likely to notice a pattern. Generally, that it is futile to expect someone to behave a certain way if you don't first align your actions with that expectation. 
+It wouldn't make the other person's actions anymore right, no. But it would allow you to identify where your control lies so you can do your part in making sure it doesn't happen again. 
+
+How often do you say, *Why does this keep happening to me?* Perhaps, if you notice the same problems occurring, the role you played is worth exploring. You are likely to notice a pattern. Generally, that it is futile to expect someone to behave a certain way if you don't first align your actions with that expectation. 
 
 I'm going to try and exercise the same approach as Derek Sivers, from here on, [everything is my fault](https://sivers.org/my-fault):
 
@@ -38,6 +40,10 @@ I'm going to try and exercise the same approach as Derek Sivers, from here on, [
 >
 >What power! Now you’re like a new super-hero, just discovering your strength. Now you’re the powerful person that made things happen, made a mistake, and can learn from it. Now you’re in control and there’s nothing to complain about.
 
-Join me, instead of acting on, *Why does this happen to me?* pause, breathe, and ask, *What did I do to cause this?* Start thinking, EVERYTHING IS MY FAULT. I predict that, slowly, our problems will start to change form, maybe even disappear. 
+Join me, instead of acting on, *Why does this happen to me?* pause, breathe, and ask, *What did I do to cause this?* 
+
+Start thinking, EVERYTHING IS MY FAULT. 
+
+I predict that, slowly, our problems will start to change form, maybe even disappear. 
 
 
