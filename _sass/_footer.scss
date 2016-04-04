@@ -4,14 +4,23 @@
   width: 100%;
 }
 
+.post-quote {
+  clear: both;
+  font-size: .8rem;
+  color: #9a9a9a;
+  text-align: center;
+  border-top: 1px solid $border-color;
+  border-bottom: 1px solid $border-color;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+
+}
 
 .read-next {
   text-align: center;
   font-size: .8rem;
-  border-top: 1px solid $border-color;
-  margin-top: .5rem;
-  padding-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 
   a { 
     font-size: 1rem;
@@ -67,6 +76,8 @@
   }
 }
 
+
+
 .back-home {
   float: left;
   font-size: .8rem;
@@ -84,14 +95,6 @@
 
 }
 
-
-.post-quote {
-  clear: both;
-  font-size: .8rem;
-  color: #9a9a9a;
-  text-align: center;
-
-}
 
 .fade-in {
   opacity: 1; 
