@@ -22,11 +22,11 @@ Later this evening was a similar situation. We're both leaving Panera Bread. I s
 
 "You hate being a pig, you mean!" she said. 
 
-I started laughing. With these silly experience, my Mom helped me concede to a larger pattern in my life: not taking responsibility for the role I played.
+I started laughing. She caught me doing it again, not taking responsibility for the role I played.
 
 Consider, if we are quick to blame helpless beings and inanimate objects for our misfortunes, how readily we must also blame other people for everything that happens to us.
 
-The way we react to everyday interactions, admittedly, is a lot like how we react when food stains our shirts or pets poop in our room. All upset, the last person we blame is ourselves. Your friend lied, he loses your trust. Your partner cheated, you end the relationship. Someone did not act as you expected, so you got upset and acted accordingly. 
+The way we react to everyday interactions, admittedly, is a lot like how we react when food stains our shirts or pets poop in our room. All upset, the last person we blame is ourselves. Your friend lied, he loses your trust. Your partner cheated, you end the relationship. Someone does not act as you expected, so you get upset and act accordingly. 
 
 But did you ever consider the role you played? Maybe you didn't show enough affection. Maybe you were too judgmental. Maybe you didn't do your part. It wouldn't make the other person's actions anymore right, no. But it would allow you to identify where your control lies so you can do your part in making sure it doesn't happen again. 
 

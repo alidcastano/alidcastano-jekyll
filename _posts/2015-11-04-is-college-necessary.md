@@ -1,6 +1,6 @@
 ---
 
-title: Believe in yourself, above all (even college)
+title: It's not the system at work, it's you
 image: coin-trick.jpg
 quote: |
     "Formal education will make you a living &#59; self-education will make you a fortune." - Jim Rohn

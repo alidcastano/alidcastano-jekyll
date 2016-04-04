@@ -1,11 +1,6 @@
 {% if page.footer != 'none' %}
 <footer class="site-footer fade-in" id="footer">
 
-  {% if page.quote %}
-  <p class="post-quote"> {{ page.quote }} </p>
-  {% endif %}
-
-
   <div class="read-next"> Read Next: 
     {% if page.previous.url %}
     <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
@@ -14,6 +9,12 @@
     {% else %}
     {% endif %}
   </div>
+
+  
+  {% if page.quote %}
+  <p class="post-quote"> {{ page.quote }} </p>
+  {% endif %}
+
 
    <!--
    <p class="newsletter">Liked this post? <a href="#" id="trigger-form">
