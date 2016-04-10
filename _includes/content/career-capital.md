@@ -28,7 +28,7 @@
 </ul>
 
 
-<section class="section-content">
+<section class="section-content experience">
     <h2> Recent Experience </h2>
     <h3> <strong>Speaking Advisor</strong>, CWiC
         <img src="/img/misc/cwic-logo.jpg" 
@@ -42,7 +42,7 @@
     I led the development of mobile eating application that allows users to discover the best menu options at new restaurants; and I helped create business plan and pitch deck for potential investors.
 </section>
 
-<aside class="aside-content">
+<aside class="aside-content education">
     <h2>Education </h2>
     <h3> University of Pennsylvania 
         <img src="/img/misc/upenn-logo.png" 
@@ -50,6 +50,24 @@
     </h3>
     My studies have focused on Cognitive Science, with a minor in Computer Science and Consumer Psychology.
 </aside>
+
+
+<div class="extra-info">
+    <div class="awards">
+        <h2> Awards</h2>
+        <a href="https://www.phideltatheta.org/foundation/scholarships-fellowships/whole-man-scholarships/" target="_blank">
+        Whole Man Scholar</a>, Phi Delta Theta Foundation (May 2015) <br>
+
+        <a href="https://hsf.net/" target="_blank">
+         Hispanic Scholar</a>, Hispanic Scholarship Fund (August 2015)
+    </div>
+
+    <div class="languages">
+        <h2> Languages</h2>
+        Fluent English and Spanish<br>
+        Beginner German and Italian
+    </div>
+</div>
 
 
 {% if page.trial-run != false %}
@@ -61,9 +79,10 @@
     {% endif %}
     <h1>How about a trial run?</h1>
     <p>(Sure, what do you suggest?)</p>
-     I understand how crucial the first few hires are to the success of a startup. So I'd be more than willing to give the position a trial run for a few weeks to prove my ability. Any tasks or projects you need to be completed? <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alidcastano@gmail.com" target="_blank"> Contact me</a> and I'll get them done; no strings attached.
+     I understand how crucial the first few hires are to the success of a startup and would be more than willing to give the position a trial run to prove my ability. Any tasks you need to be completed? <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alidcastano@gmail.com" target="_blank"> Contact me</a> and I'll get them done; no strings attached.
 </div>
 {% endif %}
+
 
 
 
