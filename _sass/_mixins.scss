@@ -108,3 +108,7 @@
 @mixin bp-large {
   @media (min-width: $bp-large) { @content; } //larger than outer-container
 }
+
+@mixin bp-xl {
+  @media (min-width: $bp-xl) { @content; } //larger than outer-container
+}

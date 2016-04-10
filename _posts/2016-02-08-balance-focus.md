@@ -15,7 +15,7 @@ My problem isn't managing time, but focus.
 
 If I only had one task on my to do list, this wouldn't be a problem. But as I try to divide my time between writing, speaking, and programming--oh, and school--my lack of willpower becomes stressing.
 
-How do successful people do it? Take a guy like [Derek Sivers](https://sivers.org/), for example. He started a company to help independent musicians like himself and years later sold it for $22M; he's written the best book I've ever read on entrepreneurship, [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118); and his [TED Talks](http://www.ted.com/speakers/derek_sivers) have over 5M views. In summary, he's basically checked off my entire list of goals.
+How do successful people do it? Take a guy like [Derek Sivers](https://sivers.org/), for example. He started a company to help independent musicians like himself and years later sold it for $22M; he's written the best book I've ever read on entrepreneurship, [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118); and his [TED Talks](http://www.ted.com/speakers/derek_sivers) have over 5M views. In summary, he's checked off my entire list of goals.
 
 Luckily, I also found out that he answers ALL emails (don't ask me how) that ask for his advice. 
 

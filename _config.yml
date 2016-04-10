@@ -26,6 +26,9 @@ sass:
 collections:
   philosophy:
     output: true
+    permalink: /:path 
+  career-capital:
+    output: true
     permalink: /:path
 
 
@@ -48,3 +51,8 @@ defaults:
     values:
       layout: "page"
       footer: none
+  - scope:
+      path: ""
+      type: career-capital
+    values:
+      layout: "career-capital"

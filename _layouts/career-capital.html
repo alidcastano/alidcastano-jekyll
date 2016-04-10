@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="career-capital">
+
+    <header class="intro"> 
+      <div class="personal-info">
+        <img class="profile-pic" src="/img/profile-pic.jpg" alt="your-photo">
+        <h3> Alid Castano </h3>
+      </div>
+      <div class="main-message">
+        <h1> {% if page.title %}{{page.title}}{% endif %}</h1>
+        {% if page.profile-pic != false %}
+        {% endif %}
+        {{ content }}
+      </div>
+    </header>
+
+
+    {% capture career-capital %}
+      {% include content/career-capital.md %} 
+    {% endcapture %}
+    {{ career-capital | markdownify }}
+
+  </body>
+
+</html>
