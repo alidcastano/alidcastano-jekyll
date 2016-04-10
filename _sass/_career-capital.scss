@@ -13,39 +13,51 @@
 }
 
 .intro {
-  @extend .mini-intro;
-  margin-top: 2rem !important;
+  margin-top: 2rem;
 
   .main-message {
+    max-width: 100%;
+    p { margin-bottom: 3rem !important;}
+
+    h1 {
+    border-bottom: 1px dashed $border-color;
+    padding-bottom: .5rem;
+    }
+
     @include bp-large { 
-      max-width: 80%; 
+      h1, p { max-width: 60%; }
+
+      p {
+        margin-bottom: 5rem !important;
+      }
     }
   }
 
-   .personal-info {
+  .personal-info {
+    display: none; 
     @include bp-large { 
+      display: block;
       float: right; 
-      position: relative;
-      left: -1rem;
+      max-width: 40%;
     }
     @include bp-xl { left: -3rem;}
 
-       .profile-pic {
-        display: inline-block;
-        border: 3px solid $img-border-color;
-        @include box-shadow(1px -1px 6px 1px $img-shadow-color);
-        margin-left: 1rem;
-        margin-right: 1rem;
-        max-width: 80px;
-        @include bp-large { max-width: 150px;}
-      }
-      h3 {
-        display: inline-block;
-        position: relative;
-        bottom: 2rem;
-        opacity: .5;
-      }
-   }
+    .profile-pic {
+      display: inline-block;
+      border: 3px solid $img-border-color;
+      @include box-shadow(1px -1px 6px 1px $img-shadow-color);
+      margin-left: 1rem;
+      margin-right: 1rem;
+      max-width: 80px;
+      @include bp-large { max-width: 150px;}
+    }
+    h3 {
+      display: inline-block;
+      position: relative;
+      bottom: 2rem;
+      opacity: .5;
+    }
+  }
 }
 
 
@@ -137,18 +149,18 @@
     &:visited { color: $base-link-color; }
   }
 
-    text-align: center; 
-    max-width: 80%;
-    margin: 0 auto;
+  text-align: center; 
+  max-width: 80%;
+  margin: 0 auto;
 
   .company-logo {
-      position: relative;
-      bottom: 2rem;
-      width: 75px; 
-      display: block;
-      margin: 0 auto;
-      @include border-radius(50%);
-      border: 3px solid $img-border-color;
-      @include box-shadow(1px -1px 6px 1px $img-shadow-color);
+    position: relative;
+    bottom: 2rem;
+    width: 75px; 
+    display: block;
+    margin: 0 auto;
+    @include border-radius(50%);
+    border: 3px solid $img-border-color;
+    @include box-shadow(1px -1px 6px 1px $img-shadow-color);
   }
 }
