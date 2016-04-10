@@ -28,7 +28,7 @@ Both of which were lies. And as I read Graham's essay, I could sense him calling
 
 "I'm lazy," is what I should have admitted to myself. I didn't want to risk putting in hours of work, only to be disappointed. It was easier to convince myself I wouldn't need calculus, that I could avoid it--and now I don't have a choice. 
 
-Any decision you make out of fear and laziness--anytime you underestimate your ability--the more you limit yourself. Only once you accept this fact, as I had to, can you benefit from the advice that changed the way I make decisions. 
+Any decision made out of fear or laziness--anytime you underestimate your ability--the more you limit yourself. Only once you accept this fact, as I had to, can you benefit from the advice below, that changed the way I make decisions. 
 
 
 ## Only one direction to go: Upwind

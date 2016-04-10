@@ -64,7 +64,6 @@
 .section-col {
   clear: both;
   list-style: none;
-  text-align: center;
   padding-left: 0;
   margin-bottom: 5rem;
   padding: .125rem;
@@ -87,6 +86,7 @@
   }
   @include bp-medium {
     li { 
+      text-align: center;
       display: inline-block;
       width: calc(98% / 3); 
       vertical-align: top;
