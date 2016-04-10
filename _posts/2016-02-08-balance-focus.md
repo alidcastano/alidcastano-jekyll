@@ -1,7 +1,7 @@
 ---
 
 title:  How to balance your focus 
-
+published: false 
 quote: |
     “Most people overestimate what they can do in one year <br>
     and underestimate what they can do in ten years.” <br>
