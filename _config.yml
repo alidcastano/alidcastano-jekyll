@@ -37,7 +37,7 @@ collections:
     permalink: /:title
   inner-library:
     output: true
-    permalink: /:title
+    permalink: /:categories/:title
 
 # Default settings
 defaults:
@@ -54,11 +54,6 @@ defaults:
     values:
       layout: post
       category: thoughts
- - scope:
-      path: _posts/linklogs
-      type: posts 
-    values:
-      layout: post
   - scope:
       path: _posts/updates 
       type: posts 
@@ -89,11 +84,17 @@ defaults:
 
   # inner-library
   - scope:
-      path: _inner-library
+      path: _inner-library/bookshelf
       type: inner-library
     values:
       layout: page
-      category: books
+      category: book
+  - scope:
+      path: _inner-library/linklog
+      type: inner-library
+    values:
+      layout: page
+      category: linklog
 
   # career-capital
   - scope:

@@ -1,11 +1,7 @@
 ---
-
-title:  Anything You Want - Derek Sivers 
-permalink: anything 
-read:  
+title: Anything You Want
+author: Derek Sivers  
 rating: 10 
-
-summary: 
 
 --- 
 
