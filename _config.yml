@@ -22,37 +22,83 @@ permalink:           /:title
 sass:
   sass_dir:          _sass
   style:            :compressed
+include:
+  - _pages
 
 collections:
-  philosophy:
+  personal-philosophy:
     output: true
-    permalink: /:path 
+    permalink: /:title
+  projects:
+    output: true
+    permalink: /:title
   career-capital:
     output: true
-    permalink: /:path
-
+    permalink: /:title
+  inner-library:
+    output: true
+    permalink: /:title
 
 # Default settings
 defaults:
+
+  # posts 
   - scope:
-      path: "" 
-      type: "posts" 
+      path: _posts/drafts 
+      type: posts 
     values:
-      layout: "post"
-      author: Alid Castano
+      layout: post
   - scope:
-      path: "" 
-      type: "pages" 
+      path: _posts/thoughts
+      type: posts
     values:
-      layout: "page"
+      layout: post
+      category: thoughts
+ - scope:
+      path: _posts/linklogs
+      type: posts 
+    values:
+      layout: post
   - scope:
-      path: ""
-      type: philosophy
+      path: _posts/updates 
+      type: posts 
     values:
-      layout: "page"
+      layout: post
+
+  # pages
+  - scope:
+      path: _pages 
+      type: pages
+    values:
+      layout: page
+
+  # projects
+  - scope:
+      path: _projects
+      type: projects
+    values:
+      layout: page
+
+  # personal-philosophy
+  - scope:
+      path: _personal-philosophy
+      type: personal-philosophy
+    values:
+      layout: page
       footer: none
+
+  # inner-library
   - scope:
-      path: ""
+      path: _inner-library
+      type: inner-library
+    values:
+      layout: page
+      category: books
+
+  # career-capital
+  - scope:
+      path: _career-capital
       type: career-capital
     values:
-      layout: "career-capital"
+      layout: career-capital
+

@@ -1,12 +1,16 @@
 <script src="/js/jquery.min.js"></script>
-<script src="/js/site-form-triggers.js"></script>
+<script src="/js/site.js"></script>
 
-{% if page.type == "Home" %}
-<script src="/js/home-accordion-tabs.js"></script>
+{% if page.type == 'home' %}
+<script src="/js/home.js"></script>
 {% endif %}
 
-{% if page.type != "Home" %}
-<script src="/js/post-scroll-triggers.js"></script>
+{% if page.type != 'home' %}
+<script src="/js/posts.js"></script>
+{% endif %}
+
+{% if page.type == 'inner-library' %}
+<script src="/js/studbits.js"></script>
 {% endif %}
 
 

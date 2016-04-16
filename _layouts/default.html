@@ -5,7 +5,9 @@
 
   <body>
 
-    <div class="container content"> 
+    <div class="container  
+    {% if page.type == 'home' %}home{% endif %}
+    {% if page.type != 'home' %}content{% endif %}"> 
       {% include header.html %}
 
       <main>

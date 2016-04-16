@@ -33,6 +33,19 @@ $(window).on("load",function() {
   }); $(window).scroll(); //invoke scroll-handler on page-load
 });
 
+
+
+// make all markdown links are external 
+$(document).ready(function() {
+   $('a').each(function() {
+      var a = new RegExp('/' + window.location.host + '/');
+      if (!a.test(this.href)) {
+      $(this).attr("target","_blank");
+      }
+   });
+});
+
+
 /*
 
 $(function() {

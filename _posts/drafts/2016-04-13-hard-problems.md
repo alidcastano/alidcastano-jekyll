@@ -8,7 +8,17 @@ tag: article productivity
 quote: |
      The real secret to productivity is the reverse: to listen to your body. To eat when you’re hungry, to sleep when you’re tired, to take a break when you’re bored, to work on projects that seem fun and interesting.
 
+published: false
 ---
+
+"Its mute, it can't communicate with you," Wilson tells 
+
+ Maybe you should try communicating with it."
+"Your the dominant side, you make all the decisions." 
+"The right side has no control over anything, must be frustrating."
+
+left and right brain operate independently leaving him with two different personalities  
+
 
 
 // start with house story 

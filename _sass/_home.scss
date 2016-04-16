@@ -1,15 +1,17 @@
 
 .home {
-  margin-top: -3rem; // fixed header not include in home page 
+  margin-top: 1rem;
 }
 
 .mini-intro {
-  max-width: 100%;
+  max-width: 95%;
   padding-bottom: 4rem;
   margin-bottom: 4rem;
+  margin-left: auto;
+  margin-right: auto;
 
   h1, p {
-    max-width: 72%;
+    max-width: 70%;
     float: left;
     padding-right: .5rem;
   }
@@ -31,7 +33,7 @@
   
   .avatar {
     float: right;
-    max-width: 28%;
+    max-width: 25%;
     @include border-radius(5%);
     border: 3px solid $img-border-color;
     @include box-shadow(1px -1px 6px 1px $img-shadow-color);

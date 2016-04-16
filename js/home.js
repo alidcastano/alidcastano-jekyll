@@ -1,5 +1,5 @@
 //
-// home page tab navigation
+// accordion tabs
 //
 
 $(document).ready(function () {
