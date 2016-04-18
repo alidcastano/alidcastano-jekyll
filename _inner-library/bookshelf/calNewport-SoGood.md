@@ -3,20 +3,28 @@
 title: So Good They Can't Ignore You
 author: Cal Newport 
 
-permalink: SoGood
+permalink: books/SoGood
 link: http://amzn.to/1NwesGq
 image: soGood.jpg  
 
 read: 2015-10-20
-rating: 10
+rating: 9.5
 
+thoughts: |
+    The most useful career advice I've read. It's actually bizarre how obvious the advice seems upon reflection, yet it is rarely considered in the midst of common 'follow your passion" dogma. Before you drop everything to pursue your passion, I'd urge you to read it. (Only criticism: very repetitive--I recommend the audio version.)
+
+quote: |
+    "Don't follow your passion but let your passion follow you <br>
+    in your quest to become really good at what you do" <br>
+    - Cal Newport
 
 --- 
 
 
+
 # !! how do people end up loving what they do? 
 
-# $$ skill trumps passion--let passion follow you 
+# $$ skill trumps passion--let your passion follow you 
 
 ==
 
@@ -53,19 +61,12 @@ Put aside the question of whether your job is your true passion, and instead tur
 
 Regardless of how you feel about your job right now, adopting the craftsman mindset will be the foundation on which you'll build a compelling career.
 
-If you want to love what you do, abandon the passion mindset ("what can the world offer me?" -- false entitlement) and instead adopt the craftsman mindset ("what can I offer the world?").
+If you want to love what you do, abandon the passion mindset ("what can the world offer me?" -- *false entitlement*) and instead adopt the craftsman mindset ("what can I offer the world?").
 
 Don't focus on details - focus on getting better, focus on quality of what you produce
 
 *"Fight cloud of external distractions"*
 
----
-
-/**
-
->"Don't follow your passion but let your passion follow you in your quest to become really good at what you do"
-
-**/
 
 ---
 
@@ -146,6 +147,4 @@ Don't embrace control without capital, be good at what you do first (before you 
 *Law of financial viability* - (mental algorithm) do what people are willing to pay for--money is indicator of value.
 
 The more career capital you have, the more control you have over your life. 
-
----
 

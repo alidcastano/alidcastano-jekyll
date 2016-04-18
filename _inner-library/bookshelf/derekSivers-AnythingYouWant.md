@@ -1,14 +1,20 @@
 ---
+
 title: Anything You Want
 author: Derek Sivers 
 
-permalink: AnythingYouWant
+permalink: books/AnythingYouWant
 link: http://amzn.to/1Sm2K5N
 image: anythingYouWant.jpg  
 
 read: 2016-01-13
 rating: 10
 
+thoughts: |
+    My favorite book on entrepreneurship. It's a short read, but packed with profound insights from Derek Siver's experience of starting his first business, CD Baby, and selling it for $22M. It's easy to get caught up in the hype of growing in a business and lose sight of your real reasons and motives. Before you start or grow your startup, read this book, let Siver's experience serve as proof that you can do things your own way and still be successful. 
+
+quote: |
+    "If you think true love needs to be like Romeo and Juliet, you'll overlook a great relationship that grows slowly. If you think your life purpose needs to hit you like a lighting bolt, you'll overlook the day to day things that fascinate you." - Derek Sivers
 
 --- 
 
@@ -24,14 +30,6 @@ We all grade ourselves by different measures. One example: Donald Trump putting 
 Most people don't even know why they are doing what they are doing. By consequence, they spend their whole live pursuing little distractions someone else convinced them they should have (i.e. money). 
 
 Know your personal philosophy of what makes you happy and what is worth doing, and do what is honestly important to you.. instead of what others think you should.
-
----
-
-/**
-
->"If you think true love needs to be like Romeo and Juliet, you'll overlook a great relationship that grows slowly. If you think your life purpose needs to hit you like a lighting bolt, you'll overlook the day to day things that fascinate you." 
-
-**/
 
 ---
 
@@ -91,6 +89,9 @@ Starting small puts 100% of energy on solving real problems for real people
 
 (Also, an advantage of no funding:) By not having any money to waste, you never waste money. *Necessity is a great teacher.*
 
+“Revolution” is a term that people use only when you're successful. Before that, you're just a quirky person who does things differently.
+
+
 --- 
 
 # !! present each idea to the world. If it is not a hit, SWITCH
@@ -143,7 +144,7 @@ Ex. Instead of the usual, formal email, Sivers sent a goofy email that ended up 
 
 --- 
 
-# !! your startup = your utopia -- create your perfect world
+# !! your startup = your utopia -- design your perfect world
 
 ==
 
@@ -151,9 +152,9 @@ Ex. Instead of the usual, formal email, Sivers sent a goofy email that ended up 
 
 You don't always want your company to be big--it creates headaches. You have to deal with media, investors, etc.... Isn't happiness the goal?
 
+*Business is not about money. It's about making dreams come true for others and for yourself.*
+
 Make your company as big as you want it to be (in fact, Sivers wanted his company to stay small but because of the value he provided, it grew anyway).
 
-Make your role what you want it to be. *Anything you hate, somebody else loves.* Delegate the task (but don't abdicate). 
-
----
+Make your role what you want it to be. Anything you hate, somebody else loves. Delegate the task (but don't abdicate). 
 
