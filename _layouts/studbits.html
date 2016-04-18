@@ -13,7 +13,7 @@ layout: default
     <time class="book-details" 
       datetime="{{ page.read | date_to_xmlschema }}">
       read: {{ page.date | date: '%B %Y' }}</time>
-    <p class="book-details"> rating: {{ page.rating }}</p>
+    <p class="book-details"> rating: {{ page.rating }}/10</p>
   </div>
 
    <p class="book-thoughts"> <br> {{ page.summary }}</p> 
@@ -25,4 +25,5 @@ layout: default
   <h2 class="my-notes"> my notes </h2>
   {{ content }}
 
+  <script src="/js/studbits.js"></script>
 </article>

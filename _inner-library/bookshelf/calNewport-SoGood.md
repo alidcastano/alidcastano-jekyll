@@ -8,7 +8,7 @@ link: http://amzn.to/1NwesGq
 image: soGood.jpg  
 
 read: 2015-10-20
-rating: 10/10
+rating: 10
 
 
 --- 

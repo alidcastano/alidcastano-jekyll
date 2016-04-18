@@ -6,10 +6,10 @@ analytics_id:        UA-53335201-1
 
 # About/contact
 author:
-  name:                Alid Castano
-  email:               alidcastano@gmail.com
-  avatar:              img/avatar.jpg 
-  profile-pic:         img/profile-pic.jpg
+  name:              Alid Castano
+  email:             alidcastano@gmail.com
+  avatar:            img/avatar.jpg 
+  profile-pic:       img/profile-pic.jpg
 
 # Social Sharing
 fb_admins:          https://www.facebook.com/alidcastano
@@ -22,8 +22,7 @@ permalink:           /:title
 sass:
   sass_dir:          _sass
   style:            :compressed
-include:
-  - _pages
+include:            _pages
 
 collections:
   personal-philosophy:
