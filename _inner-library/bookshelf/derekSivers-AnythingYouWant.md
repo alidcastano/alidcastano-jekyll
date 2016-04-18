@@ -2,7 +2,7 @@
 title: Anything You Want
 author: Derek Sivers 
 
-permalink: book/AnythingYouWant
+permalink: AnythingYouWant
 link: http://amzn.to/1Sm2K5N
 image: anythingYouWant.jpg  
 

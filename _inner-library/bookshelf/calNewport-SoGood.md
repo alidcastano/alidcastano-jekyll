@@ -3,7 +3,7 @@
 title: So Good They Can't Ignore You
 author: Cal Newport 
 
-permalink: book/SoGood
+permalink: SoGood
 link: http://amzn.to/1NwesGq
 image: soGood.jpg  
 
