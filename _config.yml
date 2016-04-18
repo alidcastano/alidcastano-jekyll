@@ -88,15 +88,13 @@ defaults:
       type: inner-library
     values:
       layout: studbits
-      category: book
-      format: studbits
+      category: books
   - scope:
       path: _inner-library/linklog
       type: inner-library
     values:
       layout: studbits
-      category: linklog
-      format: studbits
+      category: linklogs
 
   # career-capital
   - scope:

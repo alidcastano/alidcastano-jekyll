@@ -3,7 +3,7 @@ title: Anything You Want
 author: Derek Sivers 
 
 permalink: book/AnythingYouWant
-link: http://amzn.to/1YBG7fd
+link: http://amzn.to/1Sm2K5N
 image: anythingYouWant.jpg  
 
 read: 2016-01-13
