@@ -10,9 +10,6 @@ image: soGood.jpg
 read: 2015-10-20
 rating: 10/10
 
-summary: |
-    This book will wake you up from the entitled, "follow your passion" mentality.
-
 
 --- 
 

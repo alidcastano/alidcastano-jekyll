@@ -9,8 +9,6 @@ image: anythingYouWant.jpg
 read: 2016-01-13
 rating: 10/10
 
-summary: |
- 
 
 --- 
 
