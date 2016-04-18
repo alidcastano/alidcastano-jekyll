@@ -87,19 +87,21 @@ defaults:
       path: _inner-library/bookshelf
       type: inner-library
     values:
-      layout: page
+      layout: studbits
       category: book
+      format: studbits
   - scope:
       path: _inner-library/linklog
       type: inner-library
     values:
-      layout: page
+      layout: studbits
       category: linklog
+      format: studbits
 
   # career-capital
   - scope:
       path: _career-capital
       type: career-capital
     values:
-      layout: career-capital
+      layout: showcase
 

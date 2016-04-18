@@ -37,6 +37,12 @@
 }
 
 
+// features
+.hidden {
+    display:none;
+}
+
+
 .share-posts, .read-next {
   a:visited { color: $visited-link-color; }
   a:hover { color: $hover-link-color; }

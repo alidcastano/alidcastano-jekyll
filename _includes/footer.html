@@ -1,7 +1,8 @@
 {% if page.footer != 'none' %}
 <footer class="site-footer fade-in" id="footer">
 
-  <div class="read-next"> Read Next: 
+  {% if page.type == 'post' %}
+  <div class="read-next">  Read Next: 
     {% if page.previous.url %}
     <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
     {% else if page.next.url %}
@@ -9,35 +10,18 @@
     {% else %}
     {% endif %}
   </div>
-
+  {% endif %}
   
   {% if page.quote %}
   <p class="post-quote"> {{ page.quote }} </p>
   {% endif %}
 
-
-   <!--
-   <p class="newsletter">Liked this post? <a href="#" id="trigger-form">
-  Join My Newsletter.</a></p> 
-    -->
-  
   <a href="/" class="back-home">Back Home</a></p> 
 
   <div class="copyright"> 
     <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
   </div>
 
-  <!--
-  <div class="mini-about">
-    <h2> About {{site.author.name}} </h2>
-    <img src="{{site.author.avatar}}" alt="my photo" class="avatar">
-
-    {% capture mini-bio %}{% include content/footer-mini-about.md %}{% endcapture %}
-    {{ mini-bio | markdownify }} 
-
-    <div class="social-profiles"> Let's connect: <span> Twitter, Github </span> </div>
-  </div>
-  -->
 
 </footer>
 {% endif %}

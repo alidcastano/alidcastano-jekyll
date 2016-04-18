@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="page">
+  <img class="book-image" 
+      src="/img/books/{{ page.image }}" alt="{{ page.title }}">
+  
+  <div class="book-review"> 
+    <h1 class="book-title">{{ page.title }} 
+        <span> - by {{ page.author }}</span> </h1>
+    
+    <time class="book-details" 
+      datetime="{{ page.read | date_to_xmlschema }}">
+      read: {{ page.date | date: '%B %Y' }}</time>
+    <p class="book-details"> rating: {{ page.rating }}</p>
+  </div>
+
+   <p class="book-thoughts"> <br> {{ page.summary }}</p> 
+
+   <a class="book-link"
+      href="{{page.link}}"> more details and reviews </a>
+
+
+  <h2 class="my-notes"> my notes </h2>
+  {{ content }}
+
+</article>

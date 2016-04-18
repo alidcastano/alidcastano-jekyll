@@ -1,0 +1,66 @@
+.book-image {
+  float: left;
+  max-width: 20%;
+  display: inline-block;
+  margin-right: 1.5rem;
+  margin-top: .5rem;
+}  
+
+.book-review {
+  display: inline-block;
+  max-width: 75%;
+  vertical-align: top;
+  margin-top: -1.5rem;
+}
+
+.book-title {
+  font-size: 2.25rem;
+  margin-bottom: 1rem;
+  span {
+    display: block;
+    font-size: 1.75rem;
+  } 
+}
+
+.book-details {
+  color: $gray-4;
+  margin-bottom: 0;
+}
+
+.book-link {
+  float: right;
+  font-size: .9rem;
+}
+
+
+.my-notes {
+  clear: both;
+  padding-bottom: 1rem;
+  border-bottom: 1px dashed $gray-2;
+}
+
+.stud {
+  font-size: 1.25rem;
+  font-weight: 400;
+  min-height: 2rem;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+
+.bit {
+}
+
+
+.hint {
+  margin-top: -.55rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: $gray-3;
+}
+
+hr {
+  border: 0;
+  height: 0;
+  border-bottom: 1px dashed $gray-2;
+}

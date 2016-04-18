@@ -1,4 +1,3 @@
-
 /*** when to create studs and bits ***/
 $('h1:contains("!!")').addClass("stud");
 $('h1:contains("$$")').addClass("hint");
@@ -13,14 +12,12 @@ $('p:contains("/**")').nextUntil('p:contains("**\")').removeClass('bit');
 
 
 
-/** drop down text box with arrow button **/
+/** drop down text box **/
 
 $().ready = function() {
     $('.bit').hide();
-    $('.stud').addClass('right-arrow'); 
 
     $(".stud").click(function() {
-      $(this).toggleClass('down-arrow');
         $(this).nextUntil('hr').toggle(); // let hr in markdown serves div 
     });
 
