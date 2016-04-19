@@ -11,7 +11,7 @@ read: 2016-01-13
 rating: 10
 
 thoughts: |
-    My favorite book on entrepreneurship. It's a short read, but packed with profound insights from Derek Siver's experience of starting his first business, CD Baby, and selling it for $22M. It's easy to get caught up in the hype of growing in a business and lose sight of your real reasons and motives. Before you start or grow your startup, read this book, let Siver's experience serve as proof that you can do things your own way and still be successful. 
+    My favorite book on entrepreneurship. It's a short read but packed with profound insights from Siver's experience starting his first business, CD Baby, which he sold for $22M. It's easy to lose sight of your own reasons and motives for starting a business; Siver's story serves as proof that you can do things your own way and as a side effect, still be successful--and happier. 
 
 quote: |
     "If you think true love needs to be like Romeo and Juliet, you'll overlook a great relationship that grows slowly. If you think your life purpose needs to hit you like a lighting bolt, you'll overlook the day to day things that fascinate you." - Derek Sivers
