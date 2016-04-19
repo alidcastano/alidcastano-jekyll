@@ -88,12 +88,14 @@ defaults:
     values:
       layout: studbits
       category: books
+      feature: dropdown
   - scope:
       path: _inner-library/linklog
       type: inner-library
     values:
       layout: studbits
       category: linklogs
+      feature: dropdown
 
   # career-capital
   - scope:
