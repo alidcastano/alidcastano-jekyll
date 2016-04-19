@@ -27,7 +27,7 @@ footer: none
     <li class="tab-header-and-content">
       <a href="#" class="tab-link">Blog</a>
       <div class="tab-content featured-posts">
-          <h2> Newest Articles </h2>
+          <h2> Recent Thoughts </h2>
           {% for post in site.categories.thoughts limit: 5 %}
           <article class="post">
             <h3 class="post-title">
@@ -38,6 +38,18 @@ footer: none
           </article>
           {% endfor %}
           <a href="/archives" class="see-archives">See all articles</a>
+
+          <h2> Recent Reads </h2>
+          {% for page in site.inner-library limit: 5 %}
+          <article class="post">
+            <h3 class="post-title">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ page.title }} - by {{ page.author }}
+              </a>
+            </h3>
+          </article>
+          {% endfor %}
+          <p> (More coming soon.) </p>
       </div>
     </li>
 
