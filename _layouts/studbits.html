@@ -11,9 +11,16 @@ layout: default
         <span> - by {{ page.author }}</span> </h1>
     
     <time class="book-details" 
-      datetime="{{ page.read | date_to_xmlschema }}">
-      read: {{ page.date | date: '%B %Y' }}</time>
+      datetime="{{ page.date | date_to_xmlschema }}">
+      {% if page.rating %}
+      read: {{ page.date | date: '%B %Y' }}
+      {% else %}
+      discovered: {{ page.date | date: '%B %Y' }}
+      {% endif %}</time>
+
+    {% if page.rating %}
     <p class="book-details"> rating: {{ page.rating }}/10</p>
+    {% endif %}
   </div>
 
    <p class="book-thoughts"> <br> {{ page.thoughts }}</p> 

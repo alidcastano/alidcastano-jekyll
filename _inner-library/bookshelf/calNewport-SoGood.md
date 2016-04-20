@@ -11,7 +11,7 @@ read: 2015-10-20
 rating: 9.5
 
 thoughts: |
-    The most useful career advice I've read. It's actually bizarre how obvious the advice seems upon reflection, yet it is rarely considered in the midst of common 'follow your passion" dogma. Before you drop everything to pursue your passion, I'd urge you to read it. (Only criticism: very repetitive--I recommend the audio version.)
+    The most useful career advice I've read. The advice seems obvious upon reflection, yet it is easily forgotten among all the "follow your passion" dogma.  Before you drop everything to pursue your passion, read this--I'm glad I did. (Only criticism: very repetitive--I recommend the audio version.)
 
 quote: |
     "Don't follow your passion but let your passion follow you <br>
@@ -19,8 +19,6 @@ quote: |
     - Cal Newport
 
 --- 
-
-
 
 # !! how do people end up loving what they do? 
 

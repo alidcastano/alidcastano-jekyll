@@ -11,18 +11,18 @@ $('p:contains("/**")').nextUntil('p:contains("**\")').removeClass('stud');
 $('p:contains("/**")').nextUntil('p:contains("**\")').removeClass('bit');
 
 
-
-/** drop down text box **/
+/** drop down text box with arrow button **/
 
 $().ready = function() {
     $('.bit').hide();
+    $('.stud').addClass('right-arrow'); 
 
     $(".stud").click(function() {
+      $(this).toggleClass('down-arrow');
         $(this).nextUntil('hr').toggle(); // let hr in markdown serves div 
     });
 
 }();
-
 
 
 /** Hide text that serve as triggers  **/

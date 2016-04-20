@@ -42,29 +42,47 @@
   border-bottom: 1px dashed $gray-2;
 }
 
+//studbits features
 
 .stud {
   font-size: 1.25rem;
   font-weight: 400;
   min-height: 2rem;
-  vertical-align: middle;
   cursor: pointer;
 }
 
-
-.bit {
-}
-
-
 .hint {
-  margin-top: -.55rem;
   font-size: 1rem;
   font-weight: 400;
+  margin-top: -.55rem;
   color: $gray-3;
+  margin-left: .5rem;
 }
+
+.bit {
+  transition: all 0.25s;
+  margin-left: .5rem;
+  margin-top: -.35rem;
+}
+
 
 hr {
   border: 0;
   height: 0;
   border-bottom: 1px dashed $gray-2;
+}
+
+
+.right-arrow {
+  &:before {
+    font-size: 1rem;
+    content: "+";
+    margin-left: -.25rem;
+    color: $gray-3;
+  }
+}
+.down-arrow {
+  &:before {
+    content: "-";
+  }
 }
