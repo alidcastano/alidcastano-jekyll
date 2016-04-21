@@ -8,26 +8,30 @@
 
 .book-review {
   display: inline-block;
-  max-width: 65%;
   vertical-align: top;
   margin-top: -1.5rem;
+  max-width: 69%;
+
+  .book-title {
+    font-size: 1.75rem; 
+    @include bp-medium { font-size: 2rem; }
+
+    margin-bottom: 1rem;
+    span {
+      font-size: 1.25rem;
+      @include bp-medium { font-size: 1.5rem; }
+    } 
+  }
+
+  .book-details {
+    clear: both;
+    color: $gray-4;
+    margin-bottom: 0;
+  }
 }
 
-.book-title {
-  font-size: 1.75rem; 
-  @include bp-medium { font-size: 2rem; }
-
-  margin-bottom: 1rem;
-  span {
-    display: block;
-    font-size: 1.25rem;
-    @include bp-medium { font-size: 1.5rem; }
-  } 
-}
-
-.book-details {
-  color: $gray-4;
-  margin-bottom: 0;
+.without-image {
+  max-width: 100%;
 }
 
 .book-link {
@@ -38,8 +42,8 @@
 
 .my-notes {
   clear: both;
-  padding-bottom: 1rem;
-  border-bottom: 1px dashed $gray-2;
+  padding-bottom: .5rem;
+  //border-bottom: 1px dashed $gray-2;
 }
 
 //studbits features
@@ -49,15 +53,18 @@
   font-weight: 400;
   min-height: 2rem;
   cursor: pointer;
+  margin-left: .125rem;
+  padding-bottom: .25rem;
 }
 
 .hint {
   font-size: 1rem;
   font-weight: 400;
-  margin-top: -.55rem;
+  margin-top: -.50rem;
   color: $gray-3;
-  margin-left: .5rem;
+  margin-left: .6rem;
 }
+
 
 .bit {
   transition: all 0.25s;
@@ -69,15 +76,14 @@
 hr {
   border: 0;
   height: 0;
-  border-bottom: 1px dashed $gray-2;
 }
 
 
 .right-arrow {
   &:before {
-    font-size: 1rem;
+    vertical-align: middle;
+    font-size: .75rem;
     content: "+";
-    margin-left: -.25rem;
     color: $gray-3;
   }
 }

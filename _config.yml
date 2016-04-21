@@ -87,14 +87,14 @@ defaults:
       type: inner-library
     values:
       layout: studbits
-      category: books
+      category: book
       feature: dropdown
   - scope:
       path: _inner-library/linklog
       type: inner-library
     values:
       layout: studbits
-      category: linklogs
+      category: linklog
       feature: dropdown
 
   # career-capital

@@ -3,31 +3,38 @@ layout: default
 ---
 
 <article class="page">
+ {% if page.image %}
   <img class="book-image" 
       src="/img/books/{{ page.image }}" alt="{{ page.title }}">
-  
-  <div class="book-review"> 
-    <h1 class="book-title">{{ page.title }} 
-        <span> - by {{ page.author }}</span> </h1>
+  {% endif %}
+
+  <div class="book-review 
+        {% if page.category == 'linklog' %}without-image{% endif %}"> 
+
+    <a href="{{page.link}}">
+        <h1 class="book-title">{{ page.title }} 
+          <span> - by {{ page.author }}</span>
+        </h1>
+    </a>
     
     <time class="book-details" 
       datetime="{{ page.date | date_to_xmlschema }}">
-      {% if page.rating %}
+      {% if page.category == 'book' %}
       read: {{ page.date | date: '%B %Y' }}
       {% else %}
       discovered: {{ page.date | date: '%B %Y' }}
       {% endif %}</time>
 
-    {% if page.rating %}
+    {% if page.category == 'book' %}
     <p class="book-details"> rating: {{ page.rating }}/10</p>
     {% endif %}
   </div>
 
-   <p class="book-thoughts"> <br> {{ page.thoughts }}</p> 
+  <p class="book-thoughts"> <br> {{ page.thoughts }}</p> 
 
-   <a class="book-link"
-      href="{{page.link}}"> more details and reviews </a>
-
+   {% if page.video %}
+      {{ page.video }}
+    {% endif %}
 
   <h2 class="my-notes"> my notes </h2>
   {{ content }}

@@ -12,16 +12,18 @@
   </div>
   {% endif %}
   
+
+  <div class="bottom-page"> 
   {% if page.quote %}
   <p class="post-quote"> {{ page.quote }} </p>
   {% endif %}
 
-  <a href="/" class="back-home">Back Home</a></p> 
+    <a href="/" class="back-home">Back Home</a></p> 
 
-  <div class="copyright"> 
-    <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
+    <div class="copyright"> 
+      <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
+    </div>
   </div>
-
 
 </footer>
 {% endif %}
