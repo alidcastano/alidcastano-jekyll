@@ -26,15 +26,17 @@ quote: |
 
 ==
 
-Need to be good at something before you can expect a good job--rare and valuable demand each other.
+The conventional wisdom on career success - follow your passion - fails to describe how most people actually end up with compelling careers (leads to chronic job shifting and unrelenting angst)
 
-(Schools skip over this, they make you think it's about getting good grades and joining clubs.)
+*Passion is an epiphenomenon of a working life well lived*
 
-Passion mindset: "Who am I" / "what do I truly love" -- impossible to answer, keeps you confused about what to do with life
+Move your focus away from finding the right work, toward working right, and eventually build a love for what you do.
 
-Trying to judge things in abstract before you do them.. hard to predict in advance what you'll eventually grow to love
+Ira Glass: "In the movies there's this idea that you should just go for your dream, but I don't believe that. Things happen in stages. It takes time to get good at anything" -- "The key thing is to force yourself through the work, force the skills to come; that's the hardest phase."
 
-Passion hypothesis is misconstrued. "Do what Steve jobs did not what he said."
+*Job (pay bills) - career (increasingly better work) - calling (part of life)*
+
+The strongest predictor of someone seeing their work as a calling is the number of years spent on the job. The more experience they have, the more likely they are to love their work. (a.k.a. people who have been around long enough to become good at what they do.)
 
 *Passion is rare.* Messy path is the rule - things happen in stages
 
@@ -48,12 +50,20 @@ Don't be in a rush to start your life..*just be the best at whatever it is your 
 "Let passion follow you"
 
 
+
 ---
 
 # !! craftsman mindset > passion mindset
 
 # $$ become so good they can't ignore you 
 ==
+
+
+Passion mindset: "Who am I" / "what do I truly love" -- impossible to answer, keeps you confused about what to do with life
+
+Trying to judge things in abstract before you do them.. hard to predict in advance what you'll eventually grow to love
+
+Passion hypothesis is misconstrued. "Do what Steve jobs did not what he said."
 
 Put aside the question of whether your job is your true passion, and instead turn your focus toward becoming so good they can't ignore you.
 
@@ -75,10 +85,12 @@ Don't focus on details - focus on getting better, focus on quality of what you p
 
 Build up rare and valuable skills
 
-SDT (needs)
-1. autonomy
-2. competence
-3. relatedness
+Motivation requires that you fulfill three basic psychological needs:
+
+Self Determination Theory(SDT) needs:
+1. autonomy (feeling that you have control over your day)
+2. competence (feeling that you are good at what you do)
+3. relatedness (feeling of connection to other people)
 
 Traits that define great work:
 
@@ -86,13 +98,13 @@ Traits that define great work:
 2. Impact (change lives)
 3. Control (no one tells you what to do)
 
-Disqualifying traits
+Disqualifying traits:
+
 1. Few opportunities for recognition (can't build skill)
 2. Focus on something you think is useless/bad
 3. Work with people you dislike
-( could build career capital but persistence is hard)
 
-Job (pay bills) - career (increasingly better work) - calling (part of life)
+( could build career capital but persistence is hard)
 
 
 ---
@@ -137,6 +149,8 @@ Stretch yourself day after day , month after month.
 # $$ law of financial viability 
 
 ==
+
+Need to be good at something before you can expect a good job--rare and valuable demand each other.
 
 Don't embrace control without capital, be good at what you do first (before you make bid for control make sure you have career capital to back you up)
 
