@@ -3,16 +3,18 @@
 title: Anything You Want
 author: Derek Sivers 
 
-permalink: books/AnythingYouWant
+slug: AnythingYouWant
 link: http://amzn.to/1Sm2K5N
 image: anythingYouWant.jpg  
 
 read: 2016-01-13
 rating: 10
 
+directive: |
+    your startup is your utopia&mdash;design your perfect world
+
 thoughts: |
-    My favorite book on entrepreneurship. A short read, packed with profound insights from Siver's experience starting his first business, CD Baby. 
-    His story serves as a proof that you can do things your own way and as a side effect, still be successful--and more fulfilled. 
+    Must-read for any aspiring entrepreneur. It's easy to get lost in the hype of starting a business and lose sight of why your doing it in the first place. This is a short read, packed with profound insights from Derek Siver's experience starting his first business, CD Baby, by accident&mdash;a reminder that you can do things your own way and as a side effect, still be successful.
 
 quote: |
     "If you think true love needs to be like Romeo and Juliet, you'll overlook a great relationship that grows slowly. If you think your life purpose needs to hit you like a lighting bolt, you'll overlook the day to day things that fascinate you." - Derek Sivers
@@ -145,7 +147,7 @@ Ex. Instead of the usual, formal email, Sivers sent a goofy email that ended up 
 
 --- 
 
-# !! your startup = your utopia -- design your perfect world
+# !! your startup = your utopia 
 
 ==
 

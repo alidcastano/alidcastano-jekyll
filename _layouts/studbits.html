@@ -3,40 +3,52 @@ layout: default
 ---
 
 <article class="page">
- {% if page.image %}
-  <img class="book-image" 
-      src="/img/books/{{ page.image }}" alt="{{ page.title }}">
-  {% endif %}
 
-  <div class="book-review 
-        {% if page.category == 'linklog' %}without-image{% endif %}"> 
-
-    <a href="{{page.link}}">
-        <h1 class="book-title">{{ page.title }} 
-          <span> - by {{ page.author }}</span>
-        </h1>
-    </a>
-    
-    <time class="book-details" 
-      datetime="{{ page.date | date_to_xmlschema }}">
-      {% if page.category == 'book' %}
-      read: {{ page.date | date: '%B %Y' }}
-      {% else %}
-      discovered: {{ page.date | date: '%B %Y' }}
-      {% endif %}</time>
-
-    {% if page.category == 'book' %}
-    <p class="book-details"> rating: {{ page.rating }}/10</p>
+  <div class="featured-book">
+   {% if page.image %}
+    <img class="book-image" 
+        src="/img/books/{{ page.image }}" alt="{{ page.title }}">
     {% endif %}
+
+    <div class="book-review 
+          {% if page.format != 'book' %}without-image{% endif %}"> 
+
+      <h1 class="book-title">{{ page.title }} 
+            <span> - by {{ page.author }}</span></h1>
+      
+      <time class="book-details" 
+        datetime="{{ page.date | date_to_xmlschema }}">
+        {% if page.format == 'book' %}
+        read: {{ page.date | date: '%B %Y' }}
+        {% else %}
+        discovered: {{ page.date | date: '%B %Y' }}
+        {% endif %}</time>
+
+      {% if page.format == 'book' %}
+      <p class="book-details"> rating: {{ page.rating }}/10</p>
+      {% endif %}
+    </div>
+
+    <p class="book-thoughts"> <br> {{ page.thoughts }}</p> 
+
+    {% if page.format == 'book' %}
+    <a class="book-link"
+        href="{{page.link}}">more details and reviews</a>
+    {% elsif page.format == 'video' %}
+      {{ page.link }}
+    {% else %}
+       <a class="book-link"
+        href="{{page.link}}">read full post</a>
+    {% endif %}
+
+
   </div>
 
-  <p class="book-thoughts"> <br> {{ page.thoughts }}</p> 
-
-   {% if page.video %}
-      {{ page.video }}
-    {% endif %}
-
   <h2 class="my-notes"> my notes </h2>
+  {% if page.directive %}
+  <p class="directive"> {{ page.directive }} </p>
+  {% endif %}
+  
   {{ content }}
 
 </article>

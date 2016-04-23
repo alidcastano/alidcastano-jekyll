@@ -1,17 +1,20 @@
 ---
 
-title: So Good They Can't Ignore You
+title: So Good They Cant Ignore You
 author: Cal Newport 
 
-permalink: books/SoGood
+slug: SoGood
 link: http://amzn.to/1NwesGq
 image: soGood.jpg  
 
 read: 2015-10-20
 rating: 9.5
 
+directive: |
+    build career capital&mdash;and let your passion follow you
+
 thoughts: |
-    The most useful career advice I've read. The advice seems obvious upon reflection, yet it is easily forgotten among all the "follow your passion" dogma.  Before you drop everything to pursue your passion, read this--I'm glad I did. (Only criticism: very repetitive--I recommend the audio version.)
+   The most useful career advice I've read. Which now upon reflection, seems obvious&mdash;goes to show how we can wrap our thoughts around bad advice just cause it's sexier, i.e., follow your passion. If you're unhappy with your current work situation, before you drop everything on a whim, read this book&mdash;I'm glad I did&mdash;and go build some career capital. (Only criticism: very repetitive--I recommend the audio version.)
 
 quote: |
     "Don't follow your passion but let your passion follow you <br>
@@ -20,17 +23,13 @@ quote: |
 
 --- 
 
-# !! how do people end up loving what they do? 
-
-# $$ skill trumps passion--let your passion follow you 
+# !! how do people end up loving what they do?
 
 ==
 
 The conventional wisdom on career success - follow your passion - fails to describe how most people actually end up with compelling careers (leads to chronic job shifting and unrelenting angst)
 
-*Passion is an epiphenomenon of a working life well lived*
-
-Move your focus away from finding the right work, toward working right, and eventually build a love for what you do.
+Passion is an epiphenomenon of a working life well lived...Move your focus away from finding the right work, toward working right, and eventually build a love for what you do.
 
 Ira Glass: "In the movies there's this idea that you should just go for your dream, but I don't believe that. Things happen in stages. It takes time to get good at anything" -- "The key thing is to force yourself through the work, force the skills to come; that's the hardest phase."
 
@@ -55,7 +54,6 @@ Don't be in a rush to start your life..*just be the best at whatever it is your 
 
 # !! craftsman mindset > passion mindset
 
-# $$ become so good they can't ignore you 
 ==
 
 
@@ -146,7 +144,7 @@ Stretch yourself day after day , month after month.
 
 # !! build capital first, then embrace control 
 
-# $$ law of financial viability 
+# $$ leverage your existing knowledge/skills, law of financial viability 
 
 ==
 

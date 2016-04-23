@@ -7,11 +7,16 @@
   border-bottom: 2px solid $gray-1;
   padding-bottom: .75rem;
   padding-left: .75rem;
-  @include bp-large { padding-left: 1.75rem; }
+  @include bp-large { padding-left: 2.5rem; }
   position: fixed;
   top: 0;
   left: 3%;
   right: 3%;
+  @include bp-large { 
+    left: 0;
+    right: 0;
+    max-width: $content-width + 3rem;
+  }
   @include bp-large { margin-left: 5rem; }
   z-index: 2;
   overflow:hidden;

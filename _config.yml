@@ -34,19 +34,13 @@ collections:
   career-capital:
     output: true
     permalink: /:title
-  inner-library:
+  treasure-trove:
     output: true
-    permalink: /:categories/:title
 
 # Default settings
 defaults:
 
   # posts 
-  - scope:
-      path: _posts/drafts 
-      type: posts 
-    values:
-      layout: post
   - scope:
       path: _posts/thoughts
       type: posts
@@ -81,21 +75,35 @@ defaults:
       layout: page
       footer: none
 
-  # inner-library
+  # treasure-trove
   - scope:
-      path: _inner-library/bookshelf
-      type: inner-library
+      path: _treasure-trove/books
+      type: treasure-trove
     values:
       layout: studbits
-      category: book
-      feature: dropdown
+      permalink: /book/:title
+      format: book
   - scope:
-      path: _inner-library/linklog
-      type: inner-library
+      path: _treasure-trove/articles
+      type: treasure-trove
     values:
       layout: studbits
-      category: linklog
-      feature: dropdown
+      permalink: /article/:title
+      format: article
+  - scope:
+      path: _treasure-trove/videos
+      type: treasure-trove
+    values:
+      layout: studbits
+      permalink: /video/:title
+      format: video   
+  - scope:
+      path: _treasure-trove/movies
+      type: treasure-trove
+    values:
+      layout: studbits
+      permalink: /movie/:title
+      format: movie   
 
   # career-capital
   - scope:

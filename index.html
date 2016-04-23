@@ -40,16 +40,31 @@ footer: none
           <a href="/archives" class="see-archives">See all articles</a>
 
           <h2> Recent Reads </h2>
-          {% for page in site.inner-library limit: 5 %}
-          <article class="post">
-            <h3 class="post-title">
-              <a href="{{ site.baseurl }}{{ page.url }}">
-                {{ page.title }} - by {{ page.author }}
-              </a>
-            </h3>
-          </article>
+          {% for page in site.treasure-trove %}
+            {% if page.format == 'book'  limit: 3 %}
+            <article class="post">
+              <h3 class="post-title">
+                <a href="{{ site.baseurl }}{{ page.url }}">
+                  {{ page.title }} - by {{ page.author }}
+                </a>
+              </h3>
+            </article>
+            {% endif %}
           {% endfor %}
           <p> (More coming soon.) </p>
+
+          <h2> Recent Discoveries </h2>
+          {% for page in site.treasure-trove %}
+            {% if page.format != 'book'  limit: 3 %}
+            <article class="post">
+              <h3 class="post-title">
+                <a href="{{ site.baseurl }}{{ page.url }}">
+                {{ page.title }}
+                </a>
+              </h3>
+            </article>
+            {% endif %}
+          {% endfor %}
       </div>
     </li>
 

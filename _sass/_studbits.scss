@@ -1,3 +1,10 @@
+.featured-book {
+  @include bp-large {
+    margin-left: -4%;
+    max-width: 108%;
+  }
+}
+
 .book-image {
   float: left;
   width: 25%;
@@ -9,18 +16,19 @@
 .book-review {
   display: inline-block;
   vertical-align: top;
-  margin-top: -1.5rem;
-  max-width: 69%;
+  margin-top: -1rem;
+  max-width: 68%;
 
   .book-title {
-    font-size: 1.75rem; 
+    @include bp-medium { width: 120%; } 
+    font-size: 1.5rem; 
     @include bp-medium { font-size: 2rem; }
-
-    margin-bottom: 1rem;
     span {
+      display: inline-block;
       font-size: 1.25rem;
       @include bp-medium { font-size: 1.5rem; }
     } 
+    margin-bottom: 1rem;
   }
 
   .book-details {
@@ -40,20 +48,31 @@
 }
 
 
+.directive {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: $gray-5;
+  display: inline-block;
+  &:before {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: -.25rem;
+    margin-right: -.125rem;
+    font-size: .75rem;
+    content: "☆";
+  }
+}
+
 .my-notes {
   clear: both;
   padding-bottom: .5rem;
-  //border-bottom: 1px dashed $gray-2;
 }
-
-//studbits features
 
 .stud {
   font-size: 1.25rem;
   font-weight: 400;
   min-height: 2rem;
   cursor: pointer;
-  margin-left: .125rem;
   padding-bottom: .25rem;
 }
 
@@ -62,13 +81,12 @@
   font-weight: 400;
   margin-top: -.50rem;
   color: $gray-3;
-  margin-left: .6rem;
+  margin-left: .8rem;
 }
 
 
 .bit {
   transition: all 0.25s;
-  margin-left: .5rem;
   margin-top: -.35rem;
 }
 
@@ -81,7 +99,6 @@ hr {
 
 .right-arrow {
   &:before {
-    vertical-align: middle;
     font-size: .75rem;
     content: "+";
     color: $gray-3;

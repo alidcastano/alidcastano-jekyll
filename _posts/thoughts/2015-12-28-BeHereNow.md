@@ -2,8 +2,10 @@
 
 title:  "You are where you need to be"
 image: just-be.jpg
+
 quote: |
     Early in the journey you wonder how long the journey will take and whether you will make it in this lifetime. Later you will see that where you are going is HERE and you will arrive NOW...so you stop asking.” ― Ram Dass
+
 thanks: Leena Heiman, Moises Castano, and Jamie Castano
 
 --- 
