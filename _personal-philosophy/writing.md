@@ -15,13 +15,16 @@ Write for a reader of one: you.
 Writing well means believing in your writing and believing in yourself, taking risks, daring to be different, pushing yourself to excel. You will write only as well as you make yourself write. 
 <small> - excerpt from *On Writing Well* </small>
 
+
+It’s all material… your life has to fuel your work.
+
 Goals:
 
 **Deliver value with every sentence.** Else, be quite.
 
 **Bleed in the first line.** Want people to relate to you? Be human. <small> *- James Altucher* </small>
 
-**Be Honest.** Say what everyone thinks but nobody ever says. 
+**Be Honest.** Say what everyone thinks but nobody ever says. Write what you are afraid to reveal.
 
 **Be specific.** Concrete details are easier to process and derive meaning from than vague abstractions. Be specific about who you were in that moment in time. Only then will people be able to take away their own meaning from your story. 
 
@@ -30,14 +33,17 @@ Goals:
 **Be entertaining** Give the reader an enjoyable surprise. Any number of devices will do the job: humor, anecdote, paradox, an unexpected quotation, a powerful fact, an outlandish detail, an elegant arrangement of words. This is your “style," your personality as you express your ideas on paper.    
 <small> - excerpt from *On Writing Well* </small>
 
+Anecdotes are persuasive. Data dominates.
+
 **Don't go peeing down both legs.** Express your opinion firmly. And don't ask for permission to do it. We know it's your opinion. 
 
 **Use a lot of periods.** Your sentences should be strong enough that you want people to pause and think about it. <small> *- James Altucher* </small>
 
 **Stop caring about what people think.** For each single person you worry about, deduct 1% in quality from your writing. <small> *- James Altucher* </small>
 
-
 The best kind of writing understands you somehow without even knowing you.
+
+Most important thing is saying something that no one else is saying, or even better, can say.
 
 ---
 
@@ -56,10 +62,14 @@ Small quota: Two crappy pages per day. (That way you won't be intimidated, and l
 
 Ask, why am I writing? What excites or frustrates you? 
 
-
 **Watch the Polaroid develop.** You can’t — and, in fact, you’re not supposed to— know exactly what the picture is going to look like until it has finished developing. First you just point at what has your attention and take the picture. <small> - excerpt from *Bird by bird* </small>
 
 **Write freely.** As rapidly as possible throw the whole thing on paper. Never correct or rewrite until the whole thing is down. (Rewrite in process is usually found to be an excuse for not going on.) <small> *- John Steinbeck* </small> 
+
+
+Tell the truth through whichever veil comes to hand — but tell it. 
+<small> Zadie Smith </small>
+
 
 If you can't get started, tell someone what you plan to write about, then write down what you said. <small>*- Paul Graham* </small>
 
@@ -77,7 +87,8 @@ Expect 80% of the ideas in an essay to happen after you start writing it, and 50
 
 The best writing is rewriting. <small>*- E. B. White*</small>
 
-Before rewriting: mull ideas over for a few days before writing; carry a small notebook with you.
+Leave a decent space of time between writing something and editing it. Mull ideas over for a few days before rewriting; carry a small notebook with you. 
+
 
 While editing: When you restart, begin by rereading what you have so far; when you finish, leave yourself something easy to start with.
 
@@ -111,6 +122,9 @@ If a sentence, no matter how excellent, does not illuminate your subject in some
 
 Because the writer who breeds more words than he needs, is making a chore for the reader who reads. <small> *- Dr. Seuss* </small>
 
+Exception: Writing is not an exercise in excision, it’s a journey into sound 
+(think Shakespeare... "tomorrow, and tomorrow, and tomorrow" - one might suffice, but the other two that made the phrase immoral)
+
 ## Write simply 
 
 ASK: Am I using the shortest, most simple words and sentences I can?
@@ -118,6 +132,11 @@ ASK: Am I using the shortest, most simple words and sentences I can?
 My aim is to put down on paper what I see and what I feel in the best and simplest way. <small> *- Ernest Hemingway* </small>
 
 Having good ideas is most of writing well. If you know what you're talking about, you can say it in the plainest words and you'll be perceived as having a good style. <small>*- Paul Graham* </small>
+
+## Write clearly
+
+But being able to wrap your head around a big idea and knowing how to present to the reader? That’s the tough part. 
+
 
 ## Read your work out loud
 
@@ -134,5 +153,16 @@ Present a single idea, one at a time, and let others build upon it.
 
 Writing is like surfing — you are riding stories. You sit there and wait for ideas to come. The present-moment inspired ideas are the ones worth riding, look for fresh waves. When the idea arrives, feel its momentum and ride it out as best as you can, all the way to shore. 
 
+## Productivity 
+
+External deadlines remove the resistance that may otherwise prevent me from getting stuff done.
+
+relationship between structure and spontaneity, discipline and imaginative freedom.
+
+Crack the code of the work first. Understand the whole before you address the particular.
+
+(environment and schedule serves as retrieval cue for relevant knowledge, alleviate attention overload, and induce intense concentration, all in all,encouraging a state of flow)
+
+> "The essayist is a self-liberated man, sustained by the childish belief that everything he thinks about, everything that happens to him, is of general interest. He is a fellow who thoroughly enjoys his work, just as people who take bird walks enjoy theirs...Only a person who is congenitally self-centered has the effrontery and the stamina to write essays." - E.B. White
 
 

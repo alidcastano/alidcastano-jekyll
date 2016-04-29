@@ -7,9 +7,9 @@ slug: DoThis
 date: 2016-04-18
 
 thoughts: |
-    Sivers compresses knowledge from 200+ books he's read into succinct and actionable advice. Though anecdotes and data are helpful to internalize a message, not everyone wants to read 200+ pages of that. And if you trust the person giving just the directive, you've found a loophole.
+    Sivers compresses knowledge from 200+ books he's read into succinct and actionable advice. 
     <br><br>
-    I've personally been thinking a lot about "How to be useful," specifically the idea of sharing everything that you can in public. Siver's definitely exemplifies this in his blog, and it's an idea I also want to model in mine.
+    I've been thinking a lot about "How to be useful," specifically the idea of sharing everything that you can in public. Siver's definitely exemplifies this in his blog, and it's an idea I also want to model in mine.
 
 link: http://bit.ly/1SAr3Nh
 
@@ -70,7 +70,7 @@ And what not to do:
 1. Prepare for the worst 
 2. Expect disaster (and appreciate things more)
 3. Own as little as possible
-4. Choose importunity, not loyalty (do what is best for future of your current situation, loyalty only to most important relationships)
+4. Choose opportunity, not loyalty (do what is best for future of your current situation, loyalty only to most important relationships)
 5. Choose plan with most options (similar to 
 Paul Graham's [Stay Upwind](/StayUpwind))
 6. Avoid planning (max options = no plans)

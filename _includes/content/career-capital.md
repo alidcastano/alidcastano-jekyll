@@ -4,7 +4,7 @@
     <h2> Skills </h2>
     <li>
         <h3> Speaker </h3>
-        I've advised dozens of student on how to improve their presentations and speaking skills and have experience giving workshops to clubs/classes of 35+ people. 
+        I've advised dozens of student on how to improve their presentations and speaking skills and have given workshops to rooms of 35+ people. 
         <h4>Latest engagement</h4>
         <a href="http://www.jlc.org/juvenilesforjustice" target="_blank">
         Juvenile Law Center, March 9th/10th</a> 

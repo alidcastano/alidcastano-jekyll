@@ -5,7 +5,7 @@ $('h1:contains("$$")').addClass("hint");
 $('p:contains("==")').nextAll('p').addClass("bit");
 $('p:contains("==")').nextAll('ul').addClass("bit");
 $('p:contains("==")').nextAll('ol').addClass("bit");
-$('p:contains("==")').nextAll('blockquote').addClass("bit");
+$('p:contains("==")').nextAll('blockquote').addClass("bit quote-bit");
 
 $('ul:contains("&&")').nextUntil('p:contains("&&")').addClass("connect");
 
@@ -22,7 +22,8 @@ $().ready = function() {
 
     $(".stud").click(function() {
       $(this).toggleClass('down-arrow');
-        $(this).nextUntil('hr').toggle(); // let hr in markdown serves div 
+         // let hr in markdown serves div 
+        $(this).nextUntil('hr').slideToggle(300); 
     });
 
 }();

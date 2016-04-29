@@ -18,7 +18,7 @@
     max-width: $content-width + 3rem;
   }
   @include bp-large { margin-left: 5rem; }
-  z-index: 2;
+  z-index: 4;
   overflow:hidden;
 }
 

@@ -77,16 +77,39 @@ abbr {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
-
+  color: $gray-4;
+  position: relative;
+  z-index: 3;
   p:last-child {
     margin-bottom: 0;
   }
 
+  &:before {
+    z-index: -1;
+    display: block;
+    content: "\201C";
+    font-size: 50px;
+    color: $gray-2;
+    position: absolute;
+    left: -8px;
+    top: -3px;
+    @include bp-medium {
+      left: -2px;
+    }
+  }
+
+  cite {
+    display: inline-block;
+    font-style: normal;
+    font-size: .85rem;
+    &:before {
+      content: "-";
+    }
+  }
+
   @media (min-width: 30em) {
     padding-right: 5rem;
-    padding-left: 1.25rem;
+    padding-left: 1.5rem;
   }
 }
 
