@@ -1,7 +1,7 @@
 ---
 
 title: Hi, team Banza.
-logo: banza.jpg
+logo: banza.jpeg
 
 ---
 
