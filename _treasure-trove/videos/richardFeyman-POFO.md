@@ -82,11 +82,15 @@ I'll be referring back to the snippets below whenever I need inspiration on how 
 
 ==
 
-The problem with why, example: Aunt Minnie is in the hospital. Why? Went out on ice and broke her hip. That explanation might satisfy a normal person, but wouldn't satisfy someone who came from another planet. (Why do you go to hospital when hip is broken? How do you get to the hospital? How did she slip on ice--why is ice slippery? Why did she fall down when she slipped? etc.) Same problem when you're explaining technical concepts.
+The problem with why, example: Aunt Minnie is in the hospital. Why? Went out on ice and broke her hip. That explanation might satisfy a normal person, but wouldn't satisfy someone who came from another planet. 
 
-You have to be in some framework that allows something to be true. Otherwise you're perpetually asking why -- have to know what your permitted to understand and what the common ground is with the person whom your explaining a concept to.
+(Why do you go to hospital when your hip is broken? How do you get to the hospital? How did she slip on ice--why is ice slippery? Why did she fall down when she slipped? etc.) Same problem when you're explaining technical concepts.
 
-many different levels, depends on whether you are a student of the subject
+You have to be in some framework that allows something to be true. Otherwise you're perpetually asking why. 
+
+Have to know what your permitted to understand and what the common ground is with the person whom your explaining a concept to...
+
+many different levels of understanding, which depends on whether you are a student of the subject
 
 
 ---
