@@ -10,7 +10,7 @@ link: |
     <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x24gwgc" allowfullscreen></iframe><br /></i>
 
 thoughts: |
-    Fascinating seeing Richard Feyman talk about science, teaching, and work, with such simplicity and cadence that he makes the entire video is thoroughly enjoyable to watch. 
+    Fascinating seeing Richard Feyman talk about science, teaching, and work, with such simplicity and cadence that he makes the entire video thoroughly enjoyable to watch. 
 
 quote: |
     Physics is like sex: sure, it may give some practical results, but that's not why we do it. <br>
