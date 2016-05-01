@@ -61,7 +61,7 @@ example of teaching his son versus his daughter (different hooks to catch differ
 <iframe width="420" height="315" src="https://www.youtube.com/embed/GqvggMpJgL0" frameborder="0" allowfullscreen></iframe>
 
 <br>
-I'll referring back to the snippets below whenever I need inspiration on how to effectively explain a difficult/technical concept (he definitely lives up to his philosophy for teaching described above).
+I'll be referring back to the snippets below whenever I need inspiration on how to effectively explain a difficult concept (he definitely lives up to his philosophy for teaching described above, of being chaotic and trying every possible way to get the point across).
 
 - [0:40]  Jiggling Atoms
 - [11:50] Rubber Bands
