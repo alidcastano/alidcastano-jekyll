@@ -1,15 +1,15 @@
 ---
 
-title: Do This. Directives
+title: "'Do This' Directives"
 author: Derek Sivers
 
 slug: DoThis
 date: 2016-04-18
 
 thoughts: |
-    Sivers compresses knowledge from 200+ books he's read into succinct and actionable advice. 
+    Sivers compresses knowledge from the 200+ books he's read into succinct and actionable advice, or directives.
     <br><br>
-    I've been thinking a lot about "How to be useful," specifically the idea of sharing everything that you can in public. Siver's definitely exemplifies this in his blog, and it's an idea I also want to model in mine.
+    I've personally been thinking a lot about "How to be useful," specifically the idea of sharing everything that you can in public. Siver's definitely exemplifies this in his blog, and it's an idea I also want to model in mine.
 
 link: http://bit.ly/1SAr3Nh
 

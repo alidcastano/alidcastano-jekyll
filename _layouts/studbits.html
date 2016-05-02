@@ -34,21 +34,25 @@ layout: default
     {% if page.format == 'book' %}
     <a class="book-link"
         href="{{page.link}}">more details and reviews</a>
-    {% elsif page.format == 'video' %}
-      {{ page.link }}
-    {% else %}
-       <a class="book-link"
+    {% endif %}
+
+    {% if page.format == 'article' %}
+    <a class="book-link"
         href="{{page.link}}">read full post</a>
     {% endif %}
 
-
   </div>
 
-  <h2 class="my-notes"> my notes </h2>
-  {% if page.directive %}
-  <p class="directive"> {{ page.directive }} </p>
+    {% if page.format == 'video' %}
+      {{ page.link }}
+    {% endif %}
+
+  {% if page.format != 'quote' %}
+    <h2 class="my-notes"> my notes </h2>
+    {% if page.directive %}
+    <p class="directive"> {{ page.directive }} </p>
+    {% endif %}
   {% endif %}
-  
   {{ content }}
 
 </article>

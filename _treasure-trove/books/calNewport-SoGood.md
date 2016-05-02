@@ -14,7 +14,7 @@ directive: |
     build career capital&mdash;and let your passion follow you
 
 thoughts: |
-   The most useful career advice I've read. Which now upon reflection, seems obvious&mdash;goes to show how we can wrap our thoughts around bad advice just cause it's sexier, i.e., follow your passion. If you're unhappy with your current work situation, before you drop everything on a whim, read this book&mdash;I'm glad I did&mdash;and go build some career capital. (Only criticism: very repetitive--I recommend the audio version.)
+   Most useful career advice I've read. I'll admit, most of the insights now upon reflection seem obvious. Only goes to show how easy it is to wrap your thoughts around bad advice just cause it's sexier,i.e., follow your passion. Before you quit your job on a whim, read this book&mdash;I'm glad I did&mdash; and go build some career capital. <br>(Only criticism: very repetitive--I recommend the audio version.)
 
 quote: |
     "Don't follow your passion but let your passion follow you <br>

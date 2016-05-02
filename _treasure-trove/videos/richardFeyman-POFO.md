@@ -7,10 +7,10 @@ slug: POFO
 date: 2016-04-10
 
 link: |
-    <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x24gwgc" allowfullscreen></iframe><br /></i>
+    <iframe frameborder="0" width="400" height="270" src="//www.dailymotion.com/embed/video/x24gwgc" allowfullscreen></iframe><br /></i>
 
 thoughts: |
-    Fascinating seeing Richard Feynman talk about science, teaching, and work, with such simplicity and cadence that he makes the entire video thoroughly enjoyable to watch. 
+    Fascinating to watch Richard Feynman talk about science, teaching, and work. His simplicity and cadence makes the entire video thoroughly enjoyable to watch. I'll be referencing the snippets below whenever I need inspiration on how to effectively and charismatically explain a difficult subject.
 
 quote: |
     Physics is like sex: sure, it may give some practical results, but that's not why we do it. <br>
@@ -61,7 +61,6 @@ example of teaching his son versus his daughter (different hooks to catch differ
 <iframe width="420" height="315" src="https://www.youtube.com/embed/GqvggMpJgL0" frameborder="0" allowfullscreen></iframe>
 
 <br>
-I'll be referring back to the snippets below whenever I need inspiration on how to effectively explain a difficult concept (he definitely lives up to his philosophy for teaching described above, of being chaotic and trying every possible way to get the point across).
 
 - [0:40]  Jiggling Atoms
 - [11:50] Rubber Bands
@@ -76,19 +75,19 @@ I'll be referring back to the snippets below whenever I need inspiration on how 
 
 ----
 
-# !! [14:34] perpetually asking why
+# !! [14:34] the problem with why 
 
 # $$ framework / common ground and edge cases
 
 ==
 
-The problem with why, example: Aunt Minnie is in the hospital. Why? Went out on ice and broke her hip. That explanation might satisfy a normal person, but wouldn't satisfy someone who came from another planet. 
+Example: Aunt Minnie is in the hospital. Why? Went out on ice and broke her hip. That explanation might satisfy a normal person, but wouldn't satisfy someone who came from another planet. 
 
 (Why do you go to hospital when your hip is broken? How do you get to the hospital? How did she slip on ice--why is ice slippery? Why did she fall down when she slipped? etc.) Same problem when you're explaining technical concepts.
 
 You have to be in some framework that allows something to be true. Otherwise you're perpetually asking why. 
 
-Have to know what your permitted to understand and what the common ground is with the person whom your explaining a concept to...
+Have to know what your permitted to understand and what the common ground is with the person whom you're explaining the concept to...
 
 many different levels of understanding, which depends on whether you are a student of the subject
 
