@@ -81,29 +81,36 @@ defaults:
       type: treasure-trove
     values:
       layout: studbits
-      permalink: /book/:title
+      permalink: /book-notes/:title
       format: book
   - scope:
       path: _treasure-trove/articles
       type: treasure-trove
     values:
       layout: studbits
-      permalink: /article/:title
+      permalink: /article-notes/:title
       format: article
   - scope:
       path: _treasure-trove/videos
       type: treasure-trove
     values:
       layout: studbits
-      permalink: /video/:title
+      permalink: /video-notes/:title
       format: video   
   - scope:
       path: _treasure-trove/movies
       type: treasure-trove
     values:
       layout: studbits
-      permalink: /movie/:title
+      permalink: /movie-notes/:title
       format: movie   
+  - scope:
+      path: _treasure-trove/quotes
+      type: treasure-trove
+    values:
+      layout: studbits
+      permalink: /quote-notes/:title
+      format: quote   
 
   # career-capital
   - scope:
