@@ -11,7 +11,7 @@ link: |
 
 thoughts: |
     Ayn rand's provocative books and contrarian philosophy are said to be 
-    over-idealistic, to champion an unrealistic extreme. But in an artificial world, the way I see it, only extremist live naturally. And in my opinion, her convictions lie in an extreme most people can benefit from; they'd likely find themselves in the middle, living more for themselves, with a higher sense of reason, purpose, and self-esteem&mdash;rather than as completely selfish and impalpable human beings. That's at least where I want to find myself, hence my appeal to Rand's novels and subsequent interest in the intricacies of her philosophy, noted below.
+    over-idealistic, to champion an unrealistic extreme. But in an artificial world, the way I see it, only extremist live naturally. And in my opinion, her convictions lie in an extreme most people can benefit from; they'd likely find themselves in the middle, living more for themselves, with a higher sense of reason, purpose, and self-esteem&mdash;rather than as completely selfish and impalpable human beings, as is often criticized. That's at least where I want to find myself, hence my appeal to Rand's novels and subsequent interest in the intricacies of her philosophy, noted below.
 
 quote: | 
     Tell me what a man finds sexually attractive <br>
