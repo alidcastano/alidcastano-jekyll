@@ -17,11 +17,10 @@ thoughts: |
 quote: |
 
 
+published: false
+
 --- 
 
-
-
-----
 
 # !! Don't follow your passion. Chase opportunity. 
 

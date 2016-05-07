@@ -7,6 +7,9 @@ slug: ManInTheArena
 thoughts: |
     I think of this quote, not to excuse any personal failure, but to remind myself to excuse it in others and to help explain my down-failings. No one is perfect. I value someone for who they strive to become.
 
+
+published: false
+
 ---
 
 
