@@ -42,6 +42,11 @@ defaults:
 
   # posts 
   - scope:
+      path: _posts/drafts
+      type: posts 
+    values:
+      layout: post
+  - scope:
       path: _posts/thoughts
       type: posts
     values:
