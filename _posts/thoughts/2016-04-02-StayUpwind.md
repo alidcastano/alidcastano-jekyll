@@ -30,7 +30,7 @@ Any decision made out of fear or laziness--anytime you underestimate your abilit
 
 In the fall semester of my sophomore year, my friend and I got this random food app idea and decided to start a startup. We spent months working on the business plan and pitch deck. A few months in, we felt ready to pitch to investors---only to confront the ill-defined fact that we didn't have a product, only well-thought out idea, whatever that's worth.
 
-My friend and I had to spend the next three weeks trying to find a technical co-founder. While we were eventually able to convince another friend to join us, it was still debilitating for me to realize that, from there on, my success was entirely dependent on someone else. 
+My friend and I had to spend the next three weeks trying to find a technical co-founder. We were eventually able to convince another friend to join us. But it was still debilitating for me to realize that the largest factor to our success was entirely dependent on someone else. 
 
 "Should I learn to code?" It was the first time I had entertained the idea. The only thing I knew about programming courses was how hard and time-consuming they are, because everyone complained about them. All I could picture was the kid who started playing with computers when he was 9. I could never compete with him.  And lingering in the back of my mind was the fact that I didn't take calculus, ergo, I sucked at math. 
 

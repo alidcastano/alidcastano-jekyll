@@ -7,7 +7,7 @@ published: true
 
 --- 
 
-How do people get stuck with jobs they hate? That's one lesson I don't intend to learn the hard way. Which means that along with knowing what to do, I need to know what *not* to do. So I've developed a working theory for both, one that I believe can be handy to the both of us.
+How do people get stuck with jobs they hate? That's one lesson I don't intend to learn the hard way. Which means that along with knowing what to do, I need to know what *not* to do. So I've developed a working theory for both, one that I believe will prove handy for the both of us.
 
 I'm by no means an expert in this subject, but I've drawn on the wisdom of Scott Adams, the creator of the famous Dilbert cartoon. And given that he's predicted [nine out of nine political events](http://blog.dilbert.com/post/136261193951/ranking-the-best-political-pundits-of-2015) that led to the unforeseen Trump nomination, it's evident he understands what factors lead to success better than 99% of America. 
 
