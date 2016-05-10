@@ -53,7 +53,7 @@ Coincidently, that's also the advice famed entrepreneur and investor Marc Andree
 
 Put another way, if your first instinct is to follow your passion, to flee from the drudgery of hard work, your likely to end up like a stray dog, in the streets without the ability to fend for yourself. Your first priority is to develop skills that will allow you to survive and thrive. 
 
-Most students, however, relinquish their side projects and aren't slapped by this realization too late in life, when they already feel trapped. But I'm letting you in on the secret early.
+Most students, however, relinquish their side projects and are slapped by this realization too late in life, when the only practical skills they've developed are exclusive to the job they feel stuck with. But I'm letting you in on the secret early.
 
 The approach, as I've come to see it, is to first develop a base of one or two concrete skills that can be useful anywhere. That way, when you touch base with a specific domain that resonates with you, call it your passion if you like, you can package everything together into your own gift of expertise. 
 
