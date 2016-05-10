@@ -6,7 +6,6 @@ quote: |
     "Don't ignore your dreams; don't work too much; <br>
     say what you think; cultivate friendships; be happy." <br>
     - Paul Graham
-thanks: Moises Castano, Jamie Castano, Leena Heiman, and Sebastian Pinto
 
 ---
 
@@ -29,9 +28,9 @@ Any decision made out of fear or laziness--anytime you underestimate your abilit
 
 ## Only one direction to go: Upwind
 
-In the fall semester of my sophomore year, my friend and I got this random food app idea and decided to start a startup. We spent months working on the business plan and pitch deck. We felt ready to pitch to investors--only to confront the fact that we didn't have a product.  
+In the fall semester of my sophomore year, my friend and I got this random food app idea and decided to start a startup. We spent months working on the business plan and pitch deck. A few months in, we felt ready to pitch to investors---only to confront the ill-defined fact that we didn't have a product, only well-thought out idea, whatever that's worth.
 
-I spent the next three weeks, unsuccessfully, trying to find a technical co-founder. It was debilitating to realize that, from there on, our success was entirely dependent on the off-chance a talented programmer fell on our lap. 
+My friend and I had to spend the next three weeks trying to find a technical co-founder. While we were eventually able to convince another friend to join us, it was still debilitating for me to realize that, from there on, my success was entirely dependent on someone else. 
 
 "Should I learn to code?" It was the first time I had entertained the idea. The only thing I knew about programming courses was how hard and time-consuming they are, because everyone complained about them. All I could picture was the kid who started playing with computers when he was 9. I could never compete with him.  And lingering in the back of my mind was the fact that I didn't take calculus, ergo, I sucked at math. 
 
