@@ -3,13 +3,16 @@
 title: How to make yourself indispensable 
 
 quote: |
+
+image: pretty-good.gif
+
 published: true
 
 --- 
 
-How do people get stuck with jobs they hate? That's one lesson I don't intend to learn the hard way. Which means that along with knowing what to do, I need to know what *not* to do. So I've developed a working theory for both, one that I believe will prove handy for the both of us.
+How, or why, do people get stuck with jobs they hate? That's one lesson I don't intend to learn the hard way. Which means that along with studying what to do, I need to study what *not* to do. So I've formulated a working theory for both, which I believe will prove handy for the both of us.
 
-I'm by no means an expert in this subject, but I've drawn on the wisdom of Scott Adams, the creator of the famous Dilbert cartoon. And given that he's predicted [nine out of nine political events](http://blog.dilbert.com/post/136261193951/ranking-the-best-political-pundits-of-2015) that led to the unforeseen Trump nomination, it's evident he understands what factors lead to success better than 99% of America. 
+I've drawn on the wisdom of Scott Adams, the creator of the famous Dilbert cartoon, to formulate a working theory for both.  Adam's has predicted nine out of nine political events[^fn-Adams]that led to the unforeseen Trump nomination, it's evident he understands what factors lead to success better than 99% of America.
 
 "If you want an average successful life it doesn’t take much planning," Adams says. "Just stay out of trouble, go to school, and apply for jobs you might like." The predicament is that "like" is too loose term for someone young. At such an age, your receptors are stimulated more by certain colors---namely, green and yellow---which makes it easy to like something for the wrong reasons. And like so, most graduates end up with the same 
 mass-produced style of success: a job that pays well, but that you hate.
@@ -33,13 +36,13 @@ Now on to the next logical question on your mind, the question of what specific 
 
 To be clear, the exact sequence of those steps matters. There's this aura in college that you should major in what you like. An aura that most people who feel stuck in their careers were intoxicated by. I know because I've gotten a good whiff of it myself and have felt it's sap.
 
-Who wouldn't prefer and feel more capable studying the intricacies of persuasion, willpower, and Marshmellow Tests more than the idea of having to spend 20+ hours in one week pulling your hairs trying to implementing a chat server? Naturally, I drifted towards studying psychology. I was more "passionate" about it. 
+Who wouldn't prefer and feel more capable studying the intricacies of persuasion, willpower, and Marshmallow Tests more than the idea of having to spend 20+ hours in one week pulling your hairs trying to implementing a chat server? Naturally, I drifted towards studying psychology. I was more "passionate" about it. 
 
-Passion is a wondrous affair, until reality slaps you in the face. My cheeks are tad red from being slapped a few times. When I started blogging and realized I could barely string my thoughts together, let alone withstand the experience of other people scrutinizing them. A school paper, compared to that, is a cinch to do, you write about someone else's thoughts and no one reads it. 
+Passion is a lovely affair, until reality slaps you in the face. My cheeks are tad red from being slapped a few times. When I started blogging and realized I could barely string my thoughts together, let alone withstand the experience of other people scrutinizing them. A school paper, compared to that, is a cinch to do, you write about someone else's thoughts and no one reads it. 
 
 Or when I tried to start my [my first startup](/StayUpwind). A couple months in, my co-founders and I sat to discuss equity. One was a programmer. The other a good communicator. As for me? Well, that's when I fully realized that without a base of concrete skills, all I was, was a passionate idea guy; as rare and valuable as the average student. Even if I did feel more physically and mentally more prepared than them for battle. One was armed with a gun and the other with a knife, and to them, I was just another body.
 
-Passion, I learned, can disguise our fears and prevent us from embracing the hard work that, while excruciating, makes us useful. Think about it, psychology by itself is just interesting bits of knowledge that anyone can learn, and most do enjoy learning. Much less people are willing to put in the hours of difficult, deep work required to become decent writers, or programmers. But only in that way can you bring your ideas to life through stories like [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell), or through code by creating a web app like [Stickk](https://en.wikipedia.org/wiki/StickK). 
+Passion, I learned, can disguise our fears and prevent us from embracing the hard work that, while excruciating, makes us useful. Think about it, psychology by itself is just interesting bits of knowledge that anyone can learn, and most do enjoy learning. Much less people are willing to put in the hours of difficult, deep work required to become decent writers, or programmers. But only in that way can you bring your ideas to life through stories like [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell), or through an app like [Stickk](https://en.wikipedia.org/wiki/StickK). 
 
 When I realized how pointless my existing education was to my goals, I wanted to [drop out](/TheCollegeIllusion). But that too, I realized, would have been an equivalent mistake. What would I have done? College, like it or not, was a time buffer, I needed to use whatever years I had left to prepare myself, to develop concrete skills. 
 
@@ -57,9 +60,11 @@ Most students, however, relinquish their side projects and are slapped by this r
 
 The approach, as I've come to see it, is to first develop a base of one or two concrete skills that can be useful anywhere. That way, when you touch base with a specific domain that resonates with you, call it your passion if you like, you can package everything together into your own gift of expertise. 
 
-If you do so, you'll be, as I plan to be, in the likes of the Scott Adam's, Arnold Schwarzenegger's, and Marc Andreeseen's of the world; uniquely valuable, and not to mention, very rich.
+If you do so, you'll be, as I plan to be, in the likes of the Scott Adam's, Arnold Schwarzenegger's, and Marc Andreeseen's of the world; uniquely valuable.
 
 ----
 
 
+
+[^fn-Adams]: [nine out of nine political events](http://blog.dilbert.com/post/136261193951/ranking-the-best-political-pundits-of-2015)
 
