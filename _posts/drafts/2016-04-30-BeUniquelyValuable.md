@@ -1,6 +1,6 @@
 ---
 
-title: A peek inside a life filled with work you hate
+title: How to make yourself indispensable 
 
 quote: |
 
@@ -9,7 +9,9 @@ published: true
 --- 
 
 
----
+
+----
+
 
 How do people get stuck with jobs they hate? That's one lesson I don't intend to learn the hard way. Which means that along with knowing what to do, I need to know what not to do. So I've developed a working theory for both, one that I believe will prove handy for the both of us.
 
