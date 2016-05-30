@@ -1,6 +1,6 @@
 ---
 
-title:  The true cause of all your problems
+title:  Is it their fault, or yours?
 image: 99-problems.png
 quote: |
     “Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.” - Viktor Frankl

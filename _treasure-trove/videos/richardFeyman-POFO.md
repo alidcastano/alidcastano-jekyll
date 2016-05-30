@@ -10,7 +10,9 @@ link: |
     <iframe frameborder="0" width="400" height="270" src="//www.dailymotion.com/embed/video/x24gwgc" allowfullscreen></iframe><br /></i>
 
 thoughts: |
-    Fascinating to watch Richard Feynman talk about science, teaching, and work. His simplicity and cadence makes the entire video thoroughly enjoyable to watch. I'll be referencing the snippets below whenever I need inspiration on how to effectively and charismatically explain a difficult subject.
+    Fascinating to watch the legendary Richard Feynman talk about science, teaching. His delight in knowledge, along with the simplicity and cadence in which he talks, makes the entire film thoroughly enjoyable to watch. 
+    <br><br>
+    I'll be referencing the snippets below whenever I need inspiration on how to effectively (and charismatically) teach a difficult subject.
 
 quote: |
     Physics is like sex: sure, it may give some practical results, but that's not why we do it. <br>
@@ -18,6 +20,17 @@ quote: |
 
 
 ---
+
+# !! [5:30] knowing a label does not mean understanding  
+
+==
+
+"You can know the name of that bird in all the languages of the world [e.g. names in different languages], but when you're finished, you'll know absolutely nothing whatever about the bird. You'll only know about humans in different places, and what they call the bird. So let's look at the bird and see what it's doing-that's what counts." 
+
+I learned very early the difference between knowing the name of something and knowing something.
+
+---
+
 
 # !! [28:24] out of complexity, simplicity appears 
 

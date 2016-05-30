@@ -10,8 +10,7 @@ link: |
     <iframe width="420" height="315" src="https://www.youtube.com/embed/1ooKsv_SX4Y" frameborder="0" allowfullscreen></iframe>
 
 thoughts: |
-    Ayn rand's provocative novels and contrarian philosophy are said to be 
-    over-idealistic, to champion an unrealistic extreme. But in an artificial world, the way I see it, only extremist live naturally. And in my opinion, her convictions lie in an extreme most people can benefit from; they'd likely find themselves in a happy middle, living more for themselves, with a higher sense of reason and purpose&mdash;rather than as completely selfish and impalpable human beings, as is often criticized. That's at least where I want to find myself, hence my appeal to Rand's novels and subsequent interest in the intricacies of her philosophy, noted below.
+    The ideals in Ayn rand's contrarian novels are said to be to champion an unrealistic extreme. But her convictions lie in an extreme most people can benefit from; they'd likely find themselves in a happy middle, living more for themselves, with a higher sense of reason and purpose&mdash;rather than as completely selfish and impalpable human beings, as is often criticized. That's at least where I want to find myself, hence my appeal to Rand's novels, and interest in the intricacies of her objectivist philosophy.
 
 quote: | 
     Tell me what a man finds sexually attractive <br>
@@ -134,25 +133,21 @@ there's no such thing as an orderly universe, our whole concept of order comes f
 
 people accepted because nobody can live without a philosophy
 
-religion is primitive form of philosophy, system of background premises
+but religion is primitive form of philosophy, system of background premises
 
-religion gives you canned answers, and tells you to rely on it and you don’t need to think---give up reason
+religion gives you canned answers, and tells you to rely on it and you don’t need to think---give up reason....gives man permission to function irrationally, to accept something outside the power of their reason
 
-religion gives man permission to function irrationally, to accept something outside the power of their reason
-
-use your life to best of your understanding, if you go by emotions, not reason, it means you are going against reality
-
-Self-esteem is precondition of freedom. If we have no self-esteem any demagogue can have us; be anxious to follow anyone because you don't trust yourself 
+use your life to the best of your understanding. If you go by emotions, not reason, it means you are going against reality
 
 you start with what exists as a fact and you see how much you can learn about it
 
-"I will not die.  The world that will end"
+"I will not die. The world that will end"
 
 ---
 
 /**
 
-(I often hear people call Ayn Rand a hypocrite. She lived off Social Security, they say, the very system she condemned. Whether she did or not, doesn't make a difference to me---I've learned not to judge the [man in the arena](/quote-notes/ManInTheArena). Nonetheless, I wasn't sure how to explain or reconcile any form of charity with her philosophy, so below are the notes I gathered on the subject.)
+(I often hear people call Ayn Rand a hypocrite, because "she lived off Social Security, the very system she condemned." Whether she did or not, doesn't make a difference to me---I've learned not to judge the [man in the arena](/quote-notes/ManInTheArena). But I still wasn't sure how to reconcile any form of charity with her philosophy, so below are notes I gathered on the subject.)
 
 **\
 

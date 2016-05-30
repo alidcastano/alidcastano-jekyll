@@ -132,7 +132,8 @@ a[href^="#fn:"],
 // Back to footnote link
 a[href^="#fnref:"] {
   display: inline-block;
-  margin-left: .1rem;
+  font-size: 70%;
+  margin-right: .05rem;
   font-weight: bold;
 }
 

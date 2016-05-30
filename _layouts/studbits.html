@@ -19,9 +19,9 @@ layout: default
       <time class="book-details" 
         datetime="{{ page.date | date_to_xmlschema }}">
         {% if page.format == 'book' %}
-        read: {{ page.date | date: '%B %Y' }}
+        read: {{ page.date | date: "%Y-%m-%d" }}
         {% else %}
-        discovered: {{ page.date | date: '%B %Y' }}
+        discovered: {{ page.date | date: "%Y-%m-%d" }}
         {% endif %}</time>
 
       {% if page.format == 'book' %}

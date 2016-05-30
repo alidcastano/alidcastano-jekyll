@@ -5,9 +5,10 @@ $('h1:contains("$$")').addClass("hint");
 $('p:contains("==")').nextAll('p').addClass("bit");
 $('p:contains("==")').nextAll('ul').addClass("bit");
 $('p:contains("==")').nextAll('ol').addClass("bit");
+$('p:contains("==")').nextAll('h3').addClass("bit");
+$('p:contains("==")').nextAll('h4').addClass("bit");
 $('p:contains("==")').nextAll('blockquote').addClass("bit quote-bit");
 
-$('ul:contains("&&")').nextUntil('p:contains("&&")').addClass("connect");
 
 /*** when not to create stud and bits **/
 $('p:contains("/**")').nextUntil('p:contains("**\")').removeClass('stud');
@@ -43,9 +44,6 @@ $('p').html(function (i, t) {
     return t.replace('==', '<span class="hidden">==</span>');
 })
 
-$('ul').html(function (i, t) {
-    return t.replace('&&', '<span class="hidden">&&</span>');
-})
 
 $('p').html(function (i, t) {
     return t.replace('/**', '<span class="hidden">/**</span>');

@@ -14,8 +14,7 @@ directive: |
     your startup is your utopia&mdash;design your perfect world
 
 thoughts: |
-    Must-read for any aspiring entrepreneur. This is a short read, packed with profound insights from Derek Siver's experience starting CD Baby&mdash;a project which came about by accident turned into a business he sold years later for $22M.
-    It's easy to get lost in the hype of starting a business and lose sight of why you're doing it in the first place; Siver's story and insights serve as a stirring reminder that you can do things your own way and as a side effect, still be successful.
+    Must-read for any aspiring entrepreneur. A short read, packed with profound insights from Derek Siver's experience starting his first business, CD Baby. His story serves as a stirring reminder that you can do things your own way and as a side effect, still be successful.
 
 quote: |
     "If you think true love needs to be like Romeo and Juliet, you'll overlook a great relationship that grows slowly. If you think your life purpose needs to hit you like a lighting bolt, you'll overlook the day to day things that fascinate you." - Derek Sivers
