@@ -28,7 +28,8 @@ Except, I can't just drop fear. It's a slimy sucker, stuck to every idea. I have
 
 I'm reminded of a story by E.B. White. While visiting a farmer friend, White learned that the electrified fences keeping his friend's cows trapped, didn't have any current running through them. The cows learned to stay away the first few days, his friend explained, and after that you don't need the current. "Rise up, cows!" White wrote, "Take your liberty while despots snore." 
 
-Fear has no current, and in that same respect, no weight---just empty baggage. But my inaction, which prevented me from experiencing it for what it is, gave it weight.
+My inaction, too, has prevented me from experiencing fear for what it is: 
+without current, and in that same respect, without weight--- it's just empty baggage. 
 
 Whoever said the journey of a thousand miles begins with a single step, must have been a liar, or he must have had some freakishly long legs. To me, starting has always like one big, scary jump. But I'm holding less weight now; I'm finally ready to make it. 
 
