@@ -20,23 +20,22 @@ Though Castano Fitness likely seemed like an excuse for two brothers to flaunt t
 
 Even more, it taught to me value my thoughts, my ideas, my work. I could use the little I knew, to help other people who knew less---and some people even valued the advice enough to pay for it. A few months in, I sold my first program and made my first pay check. I never saw any of it as work, but Castano Fitness was my first business. That idea, that I can make a difference and a living doing work I enjoy, is a feeling that thankfully, I haven't been able to shake off. 
 
-Here's my problem. College came, and I choked. Something caused me to stop Castano Fitness. I'm not sure exactly what. All I truly know is that along with all my fitness notes, ideas, and aspirations, I’ve also been carrying a bunch of excuses, or fears, along.  
+Here's my problem. College came, and I choked. Something caused me to stop Castano Fitness. I'm not sure exactly what. All I truly know is that along with all my fitness notes, ideas, and aspirations, I’ve also been carrying a bunch of excuses, or fears, along. 
 
-And here's my bigger problem. I always refer to college as [a time buffer](/BeUniquelyValuable)---four years before you enter the real world, four years to prepare for the life you want. But now, I have one year left. And I've been preparing too long in the comfort of silence, neglecting the emotional aspect of skill and the positive value of having people judge my work. But putting my work out there, bringing an idea to life, is painful. Indeed, what makes this post hard to write, is that I know at this point, it'll be one of the few I've shared. 
+And here's my bigger problem. I always refer to college as [a time buffer](/BeUniquelyValuable)---four years before you enter the real world, four years to prepare for the life you want. But now, I have one year left. And I've been preparing too long in the comfort of silence, neglecting the emotional aspect of skill; and the positive value of having people judge my work however painful letting them may be. Indeed, what makes this post hard to write, is that I know at this point, it'll be one of the few I've shared. 
 
-I feel like I'm at an airport carrying too much weight in my bag. My life's about to depart, and I have to either drop my ideas or my fears, to move forward; I can't afford the price of carrying both.
+I feel like I'm at an airport carrying too much weight in my bag. My life's about to depart, and I have to either drop my ideas or my fears, to move forward; I can't afford the price of carrying them both.
 
-Except, I can't just drop fear. It's a slimy sucker, stuck to every idea. I have no choice but to bring it with me. My only choice, is to see fear for what it is.
+Except, I can't just drop fear---it's a slimy sucker, stuck to every idea. I have no choice but to bring it with me. My only choice, is to see fear for what it is.
 
 I'm reminded of a story by E.B. White. While visiting a farmer friend, White learned that the electrified fences keeping his friend's cows trapped, didn't have any current running through them. The cows learned to stay away the first few days, his friend explained, and after that you don't need the current. "Rise up, cows!" White wrote, "Take your liberty while despots snore." 
 
-My inaction, too, has prevented me from experiencing fear for what it is: 
-without current, and in that same respect, without weight--- it's just empty baggage. 
+My inaction, too, has prevented me from experiencing fear for what it is: like the fence without current, harmless, weightless---it's just empty baggage. 
 
-Whoever said the journey of a thousand miles begins with a single step, must have been a liar, or he must have had some freakishly long legs. To me, starting has always like one big, scary jump. But I'm holding less weight now; I'm finally ready to make it. 
+Whoever said the journey of a thousand miles begins with a single step, must have been a liar, or he must have had some freakishly long legs. To me, starting has always felt like one big, scary jump. But I'm holding less weight now; I'm finally ready to make it. 
 
-I'm ready to announce: I'm bringing Castano Fitness back to life. Except, I've waited so long, that now I have to do so in a sort of Frankensteinish manner, as I try to rescue those parts still alive inside me (while also convincing my brother Moises to get back in shape and join me, again). Indeed, it'll start out as a somewhat ugly, but sentient project. But I've seen how horrific the existing fitness advice is, so I'm not scared. And I know that with your support and feedback, this project will turn it into something beautiful.
+I'd like to announce: I'm bringing Castano Fitness back to life. Except, I've waited so long, that now I have to do so in a sort of Frankensteinish manner, as I try to rescue those parts still alive inside me (while also convincing my brother Moises to get back in shape and join me, again). Indeed, it'll start out as a somewhat ugly, but sentient project. But I've seen how horrific the existing fitness advice is, so I'm not scared. And I know that with your support and feedback, this project will turn it into something beautiful.
 
-More details to come soon; but you can expect this post to be one of the many I'm going to make regarding fitness. Though this post will be the most important, at least for me; because its marks the start.
+More details to come soon; but you can expect this post to be one of the many I'm going to make regarding fitness. Though it'll be the most important one, at least for me; because it marks the start.
 
 
