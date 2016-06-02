@@ -31,9 +31,9 @@
 
 
 {% if page.type == post %}
+{% if page.quote %}
 <div class="footer-quote fade-in"> 
-  {% if page.quote %}
   <p class="post-quote">{{ page.quote }} </p>
-  {% endif %}
 </div>
+{% endif %}
 {% endif %}
