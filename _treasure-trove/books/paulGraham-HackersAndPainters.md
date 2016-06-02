@@ -14,7 +14,7 @@ thoughts: |
     A collection of brilliant essays on being a nerd, making wealth, questioning norms, deciphering good design. All round great read.
 
 quote: |
-    Make something people want. - Paul Graham
+    The most important thing is to be able to think what you want, not to say what you want. And if you feel you have to say everything you think, it may inhibit you from thinking improper thoughts. - Paul Graham
 
 
 ---
