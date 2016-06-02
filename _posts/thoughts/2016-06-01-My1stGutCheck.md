@@ -3,6 +3,8 @@
 layout: post
 title: No more excuses &mdash; it's time for my first gut check  
 
+image: castanofitness.jpg
+
 ---
 
 <small> <i> 
@@ -33,7 +35,7 @@ without current, and in that same respect, without weight--- it's just empty bag
 
 Whoever said the journey of a thousand miles begins with a single step, must have been a liar, or he must have had some freakishly long legs. To me, starting has always like one big, scary jump. But I'm holding less weight now; I'm finally ready to make it. 
 
-I'm ready to announce: I'm bringing Castano Fitness back to life. Except, I've waited so long, that now I have to do so in a sort of Frankensteinish manner, as I try to rescue those parts still alive inside me (while also convincing my brother, Moises, to get back in shape and join me, again). Indeed, it'll start out as a somewhat ugly, but sentient project. But I've seen how horrific the existing fitness advice is, so I'm not scared. And I know that with your support and feedback, this project will turn it into something beautiful.
+I'm ready to announce: I'm bringing Castano Fitness back to life. Except, I've waited so long, that now I have to do so in a sort of Frankensteinish manner, as I try to rescue those parts still alive inside me (while also convincing my brother Moises to get back in shape and join me, again). Indeed, it'll start out as a somewhat ugly, but sentient project. But I've seen how horrific the existing fitness advice is, so I'm not scared. And I know that with your support and feedback, this project will turn it into something beautiful.
 
 More details to come soon; but you can expect this post to be one of the many I'm going to make regarding fitness. Though this post will be the most important, at least for me; because its marks the start.
 
