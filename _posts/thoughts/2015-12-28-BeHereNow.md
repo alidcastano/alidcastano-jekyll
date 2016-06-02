@@ -33,13 +33,6 @@ And so are you.
 So let's stop rushing or pretending to be anywhere else. :)
 
 
-
 [Be Here Now]: http://www.amazon.com/Be-Here-Now-Ram-Dass/dp/0517543052/ref=sr_1_1?ie=UTF8&qid=1458877302&sr=8-1&keywords=be+here+now
-
-
-
-
-
-
 
 
