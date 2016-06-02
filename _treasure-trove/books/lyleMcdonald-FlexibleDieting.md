@@ -11,7 +11,6 @@ date: 2014-10-06
 rating: 8
 
 thoughts: One of the few diet books that doesn't just spoon feed you a short-term strategy. Lyle walks you through every step of his reasoning, and helps you set up a long term diet, tailored to your needs.
-
    
 ---
 
