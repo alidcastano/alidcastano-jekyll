@@ -1,30 +1,39 @@
-{% if page.footer != 'none' %}
-<footer class="site-footer fade-in" id="footer">
 
-  {% if page.type == 'post' %}
-  <div class="read-next">  Read Next: 
-    {% if page.previous.url %}
-    <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
-    {% else if page.next.url %}
-    <a class="next-post" href="{{page.next.url}}">{{page.next.title}}</a>
-    {% else %}
-    {% endif %}
-  </div>
+{% if page.type == post %}
+<div class="share fade-in">
+  {% include share-posts.html %}
+
+</div>
+
+<div class="read-next">  
+  {% if page.layout == 'studbits' %} Up Next: {% else %} Read Next: {% endif %}
+  {% if page.previous.url %}
+  <a class="prev-post" href="{{page.previous.url}}">{{page.previous.title}}</a>
+  {% else if page.next.url %}
+  <a class="next-post" href="{{page.next.url}}">{{page.next.title}}</a>
+  {% else %}
   {% endif %}
+</div>
+{% endif %}
   
 
-  <div class="bottom-page"> 
-  {% if page.quote %}
-  <p class="post-quote"> {{ page.quote }} </p>
-  {% endif %}
+{% if page.footer != 'none' %}
+<footer class="site-footer" id="footer">
 
     <a href="/" class="back-home">Back Home</a></p> 
 
     <div class="copyright"> 
       <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
     </div>
-  </div>
-
 </footer>
 {% endif %}
 
+
+
+{% if page.type == post %}
+<div class="footer-quote fade-in"> 
+  {% if page.quote %}
+  <p class="post-quote">{{ page.quote }} </p>
+  {% endif %}
+</div>
+{% endif %}
