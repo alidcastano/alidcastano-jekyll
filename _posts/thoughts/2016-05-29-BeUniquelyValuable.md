@@ -2,8 +2,6 @@
 
 title: How to make yourself indispensable
 
-quote: |
-
 --- 
 
 

@@ -18,7 +18,9 @@
   
 
 {% if page.footer != 'none' %}
-<footer class="site-footer" id="footer">
+<footer class="site-footer 
+    {% if page.quote == null %} extra-margin {% endif %}" 
+    id="footer">
 
     <a href="/" class="back-home">Back Home</a></p> 
 

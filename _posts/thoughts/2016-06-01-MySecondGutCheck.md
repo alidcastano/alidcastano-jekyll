@@ -8,7 +8,8 @@ image: SFB.png
 ---
 
 <small> <i> 
-Note: This post, as you'll see, is primarily meant for me. Though I do hope, you find your own truth in it as well. </i> </small>
+Note: This post, as you'll see, is primarily meant for me. Though I do hope, you find your own truth in it as well. 
+</i> </small>
 
 Repeatedly, in the last few years, I’ve turned to the same folder in my Evernote, and written on the same topic in my Moleskine. Like all the stuff we keep packed away and hidden in the attic, I continued to shelve away each idea, and with it, the feeling the idea stirred inside me. I figured I’d use the idea later, and the feeling would still be there.
 
