@@ -4,18 +4,20 @@ title: It's time for my second gut check
 
 image: SFB.png
 
+published: false
 
 ---
 
+(monetize the dream)
 <small> <i> 
 Note: This post, as you'll see, is primarily meant for me. Though I do hope, you find your own truth in it as well. 
 </i> </small>
 
-Repeatedly, in the last few years, I’ve turned to the same folder in my Evernote, and written on the same topic in my Moleskine. Like all the stuff we keep packed away and hidden in the attic, I continued to shelve away each idea, and with it, the feeling the idea stirred inside me. I figured I’d use the idea later, and the feeling would still be there.
+Repeatedly, in the last few years, I’ve turned to the same folder in my Evernote, and written on the same topic in my Moleskine. Like all the stuff we keep packed away and hidden in the attic, I continued to shelve away each idea, and with it, the feeling the idea stirred inside me. 
 
 In *ScrewTape Letters*, C.S. Lewis warns about such passive habits: “The more often he feels without acting, the less he will be able ever to act, and, in the long run, the less he will be able to feel.” 
 
-Indeed, there's a stack of ideas, a feeling, a project, I must bring back to life; or better said, I need the project to bring me back to life---so that I can feel again. 
+Indeed, there's a stack of ideas, a feeling, a project, I now must bring back to life; or better said, I need the project to bring me back to life---so that I can feel again. 
 
 I want to feel the same aliveness I felt in 2012; the year my brother and I started Castano Fitness.
 
@@ -39,8 +41,6 @@ My inaction, too, has prevented me from experiencing fear for what it is. Like t
 
 Indeed, that's what makes this post hard to write---that I know I'm going to share it, and it'll be one of the few I've shared. (At least I can find solace in this form of meta writing.)
 
-Whoever said the journey of a thousand miles begins with a single step must have been a liar, or must have had some freakishly long legs. That first step, for me, has always felt more like one big, scary jump.  Either way, I'm carrying less weight with me now as I write this; I'm ready to make the leap.
+Whoever said the journey of a thousand miles begins with a single step must have been a liar, or must have had some freakishly long legs. That first step, for me, has always felt more like one big, scary jump.  Either way, I'm carrying less weight with me now. With Castano Fitness, I experienced the power that one idea, not shelved away, can have; and I'm ready to take another idea out and make that leap again.
 
-With Castano Fitness, I experienced the power that one idea, not shelved away, can have. I'd like to take another one out now, and introduce you to my new project: Strive For Balance. 
-
-More details to come soon; but you can expect this post to be one of the many I'm going to make regarding fitness. Though this one, will be the most important; because it marks the start.
+I'd like to introduce you to my new project: Strive For Balance. More details to come soon; but you can expect this post to be one of the many I'm going to make regarding fitness. Though this post, will be the most important; because it marks the start.
