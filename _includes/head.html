@@ -10,6 +10,16 @@
     {% endif %}
   </title>
 
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/styles.scss">
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
+
+  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+
   {% if page.type == "posts" %}
   <!-- facebook Open Graph Metadatas -->
   <meta property="fb:admins" content="{{ site.fb_admins }}">
@@ -49,12 +59,4 @@
         content="{% if page.image %}{{ site.url }}/img/posts/{{ page.image }}{% endif %}">
   {% endif %}
 
-
-
-  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
-  
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
-
-  <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
 </head>

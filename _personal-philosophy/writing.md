@@ -164,5 +164,3 @@ Crack the code of the work first. Understand the whole before you address the pa
 (environment and schedule serves as retrieval cue for relevant knowledge, alleviate attention overload, and induce intense concentration, all in all,encouraging a state of flow)
 
 > "The essayist is a self-liberated man, sustained by the childish belief that everything he thinks about, everything that happens to him, is of general interest. He is a fellow who thoroughly enjoys his work, just as people who take bird walks enjoy theirs...Only a person who is congenitally self-centered has the effrontery and the stamina to write essays." - E.B. White
-
-

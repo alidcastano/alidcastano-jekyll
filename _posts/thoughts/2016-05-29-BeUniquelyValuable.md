@@ -19,10 +19,10 @@ Another way I think of this approach, is as Cal Newport advocates: [become so go
 
 When I think of successful people I admire, all of them followed some variety of this path, as well. A notable example is Arnold Schwarzenegger. On the basis of his acting alone, Arnold was in no way remarkable, nor did he have to be. Arnold was able to leverage his bodybuilding persona to create his own niche as an actor; the roles he played were as if made exclusively for him.
 
-In a similar way, the approach is to develop a unique mix of skills so that you'll be indispensable in any domain you chose enter later. But, obviously, not all of us will have the same outright good fortune as Arnold. We need to leave less wiggle room for luck. The most robust strategy I've come across is from startup mastermind Paul Graham. 
+In a similar way, the approach is to develop a unique mix of skills so that you'll be indispensable in any domain you chose enter later. Not all of us, however, will have the same outright good fortune as Arnold. We need to leave less wiggle room for luck. The most robust strategy I've come across is from startup mastermind Paul Graham. 
 His heuristic: [stay upwind](/StayUpwind), take the harder path earlier on.
 
-The heuristic is crucial to your choice skills and the timing which you choose to develop them. But in this regard, unfortunately, many ambitious people are ill-advised. In college specially, there's this aura that you should first study what you like, an aura that many students are suffocated by---I know because I've gotten a good whiff of its effects myself. 
+The heuristic is crucial to your choice skills and the timing which you choose to develop them. In this regard, however, many ambitious people are ill-advised; in college specially. There's this aura in college that you should first study what you like---one that many students are suffocated by. I only know, because I've gotten a good whiff of its effects myself. 
 
 What undergraduate wouldn't prefer and feel more capable studying the intricacies of persuasion, willpower, and [Marshmallow Tests]() more than the idea of having to spend 20+ hours pulling their hairs trying to implementing a chat server? Naturally, I drifted towards studying psychology rather than programming; I was more "passionate" about it. 
 
