@@ -3,7 +3,9 @@
 title:               Alid Castano
 tagline:             Strive For Balance
 url:                 http://alidcastano.com
+baseurl:              ""
 analytics_id:        UA-53335201-1
+port:                4444
 
 # About/contact
 author:
