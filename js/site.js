@@ -1,12 +1,12 @@
 // 
 // so that subscription form appears / disappears on click 
 //
-$('#subscription-form').hide();
+$('.subscription-form').hide();
 
 $().ready = function() {
     $("#trigger-form").click(function(e) {
-      $('#subscription-form').show();
-      $('#subscription-form').addClass('slide-up').removeClass('slide-down');
+      $('.subscription-form').show();
+      $('.subscription-form').addClass('slide-up').removeClass('slide-down');
       e.preventDefault();
     });
 
@@ -14,7 +14,7 @@ $().ready = function() {
 
 $().ready = function() {
     $("#close-form").click(function() {
-      $('#subscription-form').removeClass('slide-up').addClass('slide-down');
+      $('.subscription-form').removeClass('slide-up').addClass('slide-down');
     });
 
 }();
