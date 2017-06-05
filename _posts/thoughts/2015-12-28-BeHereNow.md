@@ -8,7 +8,7 @@ quote: |
 
 --- 
 
-My first attempt at letting go of attachment was an expensive one. I had finished reading, *[Be Here Now]()*, a book on spirituality and meditation. Which I started reading because it had a profound impact on Steve Jobs--and now, after finishing, on me as well. A feeling inside pressed upon me to be more conscious, less attached, more Zen. 
+My first attempt at letting go of attachment was an expensive one. I had finished reading, *[Be Here Now]()*, a book on spirituality and meditation, which I started reading because it had a profound impact on Steve Jobs--and now, after finishing, on me as well. A feeling inside pressed upon me to be more conscious, less attached, more Zen. 
 
 I wanted my life to immediately reflect this new mode of being. I decided to start by analyzing the place where I spend most of my time, my room. There's so much stuff in here I don't *need*, I thought. I should get rid of it. 
 
